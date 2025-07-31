@@ -8,7 +8,7 @@ publish: true
 
 - [[Glarity]]
 - [[HARPA AI]]
-- [[relingo]]
+- [[Relingo]]
 - [[v2ex plus]]
 - [[youtube 双字幕]]
 
@@ -24,7 +24,7 @@ publish: true
 - [[V2EX Polish]]
 - [[沉浸式翻译]]
 - [[tampermonkey|篡改猴]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
+- [[Cubox]]
 - [[沉浸式翻译]]
 
 ## 2025-06-25新

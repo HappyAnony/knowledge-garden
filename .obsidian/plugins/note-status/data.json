@@ -1,4 +1,5 @@
 {
+  "fileExplorerIconPosition": "file-name-left",
   "statusColors": {
     "active": "var(--text-success)",
     "onHold": "var(--text-warning)",
@@ -9,33 +10,34 @@
     "true": "#ffffff",
     "false": "#ffffff"
   },
-  "showStatusBar": false,
-  "autoHideStatusBar": true,
-  "customStatuses": [
-    {
-      "name": "true",
-      "icon": "🏹",
-      "description": "已发布"
-    },
-    {
-      "name": "false",
-      "icon": "💧"
-    }
-  ],
+  "showStatusBar": true,
+  "autoHideStatusBar": false,
+  "customStatuses": [],
   "showStatusIconsInExplorer": true,
-  "hideUnknownStatusInExplorer": false,
-  "collapsedStatuses": {},
-  "compactView": false,
+  "hideUnknownStatusInExplorer": true,
   "enabledTemplates": [
-    "minimal"
+    "colorful"
   ],
-  "useCustomStatusesOnly": true,
-  "useMultipleStatuses": true,
-  "tagPrefix": "publish",
-  "strictStatuses": false,
-  "excludeUnknownStatus": true,
+  "useCustomStatusesOnly": false,
+  "useMultipleStatuses": false,
+  "tagPrefix": "notestatus",
+  "strictStatuses": true,
   "quickStatusCommands": [
     "active",
-    "completed"
-  ]
+    "completed",
+    "false",
+    "true",
+    "colorful:idea",
+    "colorful:completed",
+    "colorful:inProgress"
+  ],
+  "unknownStatusIcon": "",
+  "unknownStatusColor": "#8b949e",
+  "statusBarNoStatusText": "No status",
+  "statusBarShowNoStatusIcon": false,
+  "statusBarShowNoStatusText": false,
+  "vaultSizeLimit": 15000,
+  "collapsedStatuses": {},
+  "compactView": false,
+  "excludeUnknownStatus": true
 }

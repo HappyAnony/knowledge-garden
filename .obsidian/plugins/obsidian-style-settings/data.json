@@ -235,7 +235,7 @@
   "V1-Willemstad-Colours@@color-rainbow-l-presets": "default",
   "V1-Willemstad-Colours@@color-accent-l-ch-presets": "ssopt-col-accent-l-default",
   "V1-Willemstad-Colours@@color-base-l-l-presets": "ssopt-col-base-lightness-l-cinematic",
-  "V1-Willemstad-Colours@@color-base-l-ch-presets": "ssopt-col-base-tone-l-monet",
+  "V1-Willemstad-Colours@@color-base-l-ch-presets": "ssopt-col-base-tone-l-vangogh",
   "V1-Willemstad-UI@@nav-title-margin": 2,
   "V1-Willemstad-UI@@ssopt-status-bar-float-not": false,
   "V1-Willemstad-UI@@ssopt-status-bar-size": "default",
@@ -253,5 +253,16 @@
   "V1-Willemstad-UI@@status-bar-max-width": 85,
   "V1-Willemstad-UI@@status-bar-glass-blur": 4,
   "V1-Willemstad-Root@@yes-shadows": false,
-  "V1-Willemstad-Editor@@ssopt-focused-mode": false
+  "V1-Willemstad-Editor@@ssopt-focused-mode": false,
+  "V1-Willemstad-Editor@@ssopt-headers-custom-colours": false,
+  "V1-Willemstad-Editor@@undl-text-norm": "default",
+  "V1-Willemstad-Editor@@undl-hlink": "default",
+  "V1-Willemstad-Ancillaries@@ssopt-callout-style": "0",
+  "V1-Willemstad-Ancillaries@@ssopt-callout-standard": false,
+  "V1-Willemstad-Ancillaries@@ssopt-callout-no-hover": true,
+  "V1-Willemstad-Editor@@ssopt-block-width-bases": false,
+  "V1-Willemstad-Editor@@ssopt-bases-no-edit": true,
+  "V1-Willemstad-Editor@@ratio-bw-bases-source": 0.5,
+  "V1-Willemstad-Editor@@magnifier-bw-bases": 1.5,
+  "V1-Willemstad-Editor@@ssopt-standard-bases-colours": false
 }

@@ -1,14 +1,11 @@
 ---
+publish: true
 date created: 2022-08-06
 date modified: 2025-07-12
 tags:
   - 本库教程
 title: README
-publish: true
-canvas-edges:
-  - "[[第二大脑]]"
 ---
-
 <h1 align="center">oldwinterの数字花园</h1>
 <img src="https://pub-pic.oldwinter.top/2025/07/7b98f18cfd7da449094dc1496f60d26b.svg">
 <p align="center">

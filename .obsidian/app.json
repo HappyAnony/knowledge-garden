@@ -7,10 +7,7 @@
   "attachmentFolderPath": "Extras/Attachments",
   "spellcheck": false,
   "userIgnoreFilters": [
-    "Spaces/4-Archive/",
-    "Sources/Clippings/",
-    "Sources/CuboxSync/",
-    "Sources/WuCaiSync /"
+    "Spaces/4-Archive/"
   ],
   "useTab": true,
   "tabSize": 4,

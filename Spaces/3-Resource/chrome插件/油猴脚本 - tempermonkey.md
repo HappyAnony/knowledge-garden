@@ -8,8 +8,10 @@ tags:
 是否有firefox版本: true
 设置同步: google drive
 publish: true
+icon: https://pub-pic.oldwinter.top/2025/07/7f5747b8e51cc963fc050525516c131d.png
 ---
 
+![image.png](https://pub-pic.oldwinter.top/2025/07/7f5747b8e51cc963fc050525516c131d.png)
 
 
 [[油猴脚本必装脚本]]

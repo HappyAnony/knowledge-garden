@@ -33,7 +33,7 @@
     "select": [
       {
         "modifiers": [],
-        "key": "ArrowRight",
+        "key": "Tab",
         "hideHotkeyGuide": false
       }
     ],
@@ -73,6 +73,7 @@
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
   "excludeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathGlobPatterns": [],
   "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
   "excludeCurrentVaultWordPatterns": [],
   "enableCustomDictionaryComplement": true,
@@ -86,6 +87,7 @@
   "enableInternalLinkComplement": true,
   "suggestInternalLinkWithAlias": true,
   "excludeInternalLinkPathPrefixPatterns": "",
+  "excludeInternalLinkPathGlobPatterns": [],
   "excludeSelfInternalLink": false,
   "excludeExistingInActiveFileInternalLinks": false,
   "updateInternalLinksOnSave": true,

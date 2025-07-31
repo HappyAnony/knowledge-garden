@@ -48,6 +48,9 @@
     "截止日期": "date",
     "是否已review": "checkbox",
     "小红书话题": "multitext",
-    "发布时间": "datetime"
+    "发布时间": "datetime",
+    "是否在用": "checkbox",
+    "dateCreated": "datetime",
+    "dateModified": "datetime"
   }
 }

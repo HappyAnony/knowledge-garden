@@ -10,6 +10,11 @@ tags:
   - 安卓软件
 评价: 6
 publish: true
+分类: "[[LLM Models]]"
+icon: "[[Gemini-icon-cc-image.png]]"
+一句话评价: 赛博菩萨，就问还有谁
+发明地: 美国
+是否在用: true
 ---
 
 [[gemini api key]]

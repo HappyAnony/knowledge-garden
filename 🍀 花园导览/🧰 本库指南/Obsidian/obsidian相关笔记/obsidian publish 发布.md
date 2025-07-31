@@ -1,11 +1,14 @@
 ---
-date created: 2022-06-09
-date modified: 2023-03-14
+date created: 2025-07-25
+date modified: 2025-07-25
 title: obsidian publish 发布
 tags:
   - todo/某天
 publish: true
+aliases:
+  - obsidian publish
 ---
+
 ## 2022年6月新发现
 
 有个5美元1个月的markbase服务，正在内测。关注。目前双链还不支持。#待办/某天

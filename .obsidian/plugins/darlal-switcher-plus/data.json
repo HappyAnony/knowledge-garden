@@ -11,6 +11,8 @@
   "headingsListCommand": "#",
   "bookmarksListCommand": "'",
   "commandListCommand": ">",
+  "recentCommandDisplayOrder": "desc",
+  "maxRecentCommands": 25,
   "vaultListCommand": "vault ",
   "relatedItemsListCommand": "~",
   "relatedItemsListActiveEditorCommand": "^ ",
@@ -59,6 +61,10 @@
     "outgoing-link"
   ],
   "showOptionalIndicatorIcons": true,
+  "isFileExtensionIndicatorsEnabled": true,
+  "excludeFileExtensionIndicators": [
+    "md"
+  ],
   "overrideStandardModeBehaviors": true,
   "overrideStandardModeRendering": true,
   "enabledRibbonCommands": [
@@ -285,7 +291,7 @@
     "shouldResetActiveFacets": false,
     "shouldShowFacetInstructions": true
   },
-  "preserveCommandPaletteLastInput": true,
+  "preserveCommandPaletteLastInput": false,
   "preserveQuickSwitcherLastInput": true,
   "shouldCloseModalOnBackspace": false,
   "maxRecentFileSuggestionsOnInit": 75,
@@ -445,5 +451,12 @@
         "hotkey": null
       }
     ]
+  },
+  "saveWorkspaceAndSwitchKeys": {
+    "modifiers": [
+      "Mod",
+      "Shift"
+    ],
+    "key": "s"
   }
 }

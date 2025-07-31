@@ -15,15 +15,15 @@ publish: true
 - [[Everything]]
 - [[ImageGlass]]
 - [[AutoHotkey]]
-- [[Spaces/3-Resource/软件梳理/windows软件/MyKeyMap]]
+- [[MyKeyMap]]
 - [[Quicker]]
 - [[Notepad++]]
 - [[ManicTime]]
 - [[Listary]]
 - [[Snipaste]]
 - [[Burp suite]]
-- [[Spaces/3-Resource/软件梳理/windows软件/Wox]]
-- [[Spaces/3-Resource/软件梳理/windows软件/Git]]
+- [[Wox]]
+- [[Git]]
 - [[QuickLook]]
 - [[PowerToys]]
 - [[mumu模拟器]]
@@ -60,10 +60,10 @@ publish: true
 	- [[HEU_KMS_Activator]]
 	- [[图吧工具箱]]
 	- [[TrafficMonitor]]
-	- [[Spaces/3-Resource/软件梳理/windows软件/MyKeyMap]]
+	- [[MyKeyMap]]
 	- [[IObit Uninstaller]]
 	- [[HEU_KMS_Activator]]
-	- [[Spaces/3-Resource/软件梳理/windows软件/OFGB]]
+	- [[OFGB]]
 	- [[StartAllBack]]
 	- [[鲁大师精简版无广告]]
 
@@ -77,7 +77,7 @@ publish: true
 
 ## 一键安装
 
-[[Cards/UniGetUI]]
+[[UniGetUI]]
 
 2025-4-8备份：  
 ![[软件捆绑包.ubundle]]
@@ -88,6 +88,6 @@ publish: true
 [[AtlasOS + AME Wizard]]
 
 [[RytuneX - windows 优化精简]]  
-[[Spaces/2-Area/windows高效使用/Optimizer]]
+[[Optimizer]]
 
-[[Spaces/3-Resource/软件梳理/windows软件/OFGB]]
+[[OFGB]]

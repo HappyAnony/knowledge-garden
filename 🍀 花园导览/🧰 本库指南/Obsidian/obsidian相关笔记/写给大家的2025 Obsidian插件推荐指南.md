@@ -7,7 +7,7 @@ publish: true
 
 这次我不想推荐所谓必装插件，而想要推荐几个简单、好玩、有趣的插件，排名按照首字母顺序：
 
-- [[Cards/Enhanced Canvas]]
+- [[Enhanced Canvas]]
 - [[File Cooker]]
 - [[Lineage]]
 - [[Note to RED]]
@@ -18,7 +18,7 @@ publish: true
   
 本次，也有几个不推荐的插件，那就是全部的 AI相关插件，没错，是全部：
 - [[Smart composor]]
-- [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Smart Connections|Smart Connections]]
+- [[Smart Connections|Smart Connections]]
 - [[Copilot]]
 - 等等
 

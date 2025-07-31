@@ -20,7 +20,7 @@ x:: [[obsidian组织笔记的N个 xx first]]
 - [[Dataview]]，数据库
 	- 综合使用[[frontmatter]]和[[inline fields]]的信息
 	- 类似notion的数据库的用法
-	- 更新：[[DB Folder]]和[[Cards/Projects]]插件，使得其跟notion数据库用法无限逼近。
+	- 更新：[[Projects]]插件，使得其跟notion数据库用法无限逼近。
 - files
 	- 和files对应的是大纲类软件roam和块类软件notion，放弃了文件概念，引入了最小信息承载单位-块
 - canvas

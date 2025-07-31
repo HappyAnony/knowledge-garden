@@ -21,4 +21,4 @@ publish: true
 
 [[仙剑奇侠传七]]
 
-[[Spaces/3-Resource/Steam主机游戏/星露谷物语]]
+[[星露谷物语]]

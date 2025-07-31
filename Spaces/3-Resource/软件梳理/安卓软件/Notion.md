@@ -1,6 +1,6 @@
 ---
 date created: 2022-06-09
-date modified: 2024-10-22
+date modified: 2025-07-31
 title: Notion
 tags:
   - 评论/少数派
@@ -18,10 +18,9 @@ brew安装命令: brew install --cask notion
 当前是否还在使用: true
 是否通过UniGetUI安装: true
 publish: true
+跨平台技术栈: "[[Electron]]"
 ---
-## notion token
 
-[[notion api token]]
 ## notion 教程
 
 - 官方文档
@@ -34,6 +33,10 @@ publish: true
 - 2020 年，笔记软件领域的两个标志性软件 Notion 和 [[Roam Research]]
 	- Notion 引入了 block 块的概念，让做笔记以及网站构建如同搭建积木的一样简单方便
 	- 而 [[Roam Research]] 则引入 [[双向链接]] 以及对 [[卢曼]] 的 [[卡片盒笔记法 - Zettelkasten]] 的宣传，引来一波大热。
+
+## notion token
+
+[[notion api token]]
 
 ## 使用范围
 

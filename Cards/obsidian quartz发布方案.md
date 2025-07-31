@@ -4,7 +4,7 @@ date modified: 2025-07-09
 publish: true
 ---
 
-[[Sources/GithubStarsSync/quartz|quartz]]
+[[quartz|quartz]]
 
 [[quartz-themes]]
 

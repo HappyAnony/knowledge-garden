@@ -62,9 +62,10 @@ x: [[base 使用技巧]]
 
 ## 软件、产品、插件
 
-- [[App软件管理.base]]
+- [[App应用软件管理.base]]
 - [[好用网站管理.base]]
 - [[AI 产品和公司.base]]
 - [[Obsidian插件.base]]
 - [[vscode插件.base]]
 - [[chrome插件.base]]
+

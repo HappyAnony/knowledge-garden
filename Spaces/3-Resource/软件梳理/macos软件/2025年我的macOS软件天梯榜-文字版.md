@@ -55,7 +55,7 @@ permalink: 2025/my-macos-ranks
 	- 给每次按键赋予机械键盘声，使用笔记本时候必开。开源平替是[[KeyEcho]]。
 - [[OrbStack]]
 	- 快速启动100个docker 容器无压力。
-- [[Spaces/3-Resource/软件梳理/macos软件/PearCleaner|PearCleaner]]
+- [[PearCleaner|PearCleaner]]
 	- 苹果电脑，就让梨子来清理吧🍐。真简洁，真开源免费。卸掉你电脑里那些花里胡哨耗你电量的，[[CleanMyMac X]]别看了，说的就是你小资。
 - [[PicGo|PicList]]
 	- 图床。

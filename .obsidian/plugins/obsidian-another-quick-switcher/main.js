@@ -8697,7 +8697,7 @@ var BacklinkModal = class extends import_obsidian6.SuggestModal {
       this.limit = Number.MAX_SAFE_INTEGER;
       this.inputEl.dispatchEvent(new Event("input"));
     });
-    this.registerKeys("preview", this.preview.bind(this));
+    this.registerKeys("preview", () => this.preview());
     const modifierKey = this.settings.userAltInsteadOfModForQuickResultSelection ? "Alt" : "Mod";
     for (const n of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
       this.scope.register([modifierKey], String(n), (evt) => {
@@ -9753,7 +9753,7 @@ var GrepModal = class extends import_obsidian8.SuggestModal {
         await sleep(0);
       }
     });
-    this.registerKeys("preview", this.preview);
+    this.registerKeys("preview", () => this.preview());
     const modifierKey = this.settings.userAltInsteadOfModForQuickResultSelection ? "Alt" : "Mod";
     for (const n of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
       this.scope.register([modifierKey], String(n), (evt) => {

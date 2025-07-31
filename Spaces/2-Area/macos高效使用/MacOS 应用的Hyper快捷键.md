@@ -28,7 +28,7 @@ publish: true
 
 | 按键  | 功能/应用           | mac 上配置 | 适配解释                                     |
 | --- | --------------- | ------- | ---------------------------------------- |
-| Q   | [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]       | Raycast | 取发音，类似 Q 发音                              |
+| Q   | [[Cubox]]       | Raycast | 取发音，类似 Q 发音                              |
 | W   | [[Warp]]        | Raycast |                                          |
 | E   | [[企业微信]]        | Raycast | Enterprise 企业                            |
 | R   |                 | Raycast |                                          |
@@ -53,7 +53,7 @@ publish: true
 | X   | [[微信]]          | Raycast | 取 X 字母的象形意思， 微信连通四方                      |
 | C   | [[Cursor]]      | Raycast |                                          |
 | V   |                 |         |                                          |
-| B   | [[Spaces/3-Resource/软件梳理/macos软件/Bob]] 快捷查词    | 软件内     |                                          |
+| B   | [[Bob]] 快捷查词    | 软件内     |                                          |
 | N   | [[Notion]]      | Raycast |                                          |
 | M   | [[Spotify]]     | Raycast | Music                                    |
 | ,   |                 |         |                                          |

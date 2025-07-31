@@ -9,7 +9,7 @@ publish: true
 还有几个，必须要降低摩擦力的：
 
 - 传统流程
-	- 随时随地[[OCR]]，目前我用得[[Spaces/3-Resource/软件梳理/macos软件/Bob|Bob]]中的ocr能力
+	- 随时随地[[OCR]]，目前我用得[[Bob|Bob]]中的ocr能力
 	- 随时随地翻译，依旧用的bob。
 - AI流程
 	- 随时随地截图翻译/提问。

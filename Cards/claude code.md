@@ -7,7 +7,7 @@ tags:
   - linux命令
 ---
 
-使用[[claude code router]]绕过官方限制。或者使用各种第三方的中转站： [[claude code 第三方中转站]]
+使用[[claude-code-router]]绕过官方限制。或者使用各种第三方的中转站： [[claude code 第三方中转站]]
 
 [[claude code windows]]
 
@@ -27,8 +27,11 @@ telegram 和folo频道推荐
 找到让 Claude Code 完成时提醒我的办法了，最优雅的方式是配置 Claude Code 的 hooks，让它每次完成时播放音效。
 
 编辑设置文件 ~/.claude/settings.json
+
+```
+
 {
-  "model": "sonnet",
+  "model": "Qwen/Qwen3-235B-A22B-Thinking-2507",
   "hooks": {
         "Stop": [
             {
@@ -50,14 +53,21 @@ telegram 和folo频道推荐
                 ]
             }
         ]
-  }
+  },
+  "permissions": { "allow": [ "Bash(ls:*)", "ReadFile:*", "Edit" ], "deny": [ "Bash(rm:*)", "Bash(sudo:*)" ] }
 }
 
+```
 
 ## 危险模式，让其全自动驾驶
+
+也叫yolo模式？
+
 ```
 claude --dangerously-skip-permissions
 ```
+
+## 其他常用参数
 
 
 

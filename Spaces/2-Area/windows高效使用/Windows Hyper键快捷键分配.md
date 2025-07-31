@@ -4,7 +4,7 @@ date modified: 2025-06-20
 publish: true
 ---
 
-hyper 使用 [[Spaces/3-Resource/软件梳理/windows软件/MyKeyMap]] 配置
+hyper 使用 [[MyKeyMap]] 配置
 
 2025-6-19：换成使用raycast定义。但是windows 上hyper键使用[[AutoHotkey]]改完后有问题，所以就直接映射成windows键，先用win键顶一顶。
 

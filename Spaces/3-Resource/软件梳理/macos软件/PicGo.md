@@ -45,6 +45,7 @@ topics:
   - weibo
 size_kb: 3836
 issues: 40
+跨平台技术栈: "[[Electron]]"
 ---
 
 手机端：[[PicHoro]]

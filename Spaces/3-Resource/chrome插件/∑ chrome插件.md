@@ -1,7 +1,7 @@
 ---
 title: chrome必装插件
 date created: 2022-06-09
-date modified: 2025-05-31
+date modified: 2025-07-25
 PARA: Resources
 publish: true
 ---
@@ -20,7 +20,7 @@ publish: true
 	- 阅读英文网站，最完美的方式
 - [[obsidian web clipper]]
 - [[ublacklist]]
-	-  新增，宁可误杀，也绝不放过垃圾网站。
+	- 新增，宁可误杀，也绝不放过垃圾网站。
 - [[SponsorBlock for Youtube]]
 - [[B站空降助手]]
 - [[refined github]]
@@ -28,10 +28,10 @@ publish: true
 
 ## 好用插件
 
-- 类似的网站/similarsites
+- 类似的网站/[[similarsites]]
 	- 简直碉堡了，效果拔群，真的能发现非常强相关的网站，而且给出网站访问量等数据。
 	- 新感受，可能也没有那么牛逼，对 1 级域名支持比较好，但微信阅读 read.qq.com 就会被误识别为 qq 网站。没什么用了。
-- similarweb
+- [[similarweb]]
 	- 与 alexa，并称网站访问量排名的业界双巨头。
 - [[扩展管理器]]
 	- 管理插件的插件。
@@ -46,7 +46,7 @@ publish: true
 - [[MarkDownload]]
 	- 一小段文本，不用剪藏，直接用这个手动复制粘贴更方便。
 - [[auto tag group - 标签自动分组]]
-	-  新发现，这个插件让浏览器的标签页分组这个特性有了用武之地。
+	- 新发现，这个插件让浏览器的标签页分组这个特性有了用武之地。
 	- [[2023-08-13]] 更新：有了 [[Arc浏览器]]，标签分组功能就是个弟弟。
 
 ## 开发类插件
@@ -57,7 +57,7 @@ publish: true
 ## 最近的插件
 
 - [[BewlyBewly]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
+- [[Cubox]]
 - [[五彩]]
 - [[V2EX Polish]]
 - [[扩展管理器]]
@@ -70,9 +70,10 @@ publish: true
 [[arc浏览器插件重装list]]
 
 ### Chrome 插件 by AI
+
 - [[∑ chrome插件]]
 - [[油猴脚本与浏览器插件的异同分析]]
-- [[chrome-omni插件]]
+
 - [[youtube英文视频如何看，工具推荐]]
 - [[QuickGo 外链直达]]
 - [[Cubox Chrome 剪藏插件]]

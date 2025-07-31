@@ -15,11 +15,11 @@ publish: true
 	- 增强型cmd p
 - [[Awesome Image]]
 	- 图片查看增强
-- [[Cards/Better Search Views]]
+- [[Better Search Views]]
 	- 反向链接面板美化格式化
 - [[Commander]]
 	- 自定义各个页面的icon
-- [[Cards/Daily Note Outline]]
+- [[Daily Note Outline]]
 	- 平铺的Dailynote，weeklynote
 - [[Dataview]]
 	- 类似mysql语句根据properties批量查询文档
@@ -39,7 +39,7 @@ publish: true
 	- 近期打开的文件
 - [[Share Note]]
 	- 分享当前笔记到online
-- [[Spaces/2-Area/计算机知识/Smart Connections]]
+- [[Smart Connections]]
 	- ai搜索笔记
 - [[Sortable]]
 	- 表格排序

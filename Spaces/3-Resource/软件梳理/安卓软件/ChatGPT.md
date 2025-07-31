@@ -10,6 +10,11 @@ publish: true
 相关笔记:
   - "[[ChatGPT 桌面端]]"
 评价: 6
+分类: "[[LLM Models]]"
+icon: "[[ChatGPT-icon-cc-image.png]]"
+一句话评价: 廉颇老矣，尚能饭否
+发明地: 美国
+是否在用: true
 ---
 
 [[chatgpt windows 下载]]

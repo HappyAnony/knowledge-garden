@@ -20,7 +20,7 @@ title: Spaced Repetition
 
 另一种存在形态，被[[Andy Matuschak]]称为[[助记媒介]]。不单纯是记忆闪卡本身，还能融合到其他例如笔记软件中，进行有机地结合。
 
-就像使用[[Cards/Spaced Repetition]]插件和obsidian完美结合一样。
+就像使用[[Spaced Repetition]]插件和obsidian完美结合一样。
 
 ---
 

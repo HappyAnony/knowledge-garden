@@ -116,7 +116,7 @@ publish: true
 	  - [[∑ 知识管理]]
 		 - [[Notion]]
 		 - [[Obsidian]]
-		 - [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
+		 - [[Cubox]]
 	  - [[∑ 投资与理财]]
 		 - [[实业投资]]
 		 - [[价值投资]]

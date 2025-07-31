@@ -30,6 +30,8 @@ publish: true
 
 ## 视频生成类
 
+[[使用veo3生成根据指令遵从的视频]]
+
 ## 思考、推理
 
 - [[高冷人设]]
@@ -40,6 +42,7 @@ publish: true
 - [[视觉学习导师]]
 - [[互联网讽刺大师]]
 - [[元提示词 - 优化提示词 - 优化prompts]]
+- [[阴阳怪气大师]]
 
 ## 快速 日常场景
 
@@ -53,16 +56,22 @@ publish: true
 
 - [[mermaid 生成 - 文本生成]]
 
+## 图表与可视化生成
+
+- [[SVG流程图生成提示词模板]]
+
 ## deep search 或者 deepresearch
 
 先积累出一些常用的模板，比如：
-- [[Cards/贴吧嘴臭老哥]]
+- [[贴吧嘴臭老哥]]
 - [[chatgpt 与 可视化画图 mermaid]]
 - [[咪蒙公众号标题风格生成]]
 
 ## 各大主流编程工具内置系统提示词
 
 [GitHub - x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+[[openai新的学习模式系统提示词]]
 
 ## 其他
 

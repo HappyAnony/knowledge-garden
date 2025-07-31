@@ -40,7 +40,7 @@ publish: true
 | 软件                    | 功能          | 快捷键                | 频率  | 是否已完全习惯 |
 | --------------------- | ----------- | ------------------ | --- | ------- |
 | alfred or [[Raycast]] | 打开全局快捷命令悬浮窗 | cmd + space        | 极高  | 是       |
-| [[Spaces/3-Resource/软件梳理/macos软件/Bob]]               | 选取文本翻译      | option + shift + b | 高   |         |
+| [[Bob]]               | 选取文本翻译      | option + shift + b | 高   |         |
 | bob                   | 打开翻译悬浮窗     | option + b         | 高   |         |
 | [[滴答清单]]              | 打开滴答任务添加悬浮窗 | control + space    | 高   |         |
 | [[搜狗输入法]]             | 语音输入        | option + option    | 低   |         |

@@ -35,7 +35,7 @@ publish: true
 
 ## agent 类型
 
-- [[Spaces/1-Project/搞透 AI Agent 开发/Dify|Dify]]
+- [[Dify|Dify]]
 - [[n8n]]
 - [[Cursor]]
 - [[fellou浏览器]]

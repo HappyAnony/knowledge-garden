@@ -57,17 +57,17 @@ publish: true
 
 - [[Go - vscode插件]]
 - [[Tooltitude for Go （GoLang）]]
-- [[Spaces/3-Resource/VSCode插件/mirrord]]
+- [[mirrord]]
 
 ## 考察中
 
 - [[Better Comments插件]]
 - [[别名路径跳转]]
-- [[Spaces/3-Resource/VSCode插件/Cline]]
+- [[Cline]]
 - [[Roo Code]]
 - [[ahk++]]
 - [[SVG - vscode插件]]
-- [[Spaces/3-Resource/VSCode插件/foam]]
+- [[foam]]
 - [[live server]]
 - [[live share]]
 - [[gitignore 语法]]

@@ -24,7 +24,7 @@ publish: true
 - [[architect first]]
 	- MOC文件的自上而下用法。
 - [[action first]]
-	- [[Cards/Spaces]]
+	- [[Spaces]]
 
 **这些“first”理念并非相互排斥，而是可以融合的。**
 

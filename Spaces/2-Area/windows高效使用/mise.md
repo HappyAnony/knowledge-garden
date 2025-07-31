@@ -22,7 +22,7 @@ issues: 43
 publish: true
 ---
 
-在macos和linux上，可以替换掉[[pyenv]]、[[nvm]]、[[Spaces/1-Project/golang与后端/goenv|goenv]]、[[rvm]]、[[vfox]]了。windows还是得继续用这些。
+在macos和linux上，可以替换掉[[goenv|goenv]]、[[rvm]]、[[vfox]]了。windows还是得继续用这些。
 
 https://github.com/jdx/mise
 
@@ -94,3 +94,10 @@ echo 'eval "$(mise activate bash)"' >> ~/.bashrc
 ## 验证node是否识别 ，新建terminal tab以激活环境变量
 node -v
 ```
+
+## mise ls
+
+```
+
+```
+

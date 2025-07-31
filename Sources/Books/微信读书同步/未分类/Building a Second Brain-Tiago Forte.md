@@ -15,6 +15,7 @@ tags:
   - 微信读书笔记
 title: Building a Second Brain-Tiago Forte
 publish: true
+类型: 个人知识管理
 ---
 
 ## 元数据

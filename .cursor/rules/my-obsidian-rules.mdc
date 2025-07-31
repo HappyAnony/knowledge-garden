@@ -27,6 +27,11 @@ alwaysApply: true
 - 当你创建新的md文档，需要引用其他md文件时，记得直接使用最简洁的[[]]语法。
 - 必要的时候，请递归访问[[]]引用的文档，继续阅读，获取更多信息。
 
+### 链接格式规范
+- **在直接输出内容到对话中时**：使用绝对路径格式 `[文件名](/Users/oldwinter/oldwinter-notes/Sources/CuboxSync/文件名.md)`，不要使用 `[[]]` 双链格式
+- **在生成或编辑md文件时**：依然使用 `[[]]` 双链格式进行文件引用
+- **在.cursor/rules文件中**：使用 `mdc:` 前缀格式 `[文件名](mdc:路径/文件名.md)`
+
 ## 4. 插件与自动化
 - 推荐插件：Dataview（动态索引/查询）、Canvas、Calendar、Tag Pane 等。
 - Dataview 查询集中存放于 @Atlas/Dataviews/+ Dataviews Readme.md。

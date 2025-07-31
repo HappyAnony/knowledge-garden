@@ -14,7 +14,10 @@ icon: "[[icon-cc-image-BetterTouchTool.png]]"
 当前是否还在使用: true
 是否有破解版: true
 publish: true
+跨平台技术栈: "[[Swift]]"
 ---
+
+2025-07-29 目前在macOS 26 beta上面还有bug，设置hyper键，会让屏幕突然失效，无法点击，或者左键变成了右键的效果。
 
 ## 配置备份和同步
 

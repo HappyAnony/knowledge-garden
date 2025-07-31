@@ -14,7 +14,6 @@
 		{"type":"text","text":"---\ncssclasses: cc-card-nocolor, cc-border-none\n---\n\n>[!cc-header] header\n\n**Callouts:**\n```\n>[!cc-header]\n```\n\n**cssclasses**\n- cc-card-nocolor\n- cc-border-none","id":"5e3238a2410670cd","x":1480,"y":640,"width":360,"height":260,"color":"4"},
 		{"type":"text","text":"---\ncssclasses: cc-card-nocolor, cc-border-none\n---\n\n>[!cc-header-noborder] header\n\n**Callouts:**\n```\n>[!cc-header-noborder]\n```\n\n**cssclasses**\n- cc-card-nocolor\n- cc-border-none","id":"77f552284ac3da6f","x":1080,"y":960,"width":360,"height":260,"color":"4"},
 		{"type":"text","text":">[!cc-header] header \n>- with additional content\n\n**Callouts:**\n```\n>[!cc-header]\n```","id":"80d3fe8e3d4ea5e0","x":1480,"y":960,"width":360,"height":260,"color":"4"},
-		{"id":"1cc44c23128476a8","type":"text","text":"需要启用 canvas-candy.css","x":-1220,"y":320,"width":340,"height":500},
 		{"id":"d9b46e02980e948c","type":"file","file":"Extras/Attachments/Icons/obsidian-light-cc-image.svg","x":-1249,"y":1820,"width":360,"height":360},
 		{"type":"text","text":"---\ncssclasses: cc-border-none, cc-card-fill, cc-border-squared\n---\n\n>[!cc-label-left-noborder] **天朗气清**\n","id":"db1ddf06f1826f43","x":200,"y":900,"width":60,"height":191,"color":"5"},
 		{"type":"text","text":"---\ncssclasses: cc-border-none, cc-card-fill, cc-border-squared\n---\n\n>[!cc-label-right-noborder] **人生若如初见**\n","id":"d677fd9f31ff7db4","x":400,"y":900,"width":60,"height":190,"color":"4"},
@@ -31,6 +30,29 @@
 			"y":1119,
 			"width":260,
 			"height":203
+		},
+		{
+			"id":"1cc44c23128476a8",
+			"type":"text",
+			"text":"需要启用 canvas-candy.css",
+			"styleAttributes":{
+				"border":"invisible",
+				"shape":null
+			},
+			"x":-1252,
+			"y":289,
+			"width":340,
+			"height":500
+		},
+		{
+			"id":"cb1b86cefe3cf612",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-1260,
+			"y":880,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],

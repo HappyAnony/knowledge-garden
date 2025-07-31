@@ -1,11 +1,11 @@
 {
   "pluginList": [
-    "johansan/notebook-navigator",
+    "Ssentiago/interactify",
     "blacksmithgu/datacore"
   ],
   "pluginSubListFrozenVersion": [
     {
-      "repo": "johansan/notebook-navigator",
+      "repo": "Ssentiago/interactify",
       "version": "latest"
     },
     {

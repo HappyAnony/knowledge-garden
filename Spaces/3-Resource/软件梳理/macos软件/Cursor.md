@@ -15,6 +15,7 @@ icon: "[[cursor-icon-cc-image.jpg]]"
 当前是否还在使用: true
 设置同步: 插件通过vscode 中转，其他手动同步。
 publish: true
+跨平台技术栈: "[[Electron]]"
 ---
 
 [[cursor 使用技巧总结]]

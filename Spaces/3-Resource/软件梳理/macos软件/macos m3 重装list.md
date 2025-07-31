@@ -21,12 +21,12 @@ publish: true
 	- 目前还不支持 profile 同步，所以需要重新手动弄一遍插件和账号登录等等。
 	- [[arc浏览器插件重装list]]
 	- 2024-11-21 大概率要停止开发新功能，换成最合适的平替 [[Zen Browser]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/阿里云盘]]
+- [x] [[阿里云盘]]
 - [x] [[夸克网盘]]
 - [x] [[Obsidian]]
 - [x] [[Notion]]
 	- [x] [[飞书]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/Bob]]
+- [x] [[Bob]]
 - [x] [[滴答清单]]
 - [x] [[VSCode]]
 	- [x] [[Cursor]] ，[[AI Native]] 软件
@@ -47,7 +47,7 @@ publish: true
 	- [x] [[shottr]] 免费
 	- [x] [[PixPin]] ✅ 2024-07-23
 	- [x] [[CleanShot X]] ✅ 2024-07-23
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/KeyboardHolder]]
+- [x] [[KeyboardHolder]]
 	- [x] [[Input source pro]] ✅ 2024-07-23
 - [x] [[istat Menus]] ✅ 2024-07-23
 - [x] [[BetterAndBetter]]
@@ -59,8 +59,8 @@ publish: true
 - [x] [[微信读书]]
 - [x] [[AlDente]]
 - [x] [[CotEditor]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
-- [x] [[Spaces/3-Resource/软件梳理/macos软件/IINA]]
+- [x] [[Cubox]]
+- [x] [[IINA]]
 - [x] [[Input source pro]]
 - [x] [[Keka]]
 - [x] [[localsend]]
@@ -110,7 +110,7 @@ keyboardholder		tencent-meeting
 	- brew install lihaoyun6/tap/quickrecorder
 - [[Input source pro]]
 	- brew install --cask input-source-pro
-- [[Spaces/3-Resource/软件梳理/macos软件/KeyboardHolder]]
+- [[KeyboardHolder]]
 	- brew install --cask keyboardholder
 - [[LinearMouse]]
 	- brew install --cask linearmouse

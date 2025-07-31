@@ -138,7 +138,7 @@ publish: true
 - [[🍀 花园导览]]
 - [[_ Atlas Readme]]
 - [[一元化收集]]
-- [[Calendar/Daily notes]]
+- [[Daily notes]]
 
 ---
 

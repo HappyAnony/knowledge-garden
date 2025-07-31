@@ -10,7 +10,7 @@ publish: true
 
 神器。
 
-让[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Spaced Repetition|Spaced Repetition]]再次伟大。
+让[[Spaced Repetition|Spaced Repetition]]再次伟大。
 
 ## Note Toolbar
 

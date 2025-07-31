@@ -2,7 +2,12 @@
 date created: 2025-07-07
 date modified: 2025-07-07
 publish: true
+PARA: Projects
+tags: 
+ - moc
+ - AI生成
 ---
+
 
 # ∑ Raycast
 
@@ -83,3 +88,113 @@ Raycast 的生态系统是其核心优势之一，允许用户通过插件和脚
 - [[Heptabase 最完整模板中文教學及配合 Raycast 使用模板的方法]]
 - [[基于raycast快速根据博主ID等信息打开小二后台对应页面的演示以及配置方法]]
 
+
+
+---
+
+## 合并内容
+
+
+# ∑ Raycast MOC
+
+> Raycast是一个强大的macOS启动器和生产力工具，集成了AI功能、应用管理、窗口控制等多种功能。本MOC汇总了仓库中所有Raycast相关的笔记和资源。
+
+## 🎯 核心功能
+
+### AI功能
+- [[raycast ai]] - AI功能总览
+- [[raycast ai chat]] - AI聊天功能
+- [[raycast ai command]] - AI命令功能
+- [[raycast ai preset]] - AI预设配置
+- [[raycast 支持的模型models清单]] - 支持的AI模型列表
+
+### 应用管理与快捷键
+- [[全局快捷键将app一键打开或隐藏]] - 应用快捷键管理
+- [[raycast 一键快速应用 平替 rcmd]] - 快速应用切换
+- [[Raycast Window Management]] - 窗口管理功能
+
+### 实用工具
+- [[raycast 2fa插件管理]] - 2FA管理
+- [[raycast 快速查看时区]] - 时区查看
+- [[raycast deeplink]] - 深链接功能
+- [[raycast wrapped 年底年度总结]] - 年度总结功能
+
+## 📝 使用心得
+
+### 个人使用经验
+- [[Raycast 我最常用的功能]] - 个人使用心得
+- [[raycast topN常用功能]] - 最常用功能清单
+
+### 开发与定制
+- [[raycast插件开发]] - 插件开发指南
+- [[raycast 插件清单]] - 插件清单数据库
+
+## 🛠️ 技术资源
+
+### 开源项目
+- [[raycast-ai-openrouter-proxy]] - AI路由代理
+- [[raycast-g4f]] - GPT4Free集成
+- [[raycast-relay]] - 中继服务
+- [[raycast2api]] - API转换工具
+- [[fake-raycast-backend]] - 虚拟后端
+- [[categorized-raycast-extensions]] - 分类的Raycast扩展
+
+### 教程与文档
+- [[Raycast 系列教程]] - 来自少数派的系列教程
+- [[Raycast 使用指南]] - 详细使用指南
+- [[Raycast + Heptabase]] - 与Heptabase的集成使用
+
+## 📊 功能分类
+
+### 🔥 最常用功能Top5
+1. 一键快速应用切换
+2. 窗口管理
+3. 剪贴板历史
+4. 快速AI提问
+5. AI聊天
+
+### 🤖 AI功能特色
+- 支持50+种AI模型（Claude、GPT、Gemini等）
+- 自定义AI命令
+- 预设AI对话模板
+- 快速AI文本处理
+
+### 🔧 扩展功能
+- 2FA管理
+- 时区查看
+- 代码片段管理
+- 快速链接
+- 进程管理
+
+## 📚 学习路径
+
+### 入门级
+1. [[raycast topN常用功能]] - 了解核心功能
+2. [[Raycast 我最常用的功能]] - 参考实际使用经验
+3. [[全局快捷键将app一键打开或隐藏]] - 学习快捷键设置
+
+### 进阶级
+1. [[raycast ai]] - 深入了解AI功能
+2. [[Raycast Window Management]] - 掌握窗口管理
+3. [[raycast 2fa插件管理]] - 配置安全工具
+
+### 高级定制
+1. [[raycast插件开发]] - 开发自定义插件
+2. [[raycast deeplink]] - 集成深链接功能
+3. 相关开源项目 - 学习社区解决方案
+
+## 🔗 相关资源
+
+### 配置文件
+- [[raycast 插件清单]] - 插件配置数据库
+- Raycast配置文件 - 完整配置备份
+
+### 社区资源
+- GitHub星标项目 - 相关开源工具
+- 少数派教程 - 详细使用指南
+- Goalonez Blog - 深度使用技巧
+
+---
+
+*最后更新：2025-07-06*
+*相关笔记数量：48个文件*

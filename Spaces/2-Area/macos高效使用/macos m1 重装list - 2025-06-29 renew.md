@@ -11,7 +11,7 @@ publish: true
 
 ## 个人必装
 
-从[[App软件管理.base]]筛选7分和6分必装。5分选装。
+从[[App应用软件管理.base]]筛选7分和6分必装。5分选装。
 
 - [[搜狗输入法]]
 - [[Arc浏览器]]
@@ -20,7 +20,7 @@ publish: true
 - [[夸克网盘]]
 - [[Obsidian]]
 - [[Notion]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Bob]]
+- [[Bob]]
 - [[滴答清单]]
 - [[Cursor]]
 - [[Raycast]]
@@ -36,11 +36,11 @@ publish: true
 - [[微信读书]]
 - [[AlDente]]
 - [[CotEditor]]
-- [[Spaces/3-Resource/软件梳理/macos软件/IINA]]
+- [[IINA]]
 - [[Input source pro]]
 - [[Keka]]
 - [[OrbStack]]
-- [[Spaces/3-Resource/软件梳理/macos软件/PearCleaner]]
+- [[PearCleaner]]
 - [[QuickRecorder]]
 
 ### 可以通过homebrew一键安装
@@ -261,9 +261,11 @@ views:
 		- [[rg|rg命令]]
 		- [[fzf]]
 - 官方脚本安装
-	- [[Spaces/3-Resource/软件梳理/linux常用命令/ohmyzsh|ohmyzsh]]
+	- [[ohmyzsh|ohmyzsh]]
 	- [[gemini-cli]]
 
+
+![[App应用软件管理.base#命令行工具]]
 
 ## 开发环境
 

@@ -31,7 +31,7 @@ publish: true
 	- [[Raycast Notes]]
 	- [[Raycast Window Management]]
 	- [[Raycast Hyper Key]]
-- ! [[Spaces/3-Resource/软件梳理/macos软件/Bob]]
+- ! [[Bob]]
 - ! [[CleanShot X]]
 - [[Alfred]]
 - [[BetterTouchTool]]
@@ -43,7 +43,7 @@ publish: true
 - [[uTools]]
 - [[Keycue]]
 - [[Hook]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Rectangle]]
+- [[Rectangle]]
 - [[Rectangle Pro]]
 - [[Houdahspot]]
 - [[one switch]]
@@ -73,7 +73,7 @@ publish: true
 ### 云存储与同步
 
 - ! [[夸克网盘]]
-- [[Spaces/3-Resource/软件梳理/macos软件/阿里云盘]]
+- [[阿里云盘]]
 - [[百度网盘]]
 - [[坚果云]]
 - [[Onedrive]]
@@ -83,19 +83,19 @@ publish: true
 - ! [[Movist Pro]]
 - ! [[Spotify]]
 - [[网易云音乐]]
-- [[Spaces/3-Resource/软件梳理/macos软件/IINA]]
+- [[IINA]]
 - [[Snipaste]]
 - [[GIF Brewery]]
 - [[Screen Studio]]
 - [[FigrCollage]]
 - [[GRIS]]
 - [[INSIDE]]
-- [[Spaces/3-Resource/软件梳理/macos软件/lx-music-desktop]]
+- [[lx-music-desktop]]
 
 ### 系统增强与优化
 
 - ! [[AlDente]]
-- ! [[Spaces/3-Resource/软件梳理/macos软件/PearCleaner]]
+- ! [[PearCleaner]]
 - ! [[Keka]]
 - ! [[Klack]]
 - ! [[BetterAndBetter]]
@@ -110,9 +110,9 @@ publish: true
 ### 输入法工具
 
 - ! [[搜狗输入法]]
-- ! [[Spaces/3-Resource/软件梳理/macos软件/KeyboardHolder]]
+- ! [[KeyboardHolder]]
 - [[Input source pro]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Keycastr]]
+- [[Keycastr]]
 
 ### 笔记与知识管理
 
@@ -120,8 +120,8 @@ publish: true
 - ! [[Notion]]
 - ! [[Folo]]
 - ! [[滴答清单]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Cubox]]
-- [[Spaces/3-Resource/软件梳理/macos软件/Logseq]]
+- [[Cubox]]
+- [[Logseq]]
 - [[Anki]]
 - [[Zotero]]
 - [[Typora]]
@@ -134,7 +134,7 @@ publish: true
 - [[Clash]]
 - [[Clash Pro]]
 - [[Proxifier]]
-- [[Spaces/3-Resource/软件梳理/macos软件/V2rayU]]
+- [[V2rayU]]
 - [[GreenHub]]
 - [[Mihomo Party]]
 
@@ -189,7 +189,7 @@ publish: true
 
 - [[1Piece]] (功能未知)
 - [[charmstone]] (功能未知)
-- [[Spaces/3-Resource/软件梳理/macos软件/dockdoor]] (疑似重复)
+- [[DockDoor]] (疑似重复)
 - [[expanso]] (功能未知)
 - [[Fig]] (功能未知)
 

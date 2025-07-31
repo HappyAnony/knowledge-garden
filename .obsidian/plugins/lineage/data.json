@@ -39,17 +39,6 @@
         "collapsedSections": []
       }
     },
-    "Atlas/Lineages/Untitled.md": {
-      "documentFormat": "sections",
-      "viewType": "lineage",
-      "activeSection": "1.1.2.3",
-      "pinnedSections": {
-        "sections": []
-      },
-      "outline": {
-        "collapsedSections": []
-      }
-    },
     "📥 Inbox/三体登陆地球小说大纲.md": {
       "documentFormat": "sections",
       "viewType": "lineage",
@@ -95,11 +84,7 @@
     "linkPaneType": "tab"
   },
   "styleRules": {
-    "documents": {
-      "Atlas/Lineages/Untitled.md": {
-        "rules": []
-      }
-    },
+    "documents": {},
     "global": {
       "rules": [
         {

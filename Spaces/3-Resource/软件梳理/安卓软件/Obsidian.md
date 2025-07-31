@@ -19,6 +19,7 @@ icon: "[[icon-cc-image-Obsidian.png]]"
 当前是否还在使用: true
 是否已重装: true
 publish: true
+跨平台技术栈: "[[Electron]]"
 ---
 
 up:: [[笔记软件的选择]]  
@@ -57,7 +58,7 @@ jumps:: [[Notion]]
 
 ##
 
-[[Obsidian 同步库账号密码]]
+[[Obsidian 同步库账号密码 - 内测账号密码]]
 
 ## 参考文献
 
