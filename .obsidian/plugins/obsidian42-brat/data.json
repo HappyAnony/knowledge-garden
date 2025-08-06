@@ -1,15 +1,15 @@
 {
   "pluginList": [
-    "Ssentiago/interactify",
-    "blacksmithgu/datacore"
+    "anareaty/pretty-properties",
+    "CatMuse/HiWords"
   ],
   "pluginSubListFrozenVersion": [
     {
-      "repo": "Ssentiago/interactify",
+      "repo": "anareaty/pretty-properties",
       "version": "latest"
     },
     {
-      "repo": "blacksmithgu/datacore",
+      "repo": "CatMuse/HiWords",
       "version": "latest"
     }
   ],

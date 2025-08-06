@@ -13,6 +13,7 @@ icon: "[[icon-cc-image-Raycast.png]]"
 是否已重装: true
 设置同步: 手动
 publish: true
+icon-3d: "[[raycast-3d-icon-cc-image.png]]"
 ---
 
 ## 评价 翻译from x
@@ -79,6 +80,8 @@ Raycast 是软件尊重用户时间的产物。
 [[raycast 一键快速应用 平替 rcmd]]
 
 ## [[raycast wrapped 年底年度总结#2023 年 3 个月的使用记录]]
+
+raycast
 
 ## 最强安利视频
 

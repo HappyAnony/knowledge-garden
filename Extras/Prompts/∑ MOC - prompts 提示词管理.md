@@ -10,9 +10,10 @@ temperature: 0.7
 updated: 2025-04-23
 reasoning effort: "0"
 date created: 2025-04-24
-date modified: 2025-05-15
+date modified: 2025-08-03
 publish: true
 ---
+
 提示词模板：[[prompts template - 提示词模板]]
 
 ## 图片生成类
@@ -27,6 +28,7 @@ publish: true
 - [[水晶球 - 图片生成]]
 - [[平庸自拍照 - 图片生成]]
 - [[城市天气微缩图 - 图片生成]]
+- [[图标icon果冻3d效果 - 图片生成]]
 
 ## 视频生成类
 
@@ -63,7 +65,8 @@ publish: true
 ## deep search 或者 deepresearch
 
 先积累出一些常用的模板，比如：
-- [[贴吧嘴臭老哥]]
+
+- [[Extras/Prompts/贴吧嘴臭老哥]]
 - [[chatgpt 与 可视化画图 mermaid]]
 - [[咪蒙公众号标题风格生成]]
 

@@ -1,5 +1,5 @@
 {
-  "tasksFolder": "TaskNotes/Tasks",
+  "tasksFolder": "Calendar/Tasks",
   "taskTag": "task",
   "excludedFolders": "",
   "defaultTaskPriority": "normal",
@@ -11,7 +11,7 @@
   "taskCreationDefaults": {
     "defaultContexts": "",
     "defaultTags": "",
-    "defaultProjects": "",
+    "defaultProjects": "[[∑ 2025下半年小红书探索]]",
     "defaultTimeEstimate": 0,
     "defaultRecurrence": "none",
     "defaultDueDate": "none",
@@ -21,7 +21,7 @@
   },
   "calendarViewSettings": {
     "defaultView": "dayGridMonth",
-    "customDayCount": 3,
+    "customDayCount": 5,
     "slotDuration": "00:30:00",
     "slotMinTime": "00:00:00",
     "slotMaxTime": "24:00:00",
@@ -39,7 +39,7 @@
     "defaultShowTimeblocks": true,
     "nowIndicator": true,
     "selectMirror": true,
-    "weekNumbers": false,
+    "weekNumbers": true,
     "showTodayHighlight": true
   },
   "pomodoroWorkDuration": 25,
@@ -57,8 +57,8 @@
   "useDefaultsOnInstantConvert": true,
   "enableNaturalLanguageInput": true,
   "nlpDefaultToScheduled": true,
-  "inlineTaskConvertFolder": "{{currentNotePath}}",
-  "disableNoteIndexing": false,
+  "inlineTaskConvertFolder": "Calendar/Tasks",
+  "disableNoteIndexing": true,
   "fieldMapping": {
     "title": "title",
     "status": "status",
@@ -144,7 +144,7 @@
     }
   ],
   "recurrenceMigrated": true,
-  "showTrackedTasksInStatusBar": false,
+  "showTrackedTasksInStatusBar": true,
   "autoStopTimeTrackingOnComplete": true,
   "autoStopTimeTrackingNotification": false,
   "showProjectSubtasks": true,
@@ -153,5 +153,57 @@
     "defaultNoteTemplate": "",
     "defaultNoteFolder": ""
   },
-  "savedViews": []
+  "savedViews": [],
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500,
+    "nextSessionType": "work"
+  },
+  "lastPomodoroDate": "2025-08-06",
+  "pomodoroHistory": [
+    {
+      "id": "1754139076953",
+      "startTime": "2025-08-02T20:51:16.953+08:00",
+      "endTime": "2025-08-02T20:51:25.464+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2025-08-02T20:51:16.953+08:00",
+          "endTime": "2025-08-02T20:51:25.464+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1754139087095",
+      "startTime": "2025-08-02T20:51:27.095+08:00",
+      "endTime": "2025-08-02T21:16:27.058+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-08-02T20:51:27.095+08:00",
+          "endTime": "2025-08-02T21:16:27.058+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1754140588297",
+      "startTime": "2025-08-02T21:16:28.297+08:00",
+      "endTime": "2025-08-02T21:21:28.298+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2025-08-02T21:16:28.297+08:00",
+          "endTime": "2025-08-02T21:21:28.298+08:00"
+        }
+      ]
+    }
+  ],
+  "showExpandableSubtasks": true,
+  "projectSubtasksPosition": "bottom"
 }

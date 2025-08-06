@@ -1,12 +1,12 @@
 {
-  "includeFirstLineAsNoteHeading": false,
+  "includeFirstLineAsNoteHeading": true,
   "excludeFirstLineInNote": false,
   "openNewNote": true,
   "headingFormat": "#",
-  "newFileLocation": 1,
-  "customFolder": "",
+  "newFileLocation": 2,
+  "customFolder": "📥 Inbox",
   "fileNamePrefix": "",
-  "transcludeByDefault": true,
+  "transcludeByDefault": false,
   "noteLinkTemplate": "",
   "refactoredNoteTemplate": "",
   "normalizeHeaderLevels": false

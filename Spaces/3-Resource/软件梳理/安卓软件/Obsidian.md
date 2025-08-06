@@ -20,6 +20,7 @@ icon: "[[icon-cc-image-Obsidian.png]]"
 是否已重装: true
 publish: true
 跨平台技术栈: "[[Electron]]"
+icon-3d: "[[obsidian-3d-icon-cc-image.png]]"
 ---
 
 up:: [[笔记软件的选择]]  

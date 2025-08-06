@@ -7,7 +7,7 @@ title: Admonition
 当前使用频率: 0
 tags:
   - obsidian插件
-rating: 4
+rating: 3
 status:
 publish: true
 ---

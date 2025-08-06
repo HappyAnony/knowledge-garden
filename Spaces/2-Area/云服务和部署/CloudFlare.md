@@ -9,6 +9,8 @@ url: https://dash.cloudflare.com/
 publish: true
 ---
 
+日常使用考虑配合ai生成命令行，用[[wrangler]]进行操作
+
 另外2个赛博菩萨：
 [[supabase]]和[[neon]]，都基于[[PostgreSQL]]提供开箱即用的[[无服务器计算服务|serverless]]
 

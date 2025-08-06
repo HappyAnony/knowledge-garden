@@ -51,12 +51,13 @@ alwaysApply: true
 - 结构开放，便于迁移、发布、二次开发。
 
 ## 7. Obsidian Canvas 规范（JSON Canvas 1.0 简要说明）
-- Obsidian Canvas 文件，由于使用了Advanced Canvas插件 ，所以遵循 [Obsidian advanced canvas 规范.md](mdc:Extras/Prompts/Obsidian/Obsidian advanced canvas 规范.md)  。
+- Obsidian Canvas 文件，由于使用了Advanced Canvas插件 ，所以遵循 [Obsidian advanced canvas 规范.md](mdc:Extras/Prompts/Obsidian/Obsidian advanced canvas 规范.md)  。但是不要使用shape了，因为它显示地不清楚，就用默认的shape。file引用时，不要使用绝对路径，使用相对路径，并且不要忘记md文件要带上.md后缀，base文件要带上.base后缀，canvas文件要带上.canvas后缀。
 - 主要结构：
   - `nodes`：节点数组，支持 text（文本）、file（文件/图片）、link（外链）、group（分组）等类型。
   - `edges`：边数组，连接节点。
 - 主要字段：
-  - 节点（node）：`id`（唯一标识，不能有`-`短横杆）、`type`、`x`、`y`、`width`、`height`、`color`（可选）、type-specific 字段（如 text、file、url、label 等）。file可以引用其他除了md以外的canvas、bases、excalidraw等文件
+  - 节点（node）：`id`、`type`、`x`、`y`、`width`、`height`、`color`（可选）、type-specific 字段（如 text、file、url、label 等）。file可以引用其他除了md以外的canvas、bases、excalidraw等文件
   - 边（edge）：`id`、`fromNode`、`toNode`、`fromSide`/`toSide`（可选）、`fromEnd`/`toEnd`（可选）、`color`（可选）、`label`（可选）。
   - 颜色（color）：支持 hex 代码或 1-6 预设色（1=红，2=橙，3=黄，4=绿，5=青，6=紫）。
-- **重要提醒：** 在 `nodes` 的 `text` 字段中，如果文本内容本身包含双引号 (`"`)，必须使用反斜杠 (`\`) 进行转义，即写为 `\"`，以确保 JSON 格式的有效性。如果要换行，则需要在每行末尾加2个空格再用\n换行的markdown严格换行模式。生成canvas的node时，需要依据text文本长度，给一个合适的width、x、y的值。
+- **重要提醒：** id：唯一标识，不能有`-`短横杆。在 `nodes` 的 `text` 字段中，如果文本内容本身包含双引号 (`"`)，必须使用反斜杠 (`\`) 进行转义，即写为 `\"`，以确保 JSON 格式的有效性。如果要换行，则需要在每行末尾加2个空格再用\n换行的markdown严格换行模式。生成canvas的node时，需要依据text文本长度，给一个合适的width、x、y的值。生成的json文件需要严格遵守json格式，比如不能有注释，不能在末尾加逗号。
+- 可以使用[[canvas candy]]中的cssclasses适当美化canvas。

@@ -5,7 +5,7 @@ date modified: 2025-07-09
   - "[[gingko]]"
 tags:
   - obsidian插件
-rating: 6
+rating: 5
 aliases:
   - 类似gingko的插件
 status:

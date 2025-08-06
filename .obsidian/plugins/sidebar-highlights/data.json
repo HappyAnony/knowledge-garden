@@ -81,14 +81,15 @@
         "id": "qfjyy9zd2",
         "text": "靠谱",
         "tags": [],
-        "line": 16,
-        "startOffset": 471,
-        "endOffset": 477,
+        "line": 19,
+        "startOffset": 548,
+        "endOffset": 554,
         "filePath": "🍀 花园导览/🏋 如何保持健康.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1752313202490,
-        "isNativeComment": false
+        "isNativeComment": false,
+        "type": "highlight"
       }
     ],
     "Spaces/_ Spaces Readme.md": [
@@ -201,22 +202,24 @@
           "\r\n[[简历草稿 2025]]\r\n[[面试相关文章]]\r\n[[面试自我介绍和常见问题回答]]\r\n"
         ],
         "createdAt": 1753094051188,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       },
       {
         "id": "0enwvmzvd",
         "text": "\r\n[[🔡STAR]]  \r\n角色 - 简单描述情景和任务 - 展开技术化语言行动和结果 ",
         "tags": [],
         "line": 77,
-        "startOffset": 2025,
-        "endOffset": 2075,
+        "startOffset": 1537,
+        "endOffset": 1587,
         "filePath": "Spaces/1-Project/下半年看看新机会/∑ 个人简历.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "\r\n[[🔡STAR]]  \r\n角色 - 简单描述情景和任务 - 展开技术化语言行动和结果 "
         ],
         "createdAt": 1753094051117,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/WuCaiSync /2024/05/wucai-真人露脸的需求开发-H85AHCK.md": [
@@ -821,14 +824,15 @@
         "text": "█  ",
         "tags": [],
         "line": 22,
-        "startOffset": 369,
-        "endOffset": 401,
+        "startOffset": 360,
+        "endOffset": 392,
         "filePath": "Sources/WuCaiSync /2024/02/wucai-10个具有代表性的AI-Agents将如何改变互联网重塑Web3-H873859.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1748615142043,
         "isNativeComment": false,
-        "color": "#ffff83"
+        "color": "#ffff83",
+        "type": "html"
       }
     ],
     "Sources/WuCaiSync /2024/01/wucai-（3）索引 - ArcBrowser --- (3) index - ArcBrowser-H88K9BA.md": [
@@ -1277,49 +1281,6 @@
         "createdAt": 1748615142069,
         "isNativeComment": false,
         "color": "#ffff83"
-      }
-    ],
-    "Sources/CuboxSync/我的 Cursor 编程实践经验分享 - BestBlogs.dev-2025-07-25.md": [
-      {
-        "id": "z37ysh2ko",
-        "text": " nil && cached {        return &userData, nil    }    // 从数据库查询    query := \"SELECT user_id, name, created_at FROM user_table WHERE user_id = ?\"    err = mdb.GetDB().GetContext(ctx, &userData, query, userID)    if err != nil {        return nil, errors.Wrap(err, \"query database failed\")    }    // 更新缓存    _ = mcache.Set(ctx, cacheKey, userData, 5*time.Minute)    return &userData, nil}```## 示例<example>// 良好实践：正确的错误处理和日志记录package serviceimport (    \"context\"    \"github.com/pkg/errors\"    \"amap-aos-activity/basic/common\"    \"amap-aos-activity/framework/mlogger\"    \"amap-aos-activity/model/user\")func GetUserProfile(ctx context.Context, userID string) (*user.Profile, *common.Error) {    // 参数验证    if userID ",
-        "tags": [],
-        "line": 503,
-        "startOffset": 10241,
-        "endOffset": 10957,
-        "filePath": "Sources/CuboxSync/我的 Cursor 编程实践经验分享 - BestBlogs.dev-2025-07-25.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1753457866567,
-        "isNativeComment": false
-      },
-      {
-        "id": "4vrh572e6",
-        "text": " \"\" {        return nil, common.Errorf(common.ErrorInternal, \"url conf miss\")    }    // 2. 构建URL和请求参数    url := conf.URL + \"/api/endpoint\"    httpParams := map[string]string{        \"param1\": params.Field1,        \"param2\": types.IWrapper(params.Field2).String(),        // 必须加入追踪ID        \"trace_id\": eagleeye.GetTraceId(ctx),    }    // 3. 构建请求选项    opt := simplehttp.BuildOptions(&simplehttp.Options{        Method:           \"GET\", // 或 POST 等        Params:           httpParams,        Timeout:          conf.Timeout,        HostWithVip:      conf.VipHost,        RecordWithParams: httpcommon.RecordWithParams,    })    // 4. 发送请求并记录日志    respData, err := simplehttp.RequestWithContext(ctx, url, opt)    common.LogInfof(ctx, \"log_type\", \"request info, params=%v, err=%v\", params, err)    // 5. 错误处理    if err != nil {        return nil, common.Errorf(common.ErrorInternal, \"request failed.err:%s\", err.Error())    }    // 6. 解析响应    var response ResponseType    err = json.Unmarshal(respData, &response)    if err != nil {        return nil, common.Errorf(common.ErrorInternal, \"unmarshal failed.err:%s\", err.Error())    }    // 7. 返回结果    return response, nil}```### 带缓存的HTTP调用```gofunc GetDataWithCache(ctx context.Context, key string, params RequestParams) (ResponseType, error) {    var resp ResponseType    cacheKey := fmt.Sprintf(\"cache_key_prefix_%s\", key)    // 使用缓存机制    err := mcache.GetLocalCacheFiveSecond(ctx).Once(ctx, cacheKey, &resp, 5*time.Second, func() (interface{}, error) {        // 调用实际API        data, e := SendRequest(ctx, params)        // 记录日志        common.LogDebugf(ctx, \"module_name\", \"GetData, key:%s, data:%+v, err:%v\", key, data, e)        // 错误处理        if e != nil {            return nil, errors.New(e.Error())        }        return data, nil    })    if err != nil {        return nil, err    }    return resp, nil}```## HSF客户端标准实现### 服务定义规范```go// 全局服务实例var XXXService = new(XXXServiceImpl)// 注册HSF模型func init() {    hsfCommon.RegisterModel(&ModelType1{})    hsfCommon.RegisterModel(&ModelType2{})    // 其他模型注册...}// 服务结构体定义type XXXServiceImpl struct {    // 方法定义，必须遵循标准方法签名    MethodName func(ctx context.Context, args []interface{}) (*ResponseType, error)}// 接口名配置func (s *XXXServiceImpl) InterfaceName() string {    return mconfig.UrlConfig().GetString(\"ServiceName.interfaceName\")}// 版本配置func (s *XXXServiceImpl) Version() string {    return mconfig.UrlConfig().GetString(\"ServiceName.version\")}// 组名配置func (s *XXXServiceImpl) Group() string {    return mconfig.UrlConfig().GetString(\"ServiceName.group\")}// 超时配置func (s *XXXServiceImpl) TimeoutMs() int {    return mconfig.UrlConfig().GetInt(\"ServiceName.timeout\")}```### 请求模型定义```go// 请求模型必须实现JavaClassName方法type RequestType struct {    Field1 string    `json:\"field1\" hessian:\"field1\"`    Field2 int64     `json:\"field2\" hessian:\"field2\"`    // ...}func (RequestType) JavaClassName() string {    return\"com.package.RequestType\"}// 响应模型必须实现JavaClassName方法type ResponseType struct {    Code    int32       `json:\"code\"`    Data    interface{} `json:\"data\"`    Success bool        `json:\"success\"`    // ...}func (ResponseType) JavaClassName() string {    return\"com.package.ResponseType\"}```### 标准HSF调用实现```go// 标准HSF调用方法func CallHSFService(ctx context.Context, request *RequestType) (*DataType, *common.Error) {    // 1. 调用HSF服务    hsfResp, e := XXXService.MethodName(ctx, []interface{}{request})    // 2. 记录请求和响应日志    reqJson, _ := json.Marshal(request)    respJson, _ := json.Marshal(hsfResp)    common.LogInfof(ctx, \"hsf_call\", \"hsf resp:%s, err:%v, req:%s\",        string(respJson), e, string(reqJson))    // 3. 错误处理    if e != nil {        return nil, common.Errorf(common.ErrorInternal, \"HSF call failed.err:%s\", e.Error())    }    // 4. 结果处理    if hsfResp != nil {        result := ParseResponseData(hsfResp.Data)        return result, nil    }    return nil, nil}// 解析响应数据的标准方法func ParseResponseData(data interface{}) *DataType {    if data ",
-        "tags": [],
-        "line": 1732,
-        "startOffset": 31753,
-        "endOffset": 35707,
-        "filePath": "Sources/CuboxSync/我的 Cursor 编程实践经验分享 - BestBlogs.dev-2025-07-25.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1753457867079,
-        "isNativeComment": false
-      }
-    ],
-    "Sources/CuboxSync/上手MCP官方Go SDK：一份面向实战的入门指南-2025-07-23.md": [
-      {
-        "id": "9vf4umlup",
-        "text": "&mid=2247490381&idx=1&sn=76ec678c2fe96612cb5778b1a1503dc7&scene=21#wechat_redirect)》后，我的 《[Go语言进阶课](https://mp.weixin.qq.com/s?__biz=MzIyNzM0MDk0Mg",
-        "tags": [],
-        "line": 728,
-        "startOffset": 25367,
-        "endOffset": 25518,
-        "filePath": "Sources/CuboxSync/上手MCP官方Go SDK：一份面向实战的入门指南-2025-07-23.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1753336374392,
-        "isNativeComment": false
       }
     ],
     "Sources/CuboxSync/被传销洗脑是怎样的过程？ - 知乎-2022-06-02.md": [
@@ -1872,34 +1833,6 @@
         "createdAt": 1748615159852,
         "isNativeComment": false,
         "type": "highlight"
-      }
-    ],
-    "Sources/CuboxSync/万字长文深入浅出教你优雅开发复杂AI Agent-2025-06-25.md": [
-      {
-        "id": "qreyz43gj",
-        "text": "&mid=2649794129&idx=1&sn=8d1bcb2faee434e9754c84974e2dc743&chksm=bf9b03be2f4388e19ee8285a1aa5dcc16dac8e5f154a460b9cc5bc06c729bf32af92f9bf803a&mpshare=1&srcid=06250hoOKaKZ4Ry8kxCivnDr&sharer_shareinfo=a70365d690c3af8d9a079aceea2d992e&sharer_shareinfo_first=a70365d690c3af8d9a079aceea2d992e&from=groupmessage&scene=1&subscene=10000&clicktime=1750824893&enterid=1750824893&sessionid=0&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7791309-zh_CN-zip&fasttmpl_flag=0&realreporttime=1750824893978&devicetype=android-35&version=28003c51&nettype=WIFI&abtest_cookie=AAACAA",
-        "tags": [],
-        "line": 3,
-        "startOffset": 142,
-        "endOffset": 708,
-        "filePath": "Sources/CuboxSync/万字长文深入浅出教你优雅开发复杂AI Agent-2025-06-25.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1750868376971,
-        "isNativeComment": false
-      },
-      {
-        "id": "56ac4lpxo",
-        "text": "&mid=2649794129&idx=1&sn=8d1bcb2faee434e9754c84974e2dc743&chksm=bf9b03be2f4388e19ee8285a1aa5dcc16dac8e5f154a460b9cc5bc06c729bf32af92f9bf803a&mpshare=1&srcid=06250hoOKaKZ4Ry8kxCivnDr&sharer_shareinfo=a70365d690c3af8d9a079aceea2d992e&sharer_shareinfo_first=a70365d690c3af8d9a079aceea2d992e&from=groupmessage&scene=1&subscene=10000&clicktime=1750824893&enterid=1750824893&sessionid=0&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=7791309-zh_CN-zip&fasttmpl_flag=0&realreporttime=1750824893978&devicetype=android-35&version=28003c51&nettype=WIFI&abtest_cookie=AAACAA",
-        "tags": [],
-        "line": 12,
-        "startOffset": 1366,
-        "endOffset": 1932,
-        "filePath": "Sources/CuboxSync/万字长文深入浅出教你优雅开发复杂AI Agent-2025-06-25.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1750868377195,
-        "isNativeComment": false
       }
     ],
     "Sources/CuboxSync/一篇文章让你透彻认识 Mac 应用切换和窗口切换的逻辑-2024-06-14.md": [
@@ -2505,34 +2438,36 @@
     ],
     "Sources/Articles/常青笔记阅读笔记/数字笔记系统专注于笔记个体的展示和操作，常忽略笔记之间内在连接所产生的意义.md": [
       {
-        "id": "c2pzueuva",
-        "text": "我的理解:: [[Spaces/0-Work/Cards/excalibrain]]这种插件，不仅让我们专注于笔记个体，也能让我们注意到笔记之间内在连接的意义。[[Heptabase]]等白板工具也可以一定程度上缓解这种下意识的忽略。",
+        "id": "kejdbfjrm",
+        "text": "我的理解:: [[excalibrain]]这种插件，不仅让我们专注于笔记个体，也能让我们注意到笔记之间内在连接的意义。[[Heptabase]]等白板工具也可以一定程度上缓解这种下意识的忽略。",
         "tags": [],
         "line": 11,
         "startOffset": 194,
-        "endOffset": 315,
+        "endOffset": 295,
         "filePath": "Sources/Articles/常青笔记阅读笔记/数字笔记系统专注于笔记个体的展示和操作，常忽略笔记之间内在连接所产生的意义.md",
         "footnoteCount": 1,
         "footnoteContents": [
-          "我的理解:: [[Spaces/0-Work/Cards/excalibrain]]这种插件，不仅让我们专注于笔记个体，也能让我们注意到笔记之间内在连接的意义。[[Heptabase]]等白板工具也可以一定程度上缓解这种下意识的忽略。"
+          "我的理解:: [[excalibrain]]这种插件，不仅让我们专注于笔记个体，也能让我们注意到笔记之间内在连接的意义。[[Heptabase]]等白板工具也可以一定程度上缓解这种下意识的忽略。"
         ],
-        "createdAt": 1752259580523,
-        "isNativeComment": true
+        "createdAt": 1753802666771,
+        "isNativeComment": true,
+        "type": "comment"
       },
       {
         "id": "dxftzd4ng",
         "text": "[[Heptabase]]就是为了这个等价的数字版场景而生的，哈哈",
         "tags": [],
         "line": 19,
-        "startOffset": 1158,
-        "endOffset": 1195,
+        "startOffset": 1138,
+        "endOffset": 1175,
         "filePath": "Sources/Articles/常青笔记阅读笔记/数字笔记系统专注于笔记个体的展示和操作，常忽略笔记之间内在连接所产生的意义.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "[[Heptabase]]就是为了这个等价的数字版场景而生的，哈哈"
         ],
         "createdAt": 1752259580487,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/收集材料的作用在感觉上被夸大了.md": [

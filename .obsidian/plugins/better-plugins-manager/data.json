@@ -210,16 +210,6 @@
       "note": ""
     },
     {
-      "id": "diagram-zoom-drag",
-      "name": "Diagram Zoom Drag",
-      "desc": "Add zoom and drag functionality to diagrams from Mermaid, Plantuml, Graphviz, Gravizo and so on",
-      "group": "经常",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
       "id": "extended-graph",
       "name": "Extended Graph",
       "desc": "Extends the features of the core Graph view, display images, manage states, remove links, change node shapes, and more.",
@@ -434,16 +424,6 @@
       "name": "List Callouts",
       "desc": "Create simple callouts in lists.",
       "group": "经常",
-      "tags": [],
-      "enabled": true,
-      "delay": "",
-      "note": ""
-    },
-    {
-      "id": "obsidian-sortable",
-      "name": "Sortable",
-      "desc": "Wiki-like table sorting.",
-      "group": "探索",
       "tags": [],
       "enabled": true,
       "delay": "",
@@ -703,6 +683,46 @@
       "id": "simple-columns",
       "name": "Simple Columns",
       "desc": "Create and manage columns in your notes effortlessly, featuring customizable columns with easy-to-resize widths.",
+      "group": "经常",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": "还不错"
+    },
+    {
+      "id": "tasknotes",
+      "name": "TaskNotes",
+      "desc": "Note-based task management with calendar, pomodoro and time-tracking integration.",
+      "group": "高频",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "hi-words",
+      "name": "HiWords",
+      "desc": "Effortlessly grow your vocabulary as you read, with automatic highlighting and translation of unfamiliar words.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "related-notes-by-tag",
+      "name": "Related Notes by Tag",
+      "desc": "Displays list of notes in the sidebar that share tags with the currently active note.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "custom-file-viewer",
+      "name": "Custom File Viewer",
+      "desc": "Open files with custom external applications based on file extension",
       "group": "",
       "tags": [],
       "enabled": false,
@@ -710,12 +730,22 @@
       "note": ""
     },
     {
-      "id": "tasknotes",
-      "name": "TaskNotes",
-      "desc": "Note-based task management with calendar, pomodoro and time-tracking integration.",
-      "group": "",
+      "id": "pretty-properties",
+      "name": "Pretty Properties",
+      "desc": "Makes note properties look more fun: adds side image, banners, list property colors and allows to hide specific properties.",
+      "group": "探索",
       "tags": [],
       "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "multiple-notes-outline",
+      "name": "Multiple Notes Outline",
+      "desc": "Add custom views which show outlines of multiple notes with headings, links, tags and list items.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
       "delay": "",
       "note": ""
     }

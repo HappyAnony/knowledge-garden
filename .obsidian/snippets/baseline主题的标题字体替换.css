@@ -1,0 +1,11 @@
+    body {
+        --h1-font: "CorpSrcWinSong" !important;
+        --h2-font: "CorpSrcWinSong" !important;
+        --h3-font: "CorpSrcWinSong" !important;
+    }
+
+    .HyperMD-header-1, .inline-title h1, .HyperMD-list-line .cm-header-1,
+    .HyperMD-header-2, .inline-title h2, .HyperMD-list-line .cm-header-2,
+    .HyperMD-header-3, .inline-title h3, .HyperMD-list-line .cm-header-3 {
+        letter-spacing: 0.015em !important;
+    }

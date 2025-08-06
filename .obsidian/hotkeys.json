@@ -265,7 +265,6 @@
       "key": "."
     }
   ],
-  "editor:toggle-checklist-status": [],
   "editor:delete-paragraph": [
     {
       "modifiers": [
@@ -363,6 +362,15 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
     }
   ]
 }

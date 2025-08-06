@@ -1,5 +1,4 @@
 ---
-toc: true
 title: AIGC
 tags:
   - AI生成

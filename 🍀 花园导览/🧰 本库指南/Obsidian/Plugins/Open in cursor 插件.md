@@ -4,7 +4,7 @@ date modified: 2025-07-10
 tags:
   - obsidian插件
   - 自己开发
-rating: 5
+rating: 1
 status:
 publish: true
 ---

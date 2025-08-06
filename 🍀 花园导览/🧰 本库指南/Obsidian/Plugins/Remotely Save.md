@@ -5,6 +5,7 @@ title: Remotely Save
 tags:
   - obsidian插件
 publish: true
+rating: 4
 ---
 
 通过 [[Onedrive]]或者[[S3 - 对象存储服务]] 进行不同终端的数据同步。
