@@ -2,14 +2,6 @@
 title: Istio 架构与命令执行流程图
 date created: 2025-01-28
 date modified: 2025-01-28
-tags:
-  - istio
-  - 服务网格
-  - 流程图
-  - mermaid
-  - 架构图
-  - 云原生
-  - AI生成
 publish: true
 ---
 

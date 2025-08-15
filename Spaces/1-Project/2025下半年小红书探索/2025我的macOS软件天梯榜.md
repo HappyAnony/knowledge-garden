@@ -8,9 +8,10 @@ date modified: 2025-07-15
   - macos
   - obsidian
   - cursor
-笔记状态: 超级大爆了🔥
+小红书-笔记状态: 超级大爆了🔥
 描述: 很可能是新人福利，另一篇将Windows的同样格式，就凉了
 publish: true
+发布时间: 2025-07-14T17:14:00
 ---
 
 ## 图片来源

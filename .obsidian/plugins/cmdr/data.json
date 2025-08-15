@@ -36,11 +36,11 @@
       "color": "#ffd500"
     },
     {
-      "id": "templater-obsidian:Extras/Templates/templater-js-scripts/add-review-properties.md",
+      "id": "fix-require-modules:invokeScriptFile-review-properties.ts",
       "icon": "lucide-brain-circuit",
-      "name": "Templater: Insert Extras/Templates/templater-js-scripts/add-review-properties.md",
+      "name": "CodeScript Toolkit: Invoke Script: review-properties.ts",
       "mode": "any",
-      "color": "#0c6f29"
+      "color": "#098a00"
     },
     {
       "id": "file-explorer:reveal-active-file",

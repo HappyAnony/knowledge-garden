@@ -1,15 +1,20 @@
 {
   "pluginList": [
-    "anareaty/pretty-properties",
-    "CatMuse/HiWords"
+    "mnaoumov/obsidian-advanced-exclude",
+    "pjeby/hot-reload",
+    "anareaty/pretty-properties"
   ],
   "pluginSubListFrozenVersion": [
     {
-      "repo": "anareaty/pretty-properties",
+      "repo": "mnaoumov/obsidian-advanced-exclude",
       "version": "latest"
     },
     {
-      "repo": "CatMuse/HiWords",
+      "repo": "pjeby/hot-reload",
+      "version": "latest"
+    },
+    {
+      "repo": "anareaty/pretty-properties",
       "version": "latest"
     }
   ],
@@ -22,5 +27,6 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
   "notificationsEnabled": true,
-  "personalAccessToken": ""
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
 }

@@ -12,7 +12,6 @@
     "订阅费用（年）": "text",
     "相关笔记": "multitext",
     "canvas-edges": "multitext",
-    "已读": "checkbox",
     "notetoolbar": "multitext",
     "是否有firefox版本": "checkbox",
     "update_time": "datetime",
@@ -26,6 +25,8 @@
     "是否在用": "checkbox",
     "dateCreated": "datetime",
     "dateModified": "datetime",
-    "小红书-话题": "multitext"
+    "小红书-话题": "multitext",
+    "跨平台技术栈": "text",
+    "win右下角是否弹窗": "checkbox"
   }
 }

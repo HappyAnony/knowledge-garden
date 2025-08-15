@@ -162,11 +162,11 @@
     font-size: 0;
 }
 
-.metadata-container:has(.metadata-side-image.vertical) {
+.metadata-container:has(.metadata-side-image.vertical-cover, .metadata-side-image.vertical-contain) {
   grid-template-columns: var(--cover-width-vertical) auto;
 }
 
-.metadata-container:has(.metadata-side-image.horizontal) {
+.metadata-container:has(.metadata-side-image.horizontal-cover, .metadata-side-image.horizontal-contain) {
   grid-template-columns: var(--cover-width-horizontal) auto;
 }
 
@@ -192,8 +192,14 @@
     margin: auto;
   }
 
-  .metadata-side-image.vertical img {
+  .metadata-side-image.vertical-cover img,
+  .metadata-side-image.vertical-contain img {
     aspect-ratio: auto !important;
+    object-fit: contain !important;
+  }
+
+  .metadata-side-image.horizontal-contain img {
+    object-fit: cover !important;
   }
 
   .metadata-side-image.square img,
@@ -208,14 +214,31 @@
 
 
 
-.metadata-side-image.vertical img {
+.metadata-side-image.vertical-cover img,
+.metadata-side-image.vertical-contain img {
   aspect-ratio: 0.63;
-  object-fit: contain;
   object-position: top;
 }
 
-.metadata-side-image.horizontal img {
+.metadata-side-image.vertical-contain img {
+  object-fit: contain;
+}
+
+.metadata-side-image.vertical-cover img {
+  object-fit: cover;
+}
+
+
+.metadata-side-image.horizontal-cover img,
+.metadata-side-image.horizontal-contain img {
   aspect-ratio: 4/3;
+}
+
+.metadata-side-image.horizontal-contain img {
+  object-fit: contain;
+}
+
+.metadata-side-image.horizontal-cover img {
   object-fit: cover;
 }
 
@@ -229,7 +252,7 @@
 .metadata-side-image.circle img {
   aspect-ratio: 1;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 50% !important;
 }
 
 
@@ -433,6 +456,10 @@ body {
 
 
 
+
+
+
+
 .pp-bases-enabled .bases-table-cell {
   --tag-padding-x: 0.5em;
   --tag-padding-y: 0;
@@ -442,25 +469,6 @@ body {
   display: flex;
 }
 
-
-.metadata-property-value .multi-select-pill,
-.pp-bases-enabled .bases-td[data-property="formula.tags"] .value-list-element,
-.pp-bases-enabled .bases-cards-property[data-property="formula.tags"] .value-list-element {
-  --pill-padding-x: var(--tag-padding-x);
-  --pill-padding-y: var(--tag-padding-y);
-  
-}
-
-.pp-bases-enabled .bases-td[data-property="formula.tags"] .value-list-element,
-.pp-bases-enabled .bases-cards-property[data-property="formula.tags"] .value-list-element {
-    border: var(--pill-border-width) solid var(--pill-border-color);
-    border-radius: var(--pill-radius);
-    color: var(--pill-color);
-    font-weight: var(--pill-weight);
-    padding: var(--pill-padding-y) var(--pill-padding-x);
-    line-height: var(--line-height-tight);
-}
-
 .multi-select-pill,
 .pp-bases-enabled .value-list-element {
   --pill-background: var(--pill-background-modified) !important;
@@ -468,9 +476,38 @@ body {
 }
 
 
-.pp-bases-enabled .bases-td[data-property="note.tags"] .multi-select-pill,
-.pp-bases-enabled .bases-td[data-property="formula.tags"] .value-list-element,
-.pp-bases-enabled .bases-cards-property[data-property="formula.tags"] .value-list-element,
+
+.pp-bases-enabled .bases-view [data-property*="note"] .value-list-element,
+.pp-bases-enabled.pp-style-formula-tags .bases-view [data-property="formula.tags"] .value-list-element {
+    display: inline-block;
+    color: var(--pill-color);
+    background-color: var(--pill-background);
+    border-radius: var(--pill-radius);
+    line-height: var(--line-height-tight);
+    font-weight: var(--pill-weight);
+}
+
+
+.value-list-element {
+  --pill-padding-x: 0;
+}
+
+
+.pp-bases-enabled .bases-view [data-property*="note"] .value-list-element {
+    --pill-padding-y: 0;
+      padding: var(--pill-padding-y) var(--pill-padding-x);
+}
+
+
+.pp-bases-enabled.pp-base-tag-color .bases-cards-property[data-property="note.tags"] .value-list-element,
+.pp-bases-enabled.pp-base-tag-color.pp-style-formula-tags .bases-cards-property[data-property="formula.tags"] .value-list-element {
+    padding: 0 0.4em !important;
+}
+
+
+.pp-bases-enabled.pp-base-tag-color .bases-view [data-property="note.tags"] .multi-select-pill,
+.pp-bases-enabled.pp-base-tag-color .bases-view [data-property="note.tags"] .value-list-element,
+.pp-bases-enabled.pp-base-tag-color.pp-style-formula-tags .bases-view [data-property="formula.tags"] .value-list-element,
 .metadata-property[data-property-key="tags"] .multi-select-pill{
     --pill-color: var(--tag-color);
     --pill-color-hover: var(--tag-color-hover);
@@ -483,14 +520,15 @@ body {
     --pill-border-color: var(--tag-border-color);
     --pill-border-color-hover: var(--tag-border-color-hover);
     --pill-border-width: var(--tag-border-width); 
+    --pill-padding-x: var(--tag-padding-x); 
 }
 
 
-.pp-bases-enabled .value-list-element {
-  background-color: var(--pill-background);
-  border-radius: var(--pill-radius);
-  padding: 2px 4px !important;
-  display: inline-block;
+
+
+
+.pp-bases-enabled.pp-style-formula-tags .bases-view [data-property="formula.tags"] .value-list-element {
+  padding: 0 var(--pill-padding-x);
 }
 
 
@@ -615,4 +653,4 @@ body {
 
 .position-setting input[type='range'] {
   width: 100%;
-}
+	}

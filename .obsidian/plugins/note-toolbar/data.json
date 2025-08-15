@@ -616,52 +616,6 @@
       "hasCommand": true,
       "items": [
         {
-          "uuid": "91eb21c5-e313-4634-a91a-244cebbf67e2",
-          "hasCommand": false,
-          "icon": "focus",
-          "inGallery": false,
-          "label": "",
-          "link": "",
-          "linkAttr": {
-            "commandId": "",
-            "hasVars": false,
-            "target": "",
-            "type": "javascript"
-          },
-          "plugin": "",
-          "scriptConfig": {
-            "expression": "const h = activeDocument.querySelector('.view-header'), s = activeDocument.querySelector('.status-bar');\nif (h && s) {\n if (h.style.display === 'none') {\n h.style.display = '';\n s.style.display = '';\n app.workspace.leftSplit?.expand();\n app.workspace.rightSplit?.expand();  // 取消注释这一行\n await app.commands.executeCommandById('note-toolbar:show-properties');\n }\n else {\n h.style.display = 'none';\n s.style.display = 'none';\n app.workspace.leftSplit?.collapse();\n app.workspace.rightSplit?.collapse();  // 取消注释这一行\n await app.commands.executeCommandById('note-toolbar:hide-properties');\n }\n}",
-            "pluginFunction": "evaluate"
-          },
-          "tooltip": "Toggle UI",
-          "visibility": {
-            "desktop": {
-              "allViews": {
-                "components": [
-                  "icon",
-                  "label"
-                ]
-              }
-            },
-            "mobile": {
-              "allViews": {
-                "components": [
-                  "icon",
-                  "label"
-                ]
-              }
-            },
-            "tablet": {
-              "allViews": {
-                "components": [
-                  "icon",
-                  "label"
-                ]
-              }
-            }
-          }
-        },
-        {
           "uuid": "47e8a832-76a2-41b7-9ffb-45b34a5bcc55",
           "hasCommand": false,
           "icon": "file-json-2",
@@ -834,6 +788,134 @@
               }
             }
           }
+        },
+        {
+          "uuid": "5ff3c467-95f6-4c84-8bee-f63bd5334bbc",
+          "hasCommand": false,
+          "icon": "lucide-presentation",
+          "inGallery": false,
+          "label": "Presentation mode",
+          "link": "File Cooker: Start Presentation",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "obsidian-file-cooker:start-presentation",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "演讲模式放大放宽",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "d4f347af-7a51-44ea-be80-f656d605934c",
+          "hasCommand": false,
+          "icon": "lucide-focus",
+          "inGallery": false,
+          "label": "Super focus mode",
+          "link": "Style Settings: Toggle Super Focused Mode",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "obsidian-style-settings:style-settings-class-toggle-V1-Willemstad-Editor-ssopt-super-focused-mode",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "超级聚焦沉浸模式",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "91eb21c5-e313-4634-a91a-244cebbf67e2",
+          "hasCommand": false,
+          "icon": "zoom-to-selection",
+          "inGallery": false,
+          "label": "Zen mode",
+          "link": "",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "javascript"
+          },
+          "plugin": "",
+          "scriptConfig": {
+            "expression": "const h = activeDocument.querySelector('.view-header'), s = activeDocument.querySelector('.status-bar');\nif (h && s) {\n if (h.style.display === 'none') {\n h.style.display = '';\n s.style.display = '';\n app.workspace.leftSplit?.expand();\n app.workspace.rightSplit?.expand();  // 取消注释这一行\n await app.commands.executeCommandById('note-toolbar:show-properties');\n }\n else {\n h.style.display = 'none';\n s.style.display = 'none';\n app.workspace.leftSplit?.collapse();\n app.workspace.rightSplit?.collapse();  // 取消注释这一行\n await app.commands.executeCommandById('note-toolbar:hide-properties');\n }\n}",
+            "pluginFunction": "evaluate"
+          },
+          "tooltip": "Zen mode",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
         }
       ],
       "mobileStyles": [],
@@ -855,7 +937,7 @@
           }
         }
       },
-      "updated": "2025-06-24T19:15:13.309Z"
+      "updated": "2025-08-15T08:01:41.728Z"
     },
     {
       "defaultStyles": [

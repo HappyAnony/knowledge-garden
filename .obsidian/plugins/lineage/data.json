@@ -1,17 +1,5 @@
 {
   "documents": {
-    "🍀 花园导览/Lineage 花园导览.md": {
-      "documentFormat": "sections",
-      "viewType": "lineage",
-      "activeSection": "1.2",
-      "pinnedSections": {
-        "sections": [],
-        "activeSection": null
-      },
-      "outline": {
-        "collapsedSections": []
-      }
-    },
     "Cards/测试验证lineage视图语法.md": {
       "documentFormat": "sections",
       "viewType": "lineage",
@@ -23,28 +11,6 @@
           "2.2"
         ],
         "activeSection": "2.2"
-      },
-      "outline": {
-        "collapsedSections": []
-      }
-    },
-    "Atlas/Lineages/《影响力》Lineage笔记.md": {
-      "documentFormat": "sections",
-      "viewType": "lineage",
-      "activeSection": "1",
-      "pinnedSections": {
-        "sections": []
-      },
-      "outline": {
-        "collapsedSections": []
-      }
-    },
-    "📥 Inbox/三体登陆地球小说大纲.md": {
-      "documentFormat": "sections",
-      "viewType": "lineage",
-      "activeSection": "2.2",
-      "pinnedSections": {
-        "sections": []
       },
       "outline": {
         "collapsedSections": []

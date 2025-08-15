@@ -2,11 +2,6 @@
 date created: 2025-01-27
 date modified: 2025-01-27
 title: Obsidian2Cursor 插件开发笔记
-tags:
-  - obsidian
-  - cursor
-  - 插件开发
-  - 开发工具
 type: project
 status: processing
 publish: true
@@ -62,4 +57,3 @@ publish: true
 
 ## 🏷️ 相关标签
 
-#项目管理 #工具集成 #效率提升

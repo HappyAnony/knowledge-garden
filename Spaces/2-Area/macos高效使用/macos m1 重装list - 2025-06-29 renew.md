@@ -25,7 +25,7 @@ publish: true
 - [[Cursor]]
 - [[Raycast]]
 - [[Clash Verge]]
-- [[Warp]]
+- [[Warp App]]
 - [[Ice]]
 - [[CleanShot X]]
 - [[istat Menus]]

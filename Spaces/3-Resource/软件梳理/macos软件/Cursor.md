@@ -17,7 +17,10 @@ icon: "[[cursor-icon-cc-image.jpg]]"
 publish: true
 跨平台技术栈: "[[Electron]]"
 icon-3d: "[[cursor-3d-icon-cc-image.png]]"
+分类: "[[AI产品]]"
 ---
+
+[[cursor cli]]
 
 [[cursor 使用技巧总结]]
 [[cursor和idea比如goland之间互相跳转]]

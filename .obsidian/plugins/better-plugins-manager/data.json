@@ -748,6 +748,106 @@
       "enabled": false,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "fix-require-modules",
+      "name": "CodeScript Toolkit",
+      "desc": "Allows to do a lot of things with JavaScript/TypeScript scripts from inside the Obsidian itself",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-fireworks",
+      "name": "烟花庆祝 Fireworks",
+      "desc": "运行命令后在界面播放烟花庆祝特效。",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "metadata-menu",
+      "name": "Metadata Menu",
+      "desc": "For data quality enthusiasts (and dataview users): manage the metadata of your notes.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-nine-tab",
+      "name": "Nine Tab Grid",
+      "desc": "一键按网格拆分当前标签页，支持6/9宫格与toggle恢复，并提供8宫格周视图（Weekly + Mon..Sun）",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-smart-canvas",
+      "name": "Smart Canvas",
+      "desc": "为 Obsidian Canvas 提供一键排版对齐 / 一键美化 / 一键将选中卡片的反向链接笔记加入当前画布。",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "petal-bloom",
+      "name": "Petal Bloom",
+      "desc": "将当前打开的文档内容变成花瓣一样散开的动画效果。",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "canvas-fold-toggle",
+      "name": "Canvas Fold Toggle",
+      "desc": "在 Obsidian Canvas 卡片右侧添加折叠按钮，可隐藏/显示其相邻（通过边连接）的卡片与连线。",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "hot-reload",
+      "name": "Hot Reload",
+      "desc": "Automatically reload in-development plugins when their files are changed",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "advanced-exclude",
+      "name": "Advanced Exclude",
+      "desc": "Enhances the Excluded files setting bringing gitignore syntax.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": "",
+      "note": ""
+    },
+    {
+      "id": "obsidian-front-matter-title-plugin",
+      "name": "Front Matter Title",
+      "desc": "Lets you define a title in frontmatter to be displayed as the filename for explorer, graph, search and etc.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": []

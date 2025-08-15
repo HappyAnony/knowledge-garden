@@ -2,13 +2,6 @@
 title: kubectl 命令执行流程图
 date created: 2025-01-28
 date modified: 2025-01-28
-tags:
-  - k8s
-  - kubectl
-  - 流程图
-  - mermaid
-  - 架构图
-  - AI生成
 publish: true
 ---
 

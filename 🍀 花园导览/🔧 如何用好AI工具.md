@@ -33,7 +33,7 @@ publish: true
 ## copilot 类型
 
 - [[raycast ai]]
-- [[Warp]]
+- [[Warp App]]
 - [[Arc浏览器]]
 	- 逐步得换成[[Dia 浏览器]]了。
 

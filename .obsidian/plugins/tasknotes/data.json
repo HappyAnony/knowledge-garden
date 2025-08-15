@@ -12,12 +12,14 @@
     "defaultContexts": "",
     "defaultTags": "",
     "defaultProjects": "[[∑ 2025下半年小红书探索]]",
+    "useParentNoteAsProject": false,
     "defaultTimeEstimate": 0,
     "defaultRecurrence": "none",
     "defaultDueDate": "none",
     "defaultScheduledDate": "today",
     "bodyTemplate": "",
-    "useBodyTemplate": false
+    "useBodyTemplate": false,
+    "defaultReminders": []
   },
   "calendarViewSettings": {
     "defaultView": "dayGridMonth",
@@ -77,7 +79,8 @@
     "completeInstances": "complete_instances",
     "pomodoros": "pomodoros",
     "icsEventId": "icsEventId",
-    "icsEventTag": "ics_event"
+    "icsEventTag": "ics_event",
+    "reminders": "reminders"
   },
   "customStatuses": [
     {
@@ -159,7 +162,7 @@
     "timeRemaining": 1500,
     "nextSessionType": "work"
   },
-  "lastPomodoroDate": "2025-08-06",
+  "lastPomodoroDate": "2025-08-11",
   "pomodoroHistory": [
     {
       "id": "1754139076953",
@@ -205,5 +208,14 @@
     }
   ],
   "showExpandableSubtasks": true,
-  "projectSubtasksPosition": "bottom"
+  "projectSubtasksPosition": "bottom",
+  "taskIdentificationMethod": "tag",
+  "taskPropertyName": "",
+  "taskPropertyValue": "",
+  "enableNotifications": true,
+  "notificationType": "system",
+  "enableAPI": false,
+  "apiPort": 8080,
+  "apiAuthToken": "",
+  "webhooks": []
 }

@@ -34,7 +34,7 @@ publish: true
 - [x] [[Clash Pro]]
 	- [x] [[Clash Verge]] 还在继续维护
 	- [x] [[Surge]] 🛫 2025-05-12
-- [x] [[Warp]] ✅ 2024-07-23
+- [x] [[Warp App]] ✅ 2024-07-23
 	- [x] 中文乱码问题还没解决，可能是 macOS 15 beta 版本导致的。
 - [x] [[Contexts]] ✅ 2024-07-23
 	- [x] 因为 raycast 的应用配置快捷键功能很好用，弃用 ✅ 2024-07-23
@@ -114,7 +114,7 @@ keyboardholder		tencent-meeting
 	- brew install --cask keyboardholder
 - [[LinearMouse]]
 	- brew install --cask linearmouse
-- [[Warp]]
+- [[Warp App]]
 	- brew install --cask warp
 - orbstack
 	- brew install orbstack

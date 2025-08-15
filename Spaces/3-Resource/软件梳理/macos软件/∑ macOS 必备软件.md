@@ -52,7 +52,7 @@ publish: true
 ### 开发工具
 
 - ! [[Cursor]]
-- ! [[Warp]]
+- ! [[Warp App]]
 - ! [[OrbStack]]
 - ! [[Proxyman]]
 - ! [[Goland]]

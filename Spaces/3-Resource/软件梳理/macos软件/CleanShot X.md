@@ -4,7 +4,6 @@ date modified: 2025-07-26
 title: CleanShot X
 tags:
   - macOS软件
-  - 截图工具
 评价: 6
 brew安装命令: 用破解版
 icon: "[[icon-cc-image-CleanShotX.jpg]]"

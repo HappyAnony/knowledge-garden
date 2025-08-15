@@ -3,6 +3,8 @@ date created: 2025-07-09
 date modified: 2025-07-09
 filetype: person
 publish: true
+icon: https://pub-pic.oldwinter.top/2025/08/570081f9d7025b895754a90030c9d97b.png
+分类: "[[person - fileclass]]"
 ---
 
-pkmer社区的大神，精通全部。
+pkmer q群的大神，精通一切。

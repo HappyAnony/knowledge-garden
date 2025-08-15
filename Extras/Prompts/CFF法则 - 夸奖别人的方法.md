@@ -5,6 +5,9 @@ date created: 2022-08-14
 date modified: 2024-05-30
 tags:
   - review
+  - prompts
+  - action
+  - adventure
 title: CFF法则 - 夸奖别人的方法
 sr-due: 2033-05-27
 sr-interval: 2902

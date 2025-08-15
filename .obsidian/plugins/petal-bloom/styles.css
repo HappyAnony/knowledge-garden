@@ -1,0 +1,56 @@
+.petal-bloom-overlay {
+  position: fixed;
+  pointer-events: none;
+  perspective: 900px;
+}
+
+.petal-bloom-fragment {
+  position: absolute;
+  font-weight: 600;
+  font-size: 14px;
+  will-change: transform, opacity;
+  filter: drop-shadow(0 2px 2px rgba(0,0,0,0.15));
+}
+
+.petal-bloom-char {
+  position: absolute;
+  overflow: hidden;
+  transform-style: preserve-3d;
+}
+
+.petal-bloom-half {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transform-origin: center;
+  will-change: transform, opacity;
+  background: linear-gradient(var(--grad-angle, 90deg), hsl(var(--h, 335) var(--s, 85%) calc(var(--l, 68%) + 12%)), hsl(var(--h, 335) var(--s, 85%) var(--l, 68%)));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.25));
+}
+
+.petal-bloom-half.left {
+  clip-path: inset(0 50% 0 0);
+}
+
+.petal-bloom-half.right {
+  clip-path: inset(0 0 0 50%);
+}
+
+.petal-dust {
+  position: absolute;
+  width: var(--d, 4px);
+  height: var(--d, 4px);
+  border-radius: 999px;
+  background: radial-gradient(circle at 30% 30%, hsla(335, 85%, 72%, 0.9), hsla(335, 85%, 55%, 0.2) 60%, transparent 70%);
+  will-change: transform, opacity, filter;
+  filter: blur(0.2px) drop-shadow(0 1px 2px rgba(0,0,0,0.2));
+}
+

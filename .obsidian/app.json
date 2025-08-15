@@ -26,7 +26,7 @@
   "defaultViewMode": "source",
   "focusNewTab": true,
   "mobilePullAction": "darlal-switcher-plus:switcher-plus:open-commands",
-  "trashOption": "none",
+  "trashOption": "system",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "editor:insert-embed",

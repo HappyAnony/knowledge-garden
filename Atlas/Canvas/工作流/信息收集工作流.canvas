@@ -230,7 +230,7 @@
 		{"id":"f54a4d4369601b97","type":"file","file":"Extras/Attachments/Icons/arc 浏览器 icon-cc-image.png","x":1438,"y":-1400,"width":147,"height":147},
 		{"file":"Spaces/3-Resource/软件梳理/好用网站/Folo.md","id":"278b5875823e68be","type":"file","x":660,"y":-1200,"width":400,"height":400},
 		{"file":"Extras/Attachments/Icons/滴答清单 ticktick icon-cc-image.png","id":"34240692a95fdd41","type":"file","x":-112,"y":-610,"width":140,"height":140},
-		{"file":"Cards/处理 Inbox 流程.md","id":"1528dd51060719e1","type":"file","x":-112,"y":360,"width":400,"height":535},
+		{"file":"Sources/AIGC/处理 Inbox 流程.md","id":"1528dd51060719e1","type":"file","x":-112,"y":360,"width":400,"height":535},
 		{
 			"id":"204aba3f47c3d7e8",
 			"type":"text",

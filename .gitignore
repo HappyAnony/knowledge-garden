@@ -1,6 +1,4 @@
 # 无用状态文件屏蔽
-logseq/bak
-logseq/.recycle
 .DS_Store
 .trash
 
@@ -69,6 +67,15 @@ publish.js
 # 脚本类文件不上传
 *.py
 *.sh
+*.js
+*.ts
+
+# 配置文件
+*.json
+*.yaml
+
+# 日志文件
+*.log
 
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections

@@ -1,14 +1,10 @@
 ---
 title: 社交媒体摘要
-model: gpt-4o
 tags:
-  - marketing
-  - summary
-  - 中文
   - prompts
-temperature: 0.7
+prompts-temperature: 0.7
 updated: 2025-04-23
-reasoning effort: "0"
+prompts-reasoning-effort: "0"
 date created: 2025-04-24
 date modified: 2025-08-03
 publish: true
@@ -61,6 +57,10 @@ publish: true
 ## 图表与可视化生成
 
 - [[SVG流程图生成提示词模板]]
+## 前端可视化页面生成
+
+
+- [[重新设计ui界面 提示词]]
 
 ## deep search 或者 deepresearch
 

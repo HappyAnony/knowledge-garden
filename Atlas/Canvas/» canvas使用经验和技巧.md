@@ -44,3 +44,8 @@ publish: true
 使用[[canvas candy]]
 
 当然，[[Advanced Canvas]]插件本身就已经有很多预置的美化可以使用了。
+
+
+## canvas的卡片移动至不同group，联动改变其properties
+
+[Why Canvas is great in Obsidian - YouTube](https://www.youtube.com/watch?v=fenyXDW30Kc&t=53s)

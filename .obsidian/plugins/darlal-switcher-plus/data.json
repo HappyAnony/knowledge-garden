@@ -55,10 +55,11 @@
   "shouldSearchBookmarks": true,
   "shouldSearchRecentFiles": true,
   "pathDisplayFormat": 3,
-  "hidePathIfRoot": false,
+  "hidePathIfRoot": true,
   "enabledRelatedItems": [
     "backlink",
-    "outgoing-link"
+    "outgoing-link",
+    "disk-location"
   ],
   "showOptionalIndicatorIcons": true,
   "isFileExtensionIndicatorsEnabled": true,
@@ -71,7 +72,11 @@
     "HeadingsList",
     "SymbolList"
   ],
-  "fileExtAllowList": [],
+  "fileExtAllowList": [
+    "canvas",
+    "bases",
+    "components"
+  ],
   "matchPriorityAdjustments": {
     "isEnabled": false,
     "adjustments": {
@@ -377,8 +382,8 @@
   ],
   "showModeTriggerInstructions": true,
   "renderMarkdownContentInSuggestions": {
-    "isEnabled": true,
-    "renderHeadings": true,
+    "isEnabled": false,
+    "renderHeadings": false,
     "toggleContentRenderingKeys": {
       "modifiers": [
         "Shift",

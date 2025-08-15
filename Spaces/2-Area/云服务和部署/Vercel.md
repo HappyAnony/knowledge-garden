@@ -9,4 +9,8 @@ tags:
 publish: true
 ---
 
+[[vercel cli]]
+
 [[v0.dev]]
+
+[[Vercel ai gateway]]

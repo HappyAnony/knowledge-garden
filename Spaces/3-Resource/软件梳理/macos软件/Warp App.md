@@ -17,6 +17,8 @@ brew安装命令: brew install --cask warp
 设置同步: 官方账号
 publish: true
 跨平台技术栈: "[[Swift]]"
+aliases:
+  - Warp
 ---
 
 ## 最牛逼的特性

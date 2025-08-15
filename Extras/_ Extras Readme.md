@@ -13,10 +13,14 @@ publish: true
 
 **主要子文件夹说明：**
 
-- `Templates/` 或 `Template/`: 存放笔记模板，用于快速创建具有标准格式的笔记（如每日记录模板、会议记录模板、文献笔记模板等）。
+
 - `Attachments/` 或 `Media/`: 存放插入到笔记中的图片、PDF、音频、视频等附件文件。建议按笔记或主题组织子文件夹。
+- `Documents/`: 存放一些标准化的文档文件，比如obsidian的base语法，cavnas json 语法等。
 - `Prompts/`: 可能用于存放与 AI 相关的提示词 (Prompts)。可以在cursor中快速@引用。
 - `Other/`: 存放其他不属于上述类别的支持性文件或配置。py脚本，js脚本也放在这。
+- `Scripts/`: 存放脚本，包括py脚本，js脚本。
+- `Templates/` 或 `Template/`: 存放笔记模板，用于快速创建具有标准格式的笔记（如每日记录模板、会议记录模板、文献笔记模板等）。
+
 
 **管理建议：**
 

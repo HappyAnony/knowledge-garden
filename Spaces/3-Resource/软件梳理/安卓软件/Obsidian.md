@@ -5,8 +5,6 @@ title: Obsidian
 tags:
   - 评论/少数派
   - macOS软件
-  - 笔记应用
-  - 知识管理
   - 安卓软件
   - windows软件
 设置同步: git和官方同步
@@ -15,11 +13,11 @@ brew安装命令: brew install --cask obsidian
 作用: 个人知识管理的集大成者
 当前使用频率: 5
 订阅费用（年）: 99 元
-icon: "[[icon-cc-image-Obsidian.png]]"
 当前是否还在使用: true
 是否已重装: true
 publish: true
 跨平台技术栈: "[[Electron]]"
+icon: "[[icon-cc-image-Obsidian.png]]"
 icon-3d: "[[obsidian-3d-icon-cc-image.png]]"
 ---
 

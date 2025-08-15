@@ -2,11 +2,6 @@
 date created: 2025-01-27
 date modified: 2025-01-27
 title: PARA 管理流程详细工作流
-tags:
-  - PARA
-  - 知识管理
-  - 工作流
-  - mermaid
 publish: true
 ---
 

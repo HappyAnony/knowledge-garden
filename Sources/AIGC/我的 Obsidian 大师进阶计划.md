@@ -2,10 +2,6 @@
 date created: 2025-01-27
 date modified: 2025-01-27
 title: 我的 Obsidian 大师进阶计划
-tags:
-  - obsidian
-  - 学习计划
-  - 个人成长
 type: plan
 status: 进行中
 publish: true

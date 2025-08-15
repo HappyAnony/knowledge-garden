@@ -29,7 +29,7 @@ publish: true
 | 按键  | 功能/应用           | mac 上配置 | 适配解释                                     |
 | --- | --------------- | ------- | ---------------------------------------- |
 | Q   | [[Cubox]]       | Raycast | 取发音，类似 Q 发音                              |
-| W   | [[Warp]]        | Raycast |                                          |
+| W   | [[Warp App]]        | Raycast |                                          |
 | E   | [[企业微信]]        | Raycast | Enterprise 企业                            |
 | R   |                 | Raycast |                                          |
 | T   | [[Telegram]]    | Raycast |                                          |
