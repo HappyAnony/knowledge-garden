@@ -3,6 +3,7 @@ date created: 2022-06-23
 date modified: 2023-03-14
 tags:
   - review
+notetoolbar: SpacedRepetition
 title: 🔡DIKW
 sr-due: 2030-01-29
 sr-interval: 2082

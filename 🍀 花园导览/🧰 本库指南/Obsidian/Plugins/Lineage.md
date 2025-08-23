@@ -8,6 +8,7 @@ tags:
 rating: 5
 aliases:
   - 类似gingko的插件
+  - lineage
 status:
 publish: true
 ---

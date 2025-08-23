@@ -13,7 +13,8 @@
     "supercharged-links-gen",
     "hide-file-add-splitline",
     "editor-full",
-    "toggle-canvas-header"
+    "toggle-canvas-header",
+    "notice-bottom-right"
   ],
   "showViewHeader": true,
   "cssTheme": "Willemstad",

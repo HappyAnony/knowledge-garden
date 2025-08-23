@@ -70,6 +70,10 @@ publish.js
 *.js
 *.ts
 
+
+# txt
+*.txt
+
 # 配置文件
 *.json
 *.yaml
@@ -79,3 +83,45 @@ publish.js
 
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
+
+
+# # Obsidian 忽略文件
+# # 这些文件不会被 Obsidian 索引和搜索
+# # 需要安装advanced excluded插件
+
+# # 开发环境文件
+# node_modules/
+# dist/
+# *.js.map
+# *.tsbuildinfo
+
+# # 构建输出
+# *.js
+
+# # 依赖文件
+# package.json
+# package-lock.json
+# tsconfig.json
+
+# # 开发文档
+# js-readme.md
+# .gitignore
+
+# # 压缩包
+# *.zip
+# *.rar
+# *.7z
+# *.tar
+# *.gz
+
+# # 文件列表中，不显示
+# Extras/Attachments/Documents/
+
+# # 归档文件
+# Spaces/4-Archive/
+
+## 自己开发自用的插件屏蔽，还不成熟
+
+.obsidian/plugins/obsidian-presentation-enhanced
+.obsidian/plugins/obsidian-smart-canvas
+.obsidian/plugins/rclone-uploader

@@ -104,6 +104,17 @@
       "type": "file",
       "ctime": 1755091463279,
       "path": "Extras/Prompts/∑ MOC - prompts 提示词管理.md"
+    },
+    {
+      "type": "search",
+      "ctime": 1755700707045,
+      "query": "tag:#prompts file:提示"
+    },
+    {
+      "type": "search",
+      "ctime": 1755700722361,
+      "query": "tag:#prompts file:",
+      "title": "提示词全文搜索"
     }
   ]
 }

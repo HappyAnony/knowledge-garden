@@ -8,6 +8,7 @@ rating: 6
 publish: true
 aliases:
   - 间隔重复
+  - obsidian-spaced-repetition
 title: Spaced Repetition
 ---
 

@@ -7,6 +7,9 @@ status:
 title: Supercharged Links
 rating: 7
 publish: true
+一句话理由: 给不同类型的文件染色，搜索的时候一眼区分
+aliases:
+  - supercharged-links-obsidian
 ---
 
 神器啊神器。作者为什么弃坑了？

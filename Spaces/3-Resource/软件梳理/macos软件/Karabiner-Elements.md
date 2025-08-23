@@ -34,7 +34,7 @@ issues: 1226
 
 2025-06-11：
 
-![[karabiner.json]]
+![karabiner.json](https://drive.google.com/open?id=1suno9pJ_rgHiisoCQ7Pv6dvvA8g-BZor)
 
 ##
 

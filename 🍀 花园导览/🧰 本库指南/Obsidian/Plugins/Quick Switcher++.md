@@ -6,6 +6,9 @@ tags:
 status:
 rating: 7
 publish: true
+一句话理由: 两个+号，还是保守了，我愿意给6个⭐️
+aliases:
+  - darlal-switcher-plus
 ---
 
 满分，神器。
@@ -15,6 +18,11 @@ publish: true
 快捷键配置：[[vscode代码编辑和obsidian文本编辑快捷键 - 触发快捷键|Obsidian 文本编辑快捷键]]
 
 ### 技巧：
+
+直接用/代表目录，可以搜索文件夹里面的笔记：
+
+![PixPin_2025-08-21_02-00-51.png](https://pub-pic.oldwinter.top/2025/08/2da3c96714d58aa3accdf30d3e690964.png)
+
 
 用$，也就是symble 功能，可以在canvas里面快速导航定位到指定node；也可以在md文件中定位到header标题。
 

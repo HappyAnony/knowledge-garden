@@ -6,4 +6,6 @@ tags:
 rating: 6
 status:
 publish: true
+aliases:
+  - recent-notes
 ---

@@ -6,5 +6,7 @@ tags:
 rating: 4
 status:
 publish: true
+aliases:
+  - copy-url-in-preview
 ---
 

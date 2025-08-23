@@ -34,7 +34,7 @@ issues: 19
 
 配置备份：界面没有导入导出，直接复制到data目录
 
-![[config.json]]
+![config.json](https://drive.google.com/open?id=1uoEECO1ntEgddBCLhMmKRFtXtRDP-wlN)
 
 ## 独特优势
 

@@ -40,5 +40,5 @@ icon: "[[Deepseek-icon-cc-image.jpg]]"
 以上免费版用的人太多，有点卡。性能比较好的：
 
 - [[deepseek 腾讯云]]
-- [[deepseek 火山引擎]]，最强，速度最快
+- [[deepseek 和 kimi 模型免费 - 火山引擎]]，最强，速度最快
 - [[deepseek 阿里云百炼（通义千问Qwen）]]

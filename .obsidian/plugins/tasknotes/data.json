@@ -11,7 +11,7 @@
   "taskCreationDefaults": {
     "defaultContexts": "",
     "defaultTags": "",
-    "defaultProjects": "[[∑ 2025下半年小红书探索]]",
+    "defaultProjects": "",
     "useParentNoteAsProject": false,
     "defaultTimeEstimate": 0,
     "defaultRecurrence": "none",
@@ -162,7 +162,7 @@
     "timeRemaining": 1500,
     "nextSessionType": "work"
   },
-  "lastPomodoroDate": "2025-08-11",
+  "lastPomodoroDate": "2025-08-22",
   "pomodoroHistory": [
     {
       "id": "1754139076953",
@@ -214,8 +214,50 @@
   "taskPropertyValue": "",
   "enableNotifications": true,
   "notificationType": "system",
-  "enableAPI": false,
+  "enableAPI": true,
   "apiPort": 8080,
   "apiAuthToken": "",
-  "webhooks": []
+  "webhooks": [
+    {
+      "id": "wh_1755422957245_cdmpghs",
+      "url": "https://bark-worker.cdd2zju1642.workers.dev/mHN6Gu83zUAvZ40khR7oxI",
+      "events": [
+        "task.created",
+        "task.updated",
+        "task.completed",
+        "reminder.triggered",
+        "recurring.instance.completed",
+        "pomodoro.interrupted",
+        "pomodoro.completed",
+        "pomodoro.started",
+        "task.deleted",
+        "task.archived",
+        "task.unarchived",
+        "time.started",
+        "time.stopped"
+      ],
+      "secret": "ed4f3904ed564ad852bb835ebf038ddbf8faf0fe6d3faf8a677842de61cb72a3",
+      "active": false,
+      "createdAt": "2025-08-17T09:29:17.245Z",
+      "failureCount": 28,
+      "successCount": 0,
+      "corsHeaders": true
+    }
+  ],
+  "moveArchivedTasks": false,
+  "archiveFolder": "TaskNotes/Archive",
+  "subtaskChevronPosition": "right",
+  "viewsButtonAlignment": "right",
+  "icsSubscriptions": [
+    {
+      "name": "滴答清单同步",
+      "type": "remote",
+      "color": "#3788d8",
+      "refreshInterval": 30,
+      "enabled": true,
+      "url": "https://dida365.com/pub/calendar/feeds/hfj9xkstbvxp/basic.ics",
+      "id": "ics_jgyrj88agmefi2410",
+      "lastFetched": "2025-08-23T13:28:37.973Z"
+    }
+  ]
 }

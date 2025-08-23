@@ -4143,7 +4143,7 @@ var PortalsCanvasExtension = class _PortalsCanvasExtension extends CanvasExtensi
     );
     data.edges = data.edges.filter((edgeData) => {
       var _a;
-      if (_PortalsCanvasExtension.getNestedIds(edgeData.fromNode).length > 1) return false;
+      if (_PortalsCanvasExtension.getNestedIds(edgeData.id).length > 1) return false;
       const isFromNodeFromPortal = _PortalsCanvasExtension.getNestedIds(edgeData.fromNode).length > 1;
       const isToNodeFromPortal = _PortalsCanvasExtension.getNestedIds(edgeData.toNode).length > 1;
       if (!isFromNodeFromPortal && !isToNodeFromPortal) return true;
@@ -4794,13 +4794,14 @@ var FlipEdgeCanvasExtension = class extends CanvasExtension {
     const selectedEdges = [...canvas.selection].filter((item) => item.path !== void 0);
     if (selectedEdges.length === 0) return;
     for (const edge of selectedEdges) {
-      const edgeData = edge.getData();
-      edge.setData({
-        ...edgeData,
-        fromNode: edgeData.toNode,
-        fromSide: edgeData.toSide,
-        toNode: edgeData.fromNode,
-        toSide: edgeData.fromSide
+      edge.update({
+        ...edge.from,
+        node: edge.to.node,
+        side: edge.to.side
+      }, {
+        ...edge.to,
+        node: edge.from.node,
+        side: edge.from.side
       });
     }
     canvas.pushHistory(canvas.getData());

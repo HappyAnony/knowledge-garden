@@ -1,20 +1,10 @@
 {
   "pluginList": [
-    "mnaoumov/obsidian-advanced-exclude",
-    "pjeby/hot-reload",
-    "anareaty/pretty-properties"
+    "RavenHogWarts/obsidian-ravenhogwarts-toolkit"
   ],
   "pluginSubListFrozenVersion": [
     {
-      "repo": "mnaoumov/obsidian-advanced-exclude",
-      "version": "latest"
-    },
-    {
-      "repo": "pjeby/hot-reload",
-      "version": "latest"
-    },
-    {
-      "repo": "anareaty/pretty-properties",
+      "repo": "RavenHogWarts/obsidian-ravenhogwarts-toolkit",
       "version": "latest"
     }
   ],

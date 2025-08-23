@@ -7,6 +7,8 @@ status:
 rating: 7
 title: Linter
 publish: true
+aliases:
+  - obsidian-linter
 ---
 
 神器，必备。

@@ -6,6 +6,8 @@ tags:
 rating: 6
 status:
 publish: true
+aliases:
+  - cubox-sync
 ---
 
 [[AI 时代，剪藏不是为了稍后看，而是告诉 AI，我喜欢 by 玉伯]]

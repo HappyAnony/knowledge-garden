@@ -6,7 +6,7 @@ title: Advanced URL
 当前使用频率: 3
 tags:
   - obsidian插件
-rating: 5
+rating: 6
 publish: true
 ---
 

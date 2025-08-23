@@ -1,5 +1,5 @@
 {
-  "fileExplorerIconPosition": "file-name-left",
+  "fileExplorerIconPosition": "absolute-right",
   "statusColors": {
     "active": "var(--text-success)",
     "onHold": "var(--text-warning)",
@@ -80,21 +80,21 @@
       "description": "A simplified set of essential workflow statuses",
       "statuses": [
         {
-          "name": "todo",
-          "icon": "📌",
-          "color": "#F44336",
+          "name": "none",
+          "icon": "👀",
+          "color": "#c2c2c2",
           "templateId": "minimal"
         },
         {
-          "name": "inProgress",
+          "name": "open",
+          "icon": "📌",
+          "color": "#7a7a7a",
+          "templateId": "minimal"
+        },
+        {
+          "name": "in-progress",
           "icon": "⚙️",
           "color": "#2196F3",
-          "templateId": "minimal"
-        },
-        {
-          "name": "review",
-          "icon": "👀",
-          "color": "#9C27B0",
           "templateId": "minimal"
         },
         {
@@ -211,7 +211,7 @@
     }
   ],
   "customStatuses": [],
-  "showStatusIconsInExplorer": false,
+  "showStatusIconsInExplorer": true,
   "hideUnknownStatusInExplorer": true,
   "enabledTemplates": [
     "minimal"
@@ -219,7 +219,7 @@
   "useCustomStatusesOnly": false,
   "useMultipleStatuses": false,
   "statusBarShowTemplateName": "auto",
-  "tagPrefix": "notestatus",
+  "tagPrefix": "status",
   "strictStatuses": true,
   "quickStatusCommands": [
     "active",

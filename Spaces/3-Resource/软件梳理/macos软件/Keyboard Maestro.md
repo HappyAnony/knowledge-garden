@@ -12,3 +12,5 @@ date modified: 2023-03-14
 icon: "[[icon-cc-image-Keyboard_Maestro.png]]"
 publish: true
 ---
+
+[Keyboard Maestro Macros.kmsync](https://drive.google.com/open?id=1-r3o2LSws9LDivT5cWcQ6poKF8fFM5iJ)

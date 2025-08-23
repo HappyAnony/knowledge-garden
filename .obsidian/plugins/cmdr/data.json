@@ -29,11 +29,18 @@
   "statusBar": [],
   "pageHeader": [
     {
-      "id": "note-toolbar:open-toolbar-3428e787-1792-432e-914c-66a8804686b9",
+      "id": "note-toolbar:open-toolbar-6268ed09-68fb-412d-b4ed-1ce94f5a83ad",
       "icon": "circle-ellipsis",
-      "name": "Note Toolbar: Open: New toolbar",
-      "mode": "any",
-      "color": "#ffd500"
+      "name": "Note Toolbar: Open: Tools - system level operations",
+      "mode": "desktop",
+      "color": "#dbb700"
+    },
+    {
+      "id": "open-vscode:open-vscode",
+      "icon": "lucide-file-code",
+      "name": "Open vault in VSCode: Open as Visual Studio Code workspace",
+      "mode": "desktop",
+      "color": "#00c4c7"
     },
     {
       "id": "fix-require-modules:invokeScriptFile-review-properties.ts",
@@ -60,7 +67,7 @@
       "id": "quartz-syncer:mark-toggle-publish-status",
       "icon": "lucide-airplay",
       "name": "Quartz Syncer: Toggle publication flag",
-      "mode": "any",
+      "mode": "desktop",
       "color": "#ff0000"
     }
   ],

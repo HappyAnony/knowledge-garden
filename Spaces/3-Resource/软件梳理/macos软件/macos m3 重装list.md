@@ -65,7 +65,7 @@ publish: true
 - [x] [[Keka]]
 - [x] [[localsend]]
 - [x] [[menubarX]]
-- [x] [[LinearMouse]]
+- [x] [[Linear Mouse]]
 - [x] [[OpenAI Translater]]
 - [x] [[OrbStack]]
 - [x] [[Presentify]] ✅ 2025-06-25
@@ -112,7 +112,7 @@ keyboardholder		tencent-meeting
 	- brew install --cask input-source-pro
 - [[KeyboardHolder]]
 	- brew install --cask keyboardholder
-- [[LinearMouse]]
+- [[Linear Mouse]]
 	- brew install --cask linearmouse
 - [[Warp App]]
 	- brew install --cask warp

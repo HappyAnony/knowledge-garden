@@ -7,6 +7,8 @@ status:
 rating: 6
 publish: true
 title: Weread Plugin
+aliases:
+  - obsidian-weread-plugin
 ---
 
 同步微信读书记录必备，速度超快，超赞。

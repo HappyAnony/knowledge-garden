@@ -1,0 +1,16 @@
+/* Move notices to bottom-right while preserving default right spacing and width */
+/* 将通知移动到右下角，同时保留默认的右间距和宽度，主要原因是点击右上角的那一排按钮执行的时候，有时候会有通知，导致遮挡 */
+/* 同时右下角的通知，和状态栏给人的感觉差不多，并且windows也是右下角通知的，所以放在右下角似乎也挺合理 */
+.notice-container {
+  top: auto;
+  bottom: 20px; /* keep right & width from default */
+}
+
+/* Optional: make notices non-blocking (click-through). Enable if needed. */
+/*
+.notice-container {
+  pointer-events: none;
+}
+*/
+
+

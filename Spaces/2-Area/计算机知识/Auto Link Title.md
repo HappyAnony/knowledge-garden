@@ -9,6 +9,8 @@ tags:
 status:
 rating: 6
 publish: true
+aliases:
+  - obsidian-auto-link-title
 ---
 
 给自动粘贴的url，自动获取标题。小工具，但必装。

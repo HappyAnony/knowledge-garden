@@ -2,7 +2,8 @@
 date created: 2022-07-22
 date modified: 2023-03-14
 tags:
-- review
+  - review
+notetoolbar: SpacedRepetition
 title: 如何用 IARP 规划标签
 publish: true
 sr-due: 2031-05-01

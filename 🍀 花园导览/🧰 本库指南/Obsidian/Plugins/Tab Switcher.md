@@ -6,6 +6,8 @@ tags:
 rating: 6
 status:
 publish: true
+aliases:
+  - cycle-through-panes
 ---
 
 表现好于[[Tab Selector]]，它能跨tab group，而后者是不行的。

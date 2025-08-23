@@ -38304,7 +38304,11 @@ var InlineEditor = class {
     this.inlineView = new import_obsidian32.MarkdownView({
       containerEl: this.containerEl,
       app: this.view.plugin.app,
-      workspace
+      workspace,
+      history: {
+        backHistory: [],
+        forwardHistory: []
+      }
     });
     this.inlineView.save = noop3;
     this.inlineView.requestSave = this.invokeAndDeleteOnChangeSubscriptions;

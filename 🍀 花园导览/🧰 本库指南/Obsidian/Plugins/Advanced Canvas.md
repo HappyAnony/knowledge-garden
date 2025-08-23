@@ -7,6 +7,8 @@ status:
 rating: 7
 publish: true
 一句话理由: 目前为止我的小红书笔记全是它的身影
+aliases:
+  - advanced-canvas
 ---
 
 2025-6-7 新版本可以完全平替掉[[Enhanced Canvas|Enhanced Canvas]]的功能，只需要到反向面板中查看既可，而且也能直接跳转到canvas中对应的位置，而且canvas中的卡片如果有引用，也可以显示。
@@ -36,3 +38,7 @@ id设置成中文也行，只要是唯一的值。
 [[macos 必备软件.canvas#xxxx|macos 必备软件]]
 
 [[内网穿透原理解析.canvas#9be3b3c44cf4d1e2|内网穿透原理解析]]
+
+### 图片导出可以选择只导出选中的节点。
+
+增选或减选某节点，使用shift辅助键即可。

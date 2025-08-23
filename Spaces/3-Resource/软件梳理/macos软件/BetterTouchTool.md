@@ -21,7 +21,7 @@ publish: true
 
 ## 配置备份和同步
 
-![[2025-06-29.bttpreset]]
+![btt配置文件.bttpreset](https://drive.google.com/open?id=1ZqSRzvNaFY2ZH1yexK_mDsmM1tCCbBOY)
 
 ##
 

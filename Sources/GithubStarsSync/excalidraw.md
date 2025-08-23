@@ -30,6 +30,8 @@ status:
 rating: 5
 publish: true
 title: Excalidraw
+aliases:
+  - obsidian-excalidraw-plugin
 ---
 
 ### 引用excalidraw中的局部区域

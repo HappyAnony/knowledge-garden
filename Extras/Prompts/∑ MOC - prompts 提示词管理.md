@@ -1,22 +1,29 @@
 ---
-title: 社交媒体摘要
+uid: 12d5317c-3533-4967-b352-790cb50c0eef
 tags:
   - prompts
-prompts-temperature: 0.7
-updated: 2025-04-23
-prompts-reasoning-effort: "0"
 date created: 2025-04-24
-date modified: 2025-08-03
+date modified: 2025-08-22
 publish: true
 ---
 
-提示词模板：[[prompts template - 提示词模板]]
+[[如何快速地搜索存在obsidian中的提示词并复制]]
+
+## 提示词模板
+
+[[prompts template - 提示词模板]]
+
+## 快速 日常场景
+
+- [[使用CFF法则优化夸人语句]]
+	- [[CFF法则 - 夸奖别人的方法|CFF]]
+- [[全文中文对照翻译]]
 
 ## 图片生成类
 
 [AI Prompt Library](https://aifra.me/library)
 
-[GitHub - jamez-bondos/awesome-gpt4o-images: Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.](https://github.com/jamez-bondos/awesome-gpt4o-images)
+[awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)
 
 图库参考sora官方：[Sora](https://sora.com/explore/images)
 
@@ -42,12 +49,6 @@ publish: true
 - [[元提示词 - 优化提示词 - 优化prompts]]
 - [[阴阳怪气大师]]
 
-## 快速 日常场景
-
-- [[使用CFF法则优化夸人语句]]
-	- [[CFF法则 - 夸奖别人的方法|CFF]]
-- [[全文中文对照翻译]]
-
 ## 查询、检索
 
 一般联网
@@ -57,22 +58,23 @@ publish: true
 ## 图表与可视化生成
 
 - [[SVG流程图生成提示词模板]]
+
 ## 前端可视化页面生成
 
-
+- [[Canvas Assistant - 中文版]]
 - [[重新设计ui界面 提示词]]
 
 ## deep search 或者 deepresearch
 
 先积累出一些常用的模板，比如：
 
-- [[Extras/Prompts/贴吧嘴臭老哥]]
+- [[贴吧嘴臭老哥11]]
 - [[chatgpt 与 可视化画图 mermaid]]
 - [[咪蒙公众号标题风格生成]]
 
 ## 各大主流编程工具内置系统提示词
 
-[GitHub - x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+[system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 [[openai新的学习模式系统提示词]]
 

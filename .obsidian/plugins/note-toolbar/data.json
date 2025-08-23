@@ -1,6 +1,6 @@
 {
   "debugEnabled": false,
-  "emptyViewToolbar": null,
+  "emptyViewToolbar": "43e31ac2-1dee-4dce-bc7c-98e8c55ef56b",
   "export": {
     "includeIcons": true,
     "replaceVars": true,
@@ -30,10 +30,10 @@
   "onboarding": {
     "new-toolbar-mapping": true
   },
-  "ribbonAction": "item-suggester",
+  "ribbonAction": "toolbar-suggester",
   "scriptingEnabled": true,
   "showEditInFabMenu": true,
-  "showLaunchpad": false,
+  "showLaunchpad": true,
   "showToolbarIn": {
     "audio": false,
     "canvas": true,
@@ -700,7 +700,83 @@
           }
         },
         {
-          "uuid": "d814977d-601b-4277-8591-b9079a2e1d38",
+          "uuid": "be21f55a-11a1-412d-98e5-428af329aa6d",
+          "hasCommand": false,
+          "icon": "home",
+          "inGallery": false,
+          "label": "",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "target": "",
+            "type": "uri"
+          },
+          "plugin": "",
+          "tooltip": "Home",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Tools - current notes related",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "hidden"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "hidden"
+          }
+        }
+      },
+      "updated": "2025-08-18T19:45:51.519Z"
+    },
+    {
+      "uuid": "6268ed09-68fb-412d-b4ed-1ce94f5a83ad",
+      "customClasses": "",
+      "defaultItem": "47e8a832-76a2-41b7-9ffb-45b34a5bcc55",
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "hasCommand": true,
+      "items": [
+        {
+          "uuid": "0f31882a-1082-42b1-a3c4-33d869ad8ada",
           "hasCommand": false,
           "icon": "venetian-mask",
           "inGallery": false,
@@ -743,7 +819,7 @@
           }
         },
         {
-          "uuid": "a0780fc0-63c1-4810-86e2-dea320daf16b",
+          "uuid": "b6d84a6d-1c85-4b74-ad0e-c97f376a5fe2",
           "hasCommand": false,
           "icon": "folder-code",
           "inGallery": false,
@@ -790,7 +866,7 @@
           }
         },
         {
-          "uuid": "5ff3c467-95f6-4c84-8bee-f63bd5334bbc",
+          "uuid": "035e2a96-0924-445d-8857-724f8ccddcc4",
           "hasCommand": false,
           "icon": "lucide-presentation",
           "inGallery": false,
@@ -831,7 +907,7 @@
           }
         },
         {
-          "uuid": "d4f347af-7a51-44ea-be80-f656d605934c",
+          "uuid": "065ec9ea-4db8-478e-bd24-d3ea68350011",
           "hasCommand": false,
           "icon": "lucide-focus",
           "inGallery": false,
@@ -872,7 +948,7 @@
           }
         },
         {
-          "uuid": "91eb21c5-e313-4634-a91a-244cebbf67e2",
+          "uuid": "0594e2b4-c22b-4846-aa58-bd66239fd483",
           "hasCommand": false,
           "icon": "zoom-to-selection",
           "inGallery": false,
@@ -919,7 +995,7 @@
         }
       ],
       "mobileStyles": [],
-      "name": "Tools",
+      "name": "Tools - system level operations",
       "position": {
         "desktop": {
           "allViews": {
@@ -937,7 +1013,7 @@
           }
         }
       },
-      "updated": "2025-08-15T08:01:41.728Z"
+      "updated": "2025-08-17T11:16:08.288Z"
     },
     {
       "defaultStyles": [
@@ -1257,6 +1333,252 @@
         }
       },
       "updated": "2025-06-24T18:26:23.422Z"
+    },
+    {
+      "uuid": "43e31ac2-1dee-4dce-bc7c-98e8c55ef56b",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "even",
+        "sticky",
+        "button"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "2e63e8d8-7122-4e8e-8bbb-8b5908d0b6a9",
+          "hasCommand": false,
+          "icon": "calendar",
+          "inGallery": false,
+          "label": "Today's daily note",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "daily-notes",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Today's daily note",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "c195b2e7-16c9-40f6-9db4-02497a25a8d8",
+          "hasCommand": false,
+          "icon": "file-plus",
+          "inGallery": false,
+          "label": "new note",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "file-explorer:new-file",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "New note",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "1973c5e8-8dfc-4292-a3ba-dcaf14e6cc23",
+          "hasCommand": false,
+          "icon": "pencil-line",
+          "inGallery": false,
+          "label": "new drawing",
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "New drawing",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "9bfe2ea8-67a4-469b-b962-be1e0dff8ba4",
+          "hasCommand": false,
+          "icon": "lucide-cannabis",
+          "inGallery": false,
+          "label": "new canvas",
+          "link": "Canvas: Create new canvas",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "canvas:new-file",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "uuid": "14e9e0e5-05c6-47dc-a609-3647ed9ebf27",
+          "hasCommand": false,
+          "icon": "lucide-database",
+          "inGallery": false,
+          "label": "new base",
+          "link": "Bases: Create new base",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "bases:new-file",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [
+        "mnbrder"
+      ],
+      "name": "新建标签页的默认动作",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-08-19T14:11:13.582Z"
     }
   ],
   "version": 20250313.1,

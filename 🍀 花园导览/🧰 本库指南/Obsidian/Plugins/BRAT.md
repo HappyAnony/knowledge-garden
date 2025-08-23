@@ -6,6 +6,8 @@ tags:
 status:
 rating: 5
 publish: true
+aliases:
+  - obsidian42-brat
 ---
 
 和[[Strange New Worlds]]同作者。

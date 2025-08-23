@@ -2,8 +2,9 @@
 date created: 2022-08-11
 date modified: 2023-03-14
 tags:
-- review
-- todo/持续迭代
+  - review
+  - todo/持续迭代
+notetoolbar: SpacedRepetition
 title: 常青笔记的标题就像 API
 publish: true
 sr-due: 2031-05-12

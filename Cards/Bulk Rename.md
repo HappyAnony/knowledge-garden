@@ -6,7 +6,6 @@ date created: 2023-01-23
 date modified: 2025-06-23
 tags:
   - obsidian插件
-status:
 rating: 5
 publish: true
 ---

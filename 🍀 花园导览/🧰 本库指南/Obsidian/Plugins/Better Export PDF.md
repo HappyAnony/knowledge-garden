@@ -6,6 +6,8 @@ tags:
 status:
 rating: 5
 publish: true
+aliases:
+  - better-export-pdf
 ---
 
 ## Better Export PDF

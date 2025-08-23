@@ -5,12 +5,15 @@ title: Cubox
 tags:
   - macOS软件
   - windows软件
+  - obsidian插件
 评价: 4
 brew安装命令: brew install --cask cubox
 作用: 网络文章剪藏
 当前使用频率: 4
 icon: "[[icon-cc-image-cubox icon-cc-image.png]]"
 publish: true
+aliases:
+  - cubox-sync
 ---
 
 插件：[[Cubox Chrome 剪藏插件]]

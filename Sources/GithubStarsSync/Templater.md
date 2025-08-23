@@ -18,14 +18,21 @@ size_kb: 10627
 issues: 191
 tags:
   - github开源
-date created: 2022-06-09
-date modified: 2023-03-14
   - obsidian插件
+date created: 2022-06-09
+date modified: 2023-03-14 - obsidian插件
 status:
 rating: 6
 publish: true
 title: Templater
+aliases:
+  - templater-obsidian
 ---
 
 [[Templater 高级应用指南]]
+
+## 常用脚本示例
+
+在 [[∑ templater-js-scripts]]中
+
 

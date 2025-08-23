@@ -6,6 +6,8 @@ tags:
 rating: 5
 status:
 publish: true
+aliases:
+  - obsidian-export-image
 ---
 
 ## 小红书图片笔记推荐

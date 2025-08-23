@@ -94,17 +94,18 @@
     ],
     "Spaces/_ Spaces Readme.md": [
       {
-        "id": "l4xjiug5i",
-        "text": "如果有需要，比如降低Resource或Archive目录中文档的优先级，则可以在Obsidian -> files and links -> excluded files里面将这个文件夹加入，降低搜索匹配优先级。",
+        "id": "nrweqwo12",
+        "text": "如果需要降低Resource或Archive目录中文档的优先级，可以在Obsidian -> files and links -> excluded files里面将这些文件夹加入，降低搜索匹配优先级。",
         "tags": [],
-        "line": 10,
-        "startOffset": 181,
-        "endOffset": 291,
+        "line": 49,
+        "startOffset": 895,
+        "endOffset": 1000,
         "filePath": "Spaces/_ Spaces Readme.md",
         "footnoteCount": 0,
         "footnoteContents": [],
-        "createdAt": 1753101563633,
-        "isNativeComment": false
+        "createdAt": 1755922421352,
+        "isNativeComment": false,
+        "type": "highlight"
       }
     ],
     "Spaces/4-Archive/ingtube/交接/Inbox/向凡可提问的问题列表梳理和笔记.md": [
@@ -146,16 +147,17 @@
         "id": "3gpsns9ka",
         "text": "美国膳食指南甚至推荐<2g，个人血压偏高，所以盐也是能低就更低一些",
         "tags": [],
-        "line": 24,
-        "startOffset": 435,
-        "endOffset": 472,
+        "line": 25,
+        "startOffset": 468,
+        "endOffset": 505,
         "filePath": "Spaces/2-Area/运动健康/中国居民膳食指南.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "美国膳食指南甚至推荐<2g，个人血压偏高，所以盐也是能低就更低一些"
         ],
         "createdAt": 1752313680902,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Spaces/2-Area/知识管理/预览obsidian主题的markdown语法效果.md": [
@@ -220,1037 +222,6 @@
         "createdAt": 1754582999169,
         "isNativeComment": true,
         "type": "comment"
-      }
-    ],
-    "Sources/WuCaiSync /2024/05/wucai-一个反常识的观点：重要紧急四象限最关键的是不重要不紧急 - 即刻App-H8CAHEK.md": [
-      {
-        "id": "4n3pkc3ly",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 363,
-        "endOffset": 395,
-        "filePath": "Sources/WuCaiSync /2024/05/wucai-一个反常识的观点：重要紧急四象限最关键的是不重要不紧急 - 即刻App-H8CAHEK.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142167,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/05/wucai-所谓思考, 即做三件事 1. 抽象成概念(分层级) 2. - 即刻App-H8CFCM3.md": [
-      {
-        "id": "cywcul7sw",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 420,
-        "endOffset": 452,
-        "filePath": "Sources/WuCaiSync /2024/05/wucai-所谓思考, 即做三件事 1. 抽象成概念(分层级) 2. - 即刻App-H8CFCM3.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142196,
-        "isNativeComment": false,
-        "color": "#a6ffe9"
-      }
-    ],
-    "Sources/WuCaiSync /2024/05/wucai-Android studio 连接各种模拟器_安卓如何连接多个模拟器-CSDN博客-H8CKKHF.md": [
-      {
-        "id": "6rarp436x",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 373,
-        "endOffset": 405,
-        "filePath": "Sources/WuCaiSync /2024/05/wucai-Android studio 连接各种模拟器_安卓如何连接多个模拟器-CSDN博客-H8CKKHF.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142209,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/06/wucai-一篇文章让你透彻认识 Mac 应用切换和窗口切换的逻辑-H868579.md": [
-      {
-        "id": "rdicomjhd",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 333,
-        "endOffset": 365,
-        "filePath": "Sources/WuCaiSync /2024/06/wucai-一篇文章让你透彻认识 Mac 应用切换和窗口切换的逻辑-H868579.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142141,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/04/wucai-接了个私活分享下我是如何从 0 到 1 交付项目的 - V2EX-H8FBB8M.md": [
-      {
-        "id": "x1fd1d17p",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 326,
-        "endOffset": 358,
-        "filePath": "Sources/WuCaiSync /2024/04/wucai-接了个私活分享下我是如何从 0 到 1 交付项目的 - V2EX-H8FBB8M.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142076,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/04/wucai-计算属性和侦听器 — Vue.js-H85C92B.md": [
-      {
-        "id": "l1tvw1qmh",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 314,
-        "endOffset": 346,
-        "filePath": "Sources/WuCaiSync /2024/04/wucai-计算属性和侦听器 — Vue.js-H85C92B.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142061,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/04/wucai-【收费服务】大侠阿木远程刷机救砖ROOT9008MSMdownloadFlashToolMagisk面具KernelSU - 一加全能盒子  工具箱-H8FD5AE.md": [
-      {
-        "id": "przrfi0zz",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 455,
-        "endOffset": 487,
-        "filePath": "Sources/WuCaiSync /2024/04/wucai-【收费服务】大侠阿木远程刷机救砖ROOT9008MSMdownloadFlashToolMagisk面具KernelSU - 一加全能盒子  工具箱-H8FD5AE.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142119,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力.md": [
-      {
-        "id": "qqkz5ngg1",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 530,
-        "endOffset": 562,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142234,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力判断在该领域“什么样的东西-H8D35M7.md": [
-      {
-        "id": "hqphwswmf",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 530,
-        "endOffset": 562,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力判断在该领域“什么样的东西-H8D35M7.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142238,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-祖传“屎山代码”终于有解了GitHub Copilot Chat下个月全面上线聊聊天就能看懂代码捉Bug-36氪-H89FB75.md": [
-      {
-        "id": "nqh1afbsn",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 381,
-        "endOffset": 413,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-祖传“屎山代码”终于有解了GitHub Copilot Chat下个月全面上线聊聊天就能看懂代码捉Bug-36氪-H89FB75.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142212,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-深度  Notion创始人最新深度分享：AI如何重塑生产力-H8DHMDC.md": [
-      {
-        "id": "nb6fxwek1",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 351,
-        "endOffset": 383,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-深度  Notion创始人最新深度分享：AI如何重塑生产力-H8DHMDC.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142123,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "4pnb7olhx",
-        "text": "█  ",
-        "tags": [],
-        "line": 26,
-        "startOffset": 1052,
-        "endOffset": 1084,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-深度  Notion创始人最新深度分享：AI如何重塑生产力-H8DHMDC.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615141824,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-朱啸虎讲了一个中国现实主义AIGC故事-H8DM79F.md": [
-      {
-        "id": "3wpflkown",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 321,
-        "endOffset": 353,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-朱啸虎讲了一个中国现实主义AIGC故事-H8DM79F.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142148,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-巨量千川全域推广产品手册 - 巨量千川帮助和规则中心-H8DAHA5.md": [
-      {
-        "id": "lma2ymy4x",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 524,
-        "endOffset": 556,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-巨量千川全域推广产品手册 - 巨量千川帮助和规则中心-H8DAHA5.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142278,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-如何打造一个学习型组织-H8DA58E.md": [
-      {
-        "id": "f3mjeyusa",
-        "text": "█ ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 360,
-        "endOffset": 391,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-如何打造一个学习型组织-H8DA58E.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025491,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-多代理模式  Coze --- Multi-agent mode  Coze-H8DHM9A.md": [
-      {
-        "id": "varonxpbl",
-        "text": "█  ",
-        "tags": [],
-        "line": 25,
-        "startOffset": 353,
-        "endOffset": 385,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-多代理模式  Coze --- Multi-agent mode  Coze-H8DHM9A.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025437,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-功能概述  Coze --- Function overview  Coze-H8DHMFB.md": [
-      {
-        "id": "pu3acc3ih",
-        "text": "█  ",
-        "tags": [],
-        "line": 25,
-        "startOffset": 360,
-        "endOffset": 392,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-功能概述  Coze --- Function overview  Coze-H8DHMFB.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025483,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "p0atyqiu9",
-        "text": "█  ",
-        "tags": [],
-        "line": 28,
-        "startOffset": 543,
-        "endOffset": 575,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-功能概述  Coze --- Function overview  Coze-H8DHMFB.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025666,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-亚马逊创始人贝索斯： 为什么我开会不用PPT_杭州网-H89CC82.md": [
-      {
-        "id": "o0ny8nyer",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 363,
-        "endOffset": 395,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-亚马逊创始人贝索斯： 为什么我开会不用PPT_杭州网-H89CC82.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142161,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-Models - OpenAI API-H8DF6AD.md": [
-      {
-        "id": "yzsfg50fp",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 342,
-        "endOffset": 374,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-Models - OpenAI API-H8DF6AD.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142225,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/03/wucai-coze的尴尬之处在于： 1.对于小白来说有门槛（即使coz - 即刻App-H89C59F.md": [
-      {
-        "id": "tnqg8lpu5",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 424,
-        "endOffset": 456,
-        "filePath": "Sources/WuCaiSync /2024/03/wucai-coze的尴尬之处在于： 1.对于小白来说有门槛（即使coz - 即刻App-H89C59F.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142267,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是.md": [
-      {
-        "id": "7w2ig3ev2",
-        "text": "█ ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 584,
-        "endOffset": 615,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142346,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-现阶段 AI 的价值和盈利方向  宝玉的分享-H8D5MED.md": [
-      {
-        "id": "d6dg5cfvc",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 338,
-        "endOffset": 370,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-现阶段 AI 的价值和盈利方向  宝玉的分享-H8D5MED.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142126,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是 X」「如何配置 X」之类的内容 当对-H8D5M5E.md": [
-      {
-        "id": "u86vkvhry",
-        "text": "█ ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 584,
-        "endOffset": 615,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是 X」「如何配置 X」之类的内容 当对-H8D5M5E.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142350,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-怎么浏览器打开图片的url默认是下载 - 知乎-H8DCM9A.md": [
-      {
-        "id": "yo7du2c2j",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 319,
-        "endOffset": 351,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-怎么浏览器打开图片的url默认是下载 - 知乎-H8DCM9A.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142130,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-周鸿祎×傅盛：共话AI大模型  Redian News-H877222.md": [
-      {
-        "id": "8lrely8xq",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 321,
-        "endOffset": 353,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-周鸿祎×傅盛：共话AI大模型  Redian News-H877222.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142144,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-关于本站  Tangly博客-H8DCHH9.md": [
-      {
-        "id": "92i2rlnr2",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 306,
-        "endOffset": 338,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-关于本站  Tangly博客-H8DCHH9.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142035,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-傅盛：用大模型做小工具_用户_变化_技术-H87722K.md": [
-      {
-        "id": "n5bqnzxs6",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 313,
-        "endOffset": 345,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-傅盛：用大模型做小工具_用户_变化_技术-H87722K.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142035,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md": [
-      {
-        "id": "mqsm3ycwf",
-        "text": "█  ",
-        "tags": [],
-        "line": 25,
-        "startOffset": 485,
-        "endOffset": 517,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025739,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "hwwszavch",
-        "text": "█  ",
-        "tags": [],
-        "line": 28,
-        "startOffset": 1416,
-        "endOffset": 1448,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025670,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "z8fbisjv2",
-        "text": "█  ",
-        "tags": [],
-        "line": 30,
-        "startOffset": 1503,
-        "endOffset": 1535,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025757,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "y7crecmta",
-        "text": "█  ",
-        "tags": [],
-        "line": 33,
-        "startOffset": 1618,
-        "endOffset": 1650,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1747345025872,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-Sora-H87A8AK.md": [
-      {
-        "id": "pzy61icaf",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 274,
-        "endOffset": 306,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-Sora-H87A8AK.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142179,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-OpenAI 如何优化 LLM 的效果  Breezedeus.com-H87BB6M.md": [
-      {
-        "id": "m5cnh8f9k",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 374,
-        "endOffset": 406,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-OpenAI 如何优化 LLM 的效果  Breezedeus.com-H87BB6M.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142268,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-ollamaollama Get up and running with Llama 2, Mistral, Gemma, and other large language models.-H8D6E5H.md": [
-      {
-        "id": "gf6671v1c",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 461,
-        "endOffset": 493,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-ollamaollama Get up and running with Llama 2, Mistral, Gemma, and other large language models.-H8D6E5H.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142351,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-2023年最佳的Python库  Tryolabs --- Top Python libraries of 2023  Tryolabs-H87MC22.md": [
-      {
-        "id": "aggdeh37z",
-        "text": "█  ",
-        "tags": [],
-        "line": 25,
-        "startOffset": 462,
-        "endOffset": 494,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-2023年最佳的Python库  Tryolabs --- Top Python libraries of 2023  Tryolabs-H87MC22.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142146,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/02/wucai-10个具有代表性的AI-Agents将如何改变互联网重塑Web3-H873859.md": [
-      {
-        "id": "f89be1gw1",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 360,
-        "endOffset": 392,
-        "filePath": "Sources/WuCaiSync /2024/02/wucai-10个具有代表性的AI-Agents将如何改变互联网重塑Web3-H873859.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142043,
-        "isNativeComment": false,
-        "color": "#ffff83",
-        "type": "html"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-（3）索引 - ArcBrowser --- (3) index - ArcBrowser-H88K9BA.md": [
-      {
-        "id": "078mcga8e",
-        "text": "█  ",
-        "tags": [],
-        "line": 25,
-        "startOffset": 397,
-        "endOffset": 429,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-（3）索引 - ArcBrowser --- (3) index - ArcBrowser-H88K9BA.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142055,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-wsl 检测到 localhost 代理配置但未镜像到 WSLNAT 模式下的 WSL 不支持 localhost 代理 · Issue 10753 · microsoftWSL-H888HKB.md": [
-      {
-        "id": "fodgyov2w",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 474,
-        "endOffset": 506,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-wsl 检测到 localhost 代理配置但未镜像到 WSLNAT 模式下的 WSL 不支持 localhost 代理 · Issue 10753 · microsoftWSL-H888HKB.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142395,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-Vision - OpenAI API-H87DH3E.md": [
-      {
-        "id": "eou9trhyy",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 332,
-        "endOffset": 364,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-Vision - OpenAI API-H87DH3E.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142246,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md": [
-      {
-        "id": "hvgv2ikba",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 429,
-        "endOffset": 461,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142337,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "g8fqrltq5",
-        "text": "█  ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 564,
-        "endOffset": 596,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142472,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "3xz251his",
-        "text": "█  ",
-        "tags": [],
-        "line": 26,
-        "startOffset": 652,
-        "endOffset": 684,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142560,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-M1标配8G内存,SSD耐久度提升的秘密 硬件内存压缩 存储协处理器写入专用模拟SLC - 哔哩哔哩-H879722.md": [
-      {
-        "id": "eiu7gdwhj",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 390,
-        "endOffset": 422,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-M1标配8G内存,SSD耐久度提升的秘密 硬件内存压缩 存储协处理器写入专用模拟SLC - 哔哩哔哩-H879722.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142270,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-How to stop the stream and does it stop the openai charging · Issue 4743 · langchain-ailangchain-H88B239.md": [
-      {
-        "id": "y10x5vbqh",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 494,
-        "endOffset": 526,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-How to stop the stream and does it stop the openai charging · Issue 4743 · langchain-ailangchain-H88B239.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142356,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-24年素人铺量别碰-H88MDDK.md": [
-      {
-        "id": "6thsrya9k",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 644,
-        "endOffset": 676,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-24年素人铺量别碰-H88MDDK.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142336,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2024/01/wucai-2024 年了, 有多少公司和系统由微服务云原生转为了单体架构 - V2EX-H88MFBB.md": [
-      {
-        "id": "p6kw2ajbh",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 349,
-        "endOffset": 381,
-        "filePath": "Sources/WuCaiSync /2024/01/wucai-2024 年了, 有多少公司和系统由微服务云原生转为了单体架构 - V2EX-H88MFBB.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142036,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-科研插件学术工具网页高亮划线标注批注神器支持谷歌chrome和edge数据云端同步 - 五彩插件_哔哩哔哩_bilibili-H8MADBA.md": [
-      {
-        "id": "olwes4gou",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 461,
-        "endOffset": 493,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-科研插件学术工具网页高亮划线标注批注神器支持谷歌chrome和edge数据云端同步 - 五彩插件_哔哩哔哩_bilibili-H8MADBA.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142219,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "olsgiwhz7",
-        "text": "█  ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 520,
-        "endOffset": 552,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-科研插件学术工具网页高亮划线标注批注神器支持谷歌chrome和edge数据云端同步 - 五彩插件_哔哩哔哩_bilibili-H8MADBA.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142278,
-        "isNativeComment": false,
-        "color": "#ffc7ba"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-怎样知行合一 我的两个心得： 从认知上对你说的所有话 - 即刻App-H8MB7EB.md": [
-      {
-        "id": "kv7860xuj",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 420,
-        "endOffset": 452,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-怎样知行合一 我的两个心得： 从认知上对你说的所有话 - 即刻App-H8MB7EB.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142235,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-X 上的 LlamaIndex 🦙：“Using LLMs over knowledge graphs is increasingly common, and you can now explore 7 ways to query your-H8MB6KD.md": [
-      {
-        "id": "q8mpw6qwv",
-        "text": "█  ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 606,
-        "endOffset": 638,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-X 上的 LlamaIndex 🦙：“Using LLMs over knowledge graphs is increasingly common, and you can now explore 7 ways to query your-H8MB6KD.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142530,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-[分享] obsidian 日记数据跟踪图表 - 经验分享 - Obsidian 中文论坛-H8MAD33.md": [
-      {
-        "id": "s8x2fsbm1",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 375,
-        "endOffset": 407,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-[分享] obsidian 日记数据跟踪图表 - 经验分享 - Obsidian 中文论坛-H8MAD33.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142036,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md": [
-      {
-        "id": "ko1r67wds",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 302,
-        "endOffset": 334,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142083,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "e3dtpf7i2",
-        "text": "█  ",
-        "tags": [],
-        "line": 26,
-        "startOffset": 411,
-        "endOffset": 443,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142192,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "5xc60j48f",
-        "text": "█  ",
-        "tags": [],
-        "line": 28,
-        "startOffset": 488,
-        "endOffset": 520,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142269,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-Pricing - Obsidian-H8MADM9.md": [
-      {
-        "id": "t9plrh6u0",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 295,
-        "endOffset": 327,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-Pricing - Obsidian-H8MADM9.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142192,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-Readwise --- 阅读-H8865MB.md": [
-      {
-        "id": "ddotfeqsg",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 282,
-        "endOffset": 314,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-Readwise --- 阅读-H8865MB.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142183,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-Implement a way to abort  cancel request · Issue 5340 · langchain-ailangchain-H88C2MA.md": [
-      {
-        "id": "svlcnkd8v",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 445,
-        "endOffset": 477,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-Implement a way to abort  cancel request · Issue 5340 · langchain-ailangchain-H88C2MA.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142318,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-get_openai_callback dosent work with streaming = True · Issue 4583 · langchain-ailangchain-H8MB6HK.md": [
-      {
-        "id": "w7qxxhvs4",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 471,
-        "endOffset": 503,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-get_openai_callback dosent work with streaming = True · Issue 4583 · langchain-ailangchain-H8MB6HK.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142327,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-17. 更新日志-H8MAD35.md": [
-      {
-        "id": "qp8663u9l",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 301,
-        "endOffset": 333,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-17. 更新日志-H8MAD35.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615141978,
-        "isNativeComment": false,
-        "color": "#ffc7ba"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-AboutTheGarden-H8M397K.md": [
-      {
-        "id": "c1njp0ndq",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 308,
-        "endOffset": 340,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-AboutTheGarden-H8M397K.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1721910586712,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "ad1nf1ury",
-        "text": "█  ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 394,
-        "endOffset": 426,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-AboutTheGarden-H8M397K.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1721910586798,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "wf0ons708",
-        "text": "█  ",
-        "tags": [],
-        "line": 26,
-        "startOffset": 480,
-        "endOffset": 512,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-AboutTheGarden-H8M397K.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1721910586884,
-        "isNativeComment": false,
-        "color": "#a6ffe9"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-05. 实验中的功能-小助手和剪藏-H88C377.md": [
-      {
-        "id": "tpm6sagct",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 319,
-        "endOffset": 351,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-05. 实验中的功能-小助手和剪藏-H88C377.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615141989,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      },
-      {
-        "id": "iyyt92wgi",
-        "text": "█  ",
-        "tags": [],
-        "line": 24,
-        "startOffset": 392,
-        "endOffset": 424,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-05. 实验中的功能-小助手和剪藏-H88C377.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142062,
-        "isNativeComment": false,
-        "color": "#ffff83"
-      }
-    ],
-    "Sources/WuCaiSync /2023/12/wucai-(1000+) Inoreader - Mainonly – 小书签：只显示网页上选中的区域适合使用《沉浸式翻译》-H886EKC.md": [
-      {
-        "id": "z8xtzcrz6",
-        "text": "█  ",
-        "tags": [],
-        "line": 22,
-        "startOffset": 415,
-        "endOffset": 447,
-        "filePath": "Sources/WuCaiSync /2023/12/wucai-(1000+) Inoreader - Mainonly – 小书签：只显示网页上选中的区域适合使用《沉浸式翻译》-H886EKC.md",
-        "footnoteCount": 0,
-        "footnoteContents": [],
-        "createdAt": 1748615142069,
-        "isNativeComment": false,
-        "color": "#ffff83"
       }
     ],
     "Sources/CuboxSync/被传销洗脑是怎样的过程？ - 知乎-2022-06-02.md": [
@@ -1993,16 +964,17 @@
         "id": "rytws628v",
         "text": "我的理解:: 写笔记为为了让自己更好地思考。写长文是为了把思想和观点更准确地传递给读者。后者往往需要花很多精力去遣词造句视图更准确表达，毕竟人与人之间的知识面和三观永远是有差异的。但写笔记就不需要花额外时间做这些可能对自己是无用功的事情，毕竟核心是帮助自己更好地思考，而不是更好地表达。但写长文的技能可不能丢，毕竟交流能力是我们立足社会的元技能。写笔记对内，写长文对外，而80%以上的时间，我们的创作应该是对内的，自省的。",
         "tags": [],
-        "line": 11,
-        "startOffset": 174,
-        "endOffset": 389,
+        "line": 12,
+        "startOffset": 195,
+        "endOffset": 410,
         "filePath": "Sources/Articles/常青笔记阅读笔记/默认面对自己写笔记，不要考虑有读者.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 写笔记为为了让自己更好地思考。写长文是为了把思想和观点更准确地传递给读者。后者往往需要花很多精力去遣词造句视图更准确表达，毕竟人与人之间的知识面和三观永远是有差异的。但写笔记就不需要花额外时间做这些可能对自己是无用功的事情，毕竟核心是帮助自己更好地思考，而不是更好地表达。但写长文的技能可不能丢，毕竟交流能力是我们立足社会的元技能。写笔记对内，写长文对外，而80%以上的时间，我们的创作应该是对内的，自省的。"
         ],
         "createdAt": 1752259580524,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/间隔重复对于逐步完善灵光一闪可能有用.md": [
@@ -2010,16 +982,17 @@
         "id": "vi1vjnpab",
         "text": "我的理解:: 现在我加入到[[Spaced Repetition]]插件中进行anki记忆的笔记标准还没定下来，数量也少。这里提供了一个思路，自己的闪念笔记，也可以加入到anki中，过几天之后再看这则闪念，可能会迸发出新想法。#待办/某天 ",
         "tags": [],
-        "line": 12,
-        "startOffset": 186,
-        "endOffset": 310,
+        "line": 13,
+        "startOffset": 208,
+        "endOffset": 332,
         "filePath": "Sources/Articles/常青笔记阅读笔记/间隔重复对于逐步完善灵光一闪可能有用.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 现在我加入到[[Spaced Repetition]]插件中进行anki记忆的笔记标准还没定下来，数量也少。这里提供了一个思路，自己的闪念笔记，也可以加入到anki中，过几天之后再看这则闪念，可能会迸发出新想法。#待办/某天 "
         ],
         "createdAt": 1752259580534,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/间隔重复可以降低破坏性收件箱维护操作的风险.md": [
@@ -2027,16 +1000,17 @@
         "id": "4nrqn2sf8",
         "text": "我的理解:: 间隔重复相当于用时间换空间，让删除或清空操作从一次性操作，变成了经过多次考核的操作。",
         "tags": [],
-        "line": 11,
-        "startOffset": 178,
-        "endOffset": 231,
+        "line": 12,
+        "startOffset": 199,
+        "endOffset": 252,
         "filePath": "Sources/Articles/常青笔记阅读笔记/间隔重复可以降低破坏性收件箱维护操作的风险.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 间隔重复相当于用时间换空间，让删除或清空操作从一次性操作，变成了经过多次考核的操作。"
         ],
         "createdAt": 1752259580525,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/间隔重复卡片通常是原子化的，而助记媒介为其赋予结构.md": [
@@ -2044,16 +1018,17 @@
         "id": "swhewx6ol",
         "text": "我的理解:: 比如现在我自己在用的obsidian的[[Spaced Repetition]]插件，就是一种助记媒介，在review的卡片笔记的时候，能看到额外的结构信息，比如引用它的其他卡片，所在文件夹目录，标签等等。",
         "tags": [],
-        "line": 11,
-        "startOffset": 182,
-        "endOffset": 296,
+        "line": 12,
+        "startOffset": 203,
+        "endOffset": 317,
         "filePath": "Sources/Articles/常青笔记阅读笔记/间隔重复卡片通常是原子化的，而助记媒介为其赋予结构.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 比如现在我自己在用的obsidian的[[Spaced Repetition]]插件，就是一种助记媒介，在review的卡片笔记的时候，能看到额外的结构信息，比如引用它的其他卡片，所在文件夹目录，标签等等。"
         ],
         "createdAt": 1752259580529,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/软件界面经常将破坏性操作作为最终决定，而不是视情况而定的选择.md": [
@@ -2061,16 +1036,17 @@
         "id": "tyntcsg60",
         "text": "我的理解:: 删除、清空一些内容的操作就像鸡肋，食之无味，弃之可惜。现在有另一个选择就是使用间隔重复，丢到将来某天的箱子里，等待将来时机成熟，有确定的结论将其删除或使用上。",
         "tags": [],
-        "line": 11,
-        "startOffset": 187,
-        "endOffset": 277,
+        "line": 12,
+        "startOffset": 208,
+        "endOffset": 298,
         "filePath": "Sources/Articles/常青笔记阅读笔记/软件界面经常将破坏性操作作为最终决定，而不是视情况而定的选择.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 删除、清空一些内容的操作就像鸡肋，食之无味，弃之可惜。现在有另一个选择就是使用间隔重复，丢到将来某天的箱子里，等待将来时机成熟，有确定的结论将其删除或使用上。"
         ],
         "createdAt": 1752259580532,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/谨防自动导入阅读收件箱.md": [
@@ -2078,16 +1054,17 @@
         "id": "xhr9hd9sh",
         "text": "我的理解:: 阅读inbox存放的一定要是值得精读，且我们会花时间去拆解做笔记的内容。",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 215,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 236,
         "filePath": "Sources/Articles/常青笔记阅读笔记/谨防自动导入阅读收件箱.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 阅读inbox存放的一定要是值得精读，且我们会花时间去拆解做笔记的内容。"
         ],
         "createdAt": 1752259580512,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/让思想和信念有机地涌现.md": [
@@ -2095,16 +1072,17 @@
         "id": "edst5mo0e",
         "text": "我的理解:: 没有人从一张白纸开始写作。也没有人从一颗空白的大脑开始凝聚自己的思想和信念。",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 217,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 238,
         "filePath": "Sources/Articles/常青笔记阅读笔记/让思想和信念有机地涌现.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 没有人从一张白纸开始写作。也没有人从一颗空白的大脑开始凝聚自己的思想和信念。"
         ],
         "createdAt": 1752259580511,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/被索引的参考资料与标签.md": [
@@ -2112,16 +1090,17 @@
         "id": "69vub6muo",
         "text": "我的理解:: 标签使用起来局限性很大，尤其是其能检索出的信息往往是非常粗粒度。索引[[TOC]]和[[∑ MOCs]]才重要，不仅可以检索细粒度，而且可以附加描述信息。",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 256,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 277,
         "filePath": "Sources/Articles/常青笔记阅读笔记/被索引的参考资料与标签.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 标签使用起来局限性很大，尤其是其能检索出的信息往往是非常粗粒度。索引[[TOC]]和[[∑ MOCs]]才重要，不仅可以检索细粒度，而且可以附加描述信息。"
         ],
         "createdAt": 1752259580510,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/自主思考.md": [
@@ -2129,16 +1108,17 @@
         "id": "4pni2izug",
         "text": "我的理解:: 也就是独立思考，既不人云亦云，也不作者云我亦云。这也是[[学会提问（原书第12版）-尼尔·布朗 斯图尔特·基利]]中表达的核心思想之一。",
         "tags": [],
-        "line": 13,
-        "startOffset": 179,
-        "endOffset": 258,
+        "line": 14,
+        "startOffset": 200,
+        "endOffset": 279,
         "filePath": "Sources/Articles/常青笔记阅读笔记/自主思考.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 也就是独立思考，既不人云亦云，也不作者云我亦云。这也是[[学会提问（原书第12版）-尼尔·布朗 斯图尔特·基利]]中表达的核心思想之一。"
         ],
         "createdAt": 1752259580521,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/精细编码.md": [
@@ -2146,16 +1126,17 @@
         "id": "by8bjuhoi",
         "text": "我的理解:: 看描述，其实就是[[记忆宫殿]]所采用的助记法。",
         "tags": [],
-        "line": 11,
-        "startOffset": 161,
-        "endOffset": 196,
+        "line": 12,
+        "startOffset": 182,
+        "endOffset": 217,
         "filePath": "Sources/Articles/常青笔记阅读笔记/精细编码.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 看描述，其实就是[[记忆宫殿]]所采用的助记法。"
         ],
         "createdAt": 1752259580502,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/笔记标题建议使用完整的句子，避免模糊主张.md": [
@@ -2163,16 +1144,17 @@
         "id": "c79wj1bvd",
         "text": "我的理解:: #todo 需要学习和养成这个习惯。",
         "tags": [],
-        "line": 12,
-        "startOffset": 185,
-        "endOffset": 214,
+        "line": 13,
+        "startOffset": 207,
+        "endOffset": 236,
         "filePath": "Sources/Articles/常青笔记阅读笔记/笔记标题建议使用完整的句子，避免模糊主张.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: #todo 需要学习和养成这个习惯。"
         ],
         "createdAt": 1752259580524,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/笔记应该让你吃惊.md": [
@@ -2180,16 +1162,17 @@
         "id": "55u1vbml4",
         "text": "我的理解:: 就像看一篇小说、看一部电影。我们不是影评家，我们没有必要每一个细节和每一帧都做笔记。我的原则是，让自己产生情绪波动的，感到惊喜的内容，去做笔记即可。",
         "tags": [],
-        "line": 11,
-        "startOffset": 165,
-        "endOffset": 250,
+        "line": 12,
+        "startOffset": 186,
+        "endOffset": 271,
         "filePath": "Sources/Articles/常青笔记阅读笔记/笔记应该让你吃惊.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 就像看一篇小说、看一部电影。我们不是影评家，我们没有必要每一个细节和每一帧都做笔记。我的原则是，让自己产生情绪波动的，感到惊喜的内容，去做笔记即可。"
         ],
         "createdAt": 1752259580504,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/笔记写作的反馈不足.md": [
@@ -2197,16 +1180,17 @@
         "id": "hc9m46hpn",
         "text": "我的理解:: 任何努力，有反馈才能帮助我们不断改进，避免闭门造车，做笔记也是如此。所以[[数字花园]]这种形式很吸引我，能让我的笔记被看到。但现在由于缺少积累，很少人给我反馈，哎。",
         "tags": [],
-        "line": 11,
-        "startOffset": 166,
-        "endOffset": 260,
+        "line": 12,
+        "startOffset": 187,
+        "endOffset": 281,
         "filePath": "Sources/Articles/常青笔记阅读笔记/笔记写作的反馈不足.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 任何努力，有反馈才能帮助我们不断改进，避免闭门造车，做笔记也是如此。所以[[数字花园]]这种形式很吸引我，能让我的笔记被看到。但现在由于缺少积累，很少人给我反馈，哎。"
         ],
         "createdAt": 1752259580504,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/笔记写作实践大多是无效的.md": [
@@ -2214,16 +1198,17 @@
         "id": "blj34jo8k",
         "text": "我的理解:: 为了写而写，为了记录而记录，这些笔记和写作思想，都走远了，做笔记，首先应该是为了思考。如果根本目标没搞对，在此基础上的方法和实践就可能走错路，比如很多人照搬柳比歇夫的类似[[间歇式日记]]的方法，却不先分析自己的生活和工作特点，最后只能草草了之放弃。还有[[番茄工作法]]等等，都有它的适用范围和局限性。",
         "tags": [],
-        "line": 11,
-        "startOffset": 169,
-        "endOffset": 332,
+        "line": 12,
+        "startOffset": 190,
+        "endOffset": 353,
         "filePath": "Sources/Articles/常青笔记阅读笔记/笔记写作实践大多是无效的.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 为了写而写，为了记录而记录，这些笔记和写作思想，都走远了，做笔记，首先应该是为了思考。如果根本目标没搞对，在此基础上的方法和实践就可能走错路，比如很多人照搬柳比歇夫的类似[[间歇式日记]]的方法，却不先分析自己的生活和工作特点，最后只能草草了之放弃。还有[[番茄工作法]]等等，都有它的适用范围和局限性。"
         ],
         "createdAt": 1752259580506,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/知识工作应能聚沙成塔.md": [
@@ -2231,16 +1216,17 @@
         "id": "yhddpxb4t",
         "text": "我的理解:: 曾经没有足够稳定和持久坚持的笔记库和知识库，一直在玩沙，建不成知识宝塔。以前为忙碌的工作写过太多短暂的工作日志，却鲜有为自己的知识增长写常青笔记。短期看确实工作效率高了，长期看积累和沉淀下来的就少了，有点低头看路，却不曾仰望星空的感觉。",
         "tags": [],
-        "line": 11,
-        "startOffset": 167,
-        "endOffset": 296,
+        "line": 12,
+        "startOffset": 188,
+        "endOffset": 317,
         "filePath": "Sources/Articles/常青笔记阅读笔记/知识工作应能聚沙成塔.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 曾经没有足够稳定和持久坚持的笔记库和知识库，一直在玩沙，建不成知识宝塔。以前为忙碌的工作写过太多短暂的工作日志，却鲜有为自己的知识增长写常青笔记。短期看确实工作效率高了，长期看积累和沉淀下来的就少了，有点低头看路，却不曾仰望星空的感觉。"
         ],
         "createdAt": 1752259580504,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/用手机收集和分流，而不是（通常）阅读.md": [
@@ -2248,16 +1234,17 @@
         "id": "0be0rzrmd",
         "text": "我的理解:: 简直不能再认同，手机上的不做笔记的阅读，吸收率极低，看看娱乐文章和视频还行，如果看到那些深度好文，还是先放进inbox，坐到电脑旁边了再继续。",
         "tags": [],
-        "line": 13,
-        "startOffset": 193,
-        "endOffset": 275,
+        "line": 14,
+        "startOffset": 214,
+        "endOffset": 296,
         "filePath": "Sources/Articles/常青笔记阅读笔记/用手机收集和分流，而不是（通常）阅读.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 简直不能再认同，手机上的不做笔记的阅读，吸收率极低，看看娱乐文章和视频还行，如果看到那些深度好文，还是先放进inbox，坐到电脑旁边了再继续。"
         ],
         "createdAt": 1752259580529,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/理解概念需与其尽力较量.md": [
@@ -2282,16 +1269,17 @@
         "id": "cmjm6eeqm",
         "text": "我的理解:: 如果单纯使用anki，和常青笔记是割裂开的。前者更强调间隔重复记忆，后者更强调不断地更新和积累。",
         "tags": [],
-        "line": 11,
-        "startOffset": 176,
-        "endOffset": 235,
+        "line": 12,
+        "startOffset": 197,
+        "endOffset": 256,
         "filePath": "Sources/Articles/常青笔记阅读笔记/现有的间隔重复系统不鼓励常青笔记的创作.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 如果单纯使用anki，和常青笔记是割裂开的。前者更强调间隔重复记忆，后者更强调不断地更新和积累。"
         ],
         "createdAt": 1752259580511,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/测试效应.md": [
@@ -2299,16 +1287,17 @@
         "id": "65vriabzt",
         "text": "我的理解:: 及时刷题答题，对学习来说是多么多么重要啊。题海战术就是一种不需要太精巧的学习流程的设计，简单贯彻就能取得成绩的最简单粗暴的方法。",
         "tags": [],
-        "line": 11,
-        "startOffset": 161,
-        "endOffset": 236,
+        "line": 12,
+        "startOffset": 182,
+        "endOffset": 257,
         "filePath": "Sources/Articles/常青笔记阅读笔记/测试效应.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 及时刷题答题，对学习来说是多么多么重要啊。题海战术就是一种不需要太精巧的学习流程的设计，简单贯彻就能取得成绩的最简单粗暴的方法。"
         ],
         "createdAt": 1752259580494,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/每日工作日志.md": [
@@ -2316,16 +1305,17 @@
         "id": "gk6h9c4pb",
         "text": "我的理解:: 即[[» Daily notes工作流]]",
         "tags": [],
-        "line": 11,
-        "startOffset": 163,
-        "endOffset": 195,
+        "line": 12,
+        "startOffset": 184,
+        "endOffset": 216,
         "filePath": "Sources/Articles/常青笔记阅读笔记/每日工作日志.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 即[[» Daily notes工作流]]"
         ],
         "createdAt": 1752259580496,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/标签是无效的关联结构.md": [
@@ -2333,16 +1323,17 @@
         "id": "6n3adi0yb",
         "text": " 我的理解:: 这点我跟 andy 的观点基本一致。所以我将标签，用成了表达状态的一种标记，而非传统的笔记方法将其用来分类和做关联。",
         "tags": [],
-        "line": 11,
-        "startOffset": 167,
-        "endOffset": 237,
+        "line": 12,
+        "startOffset": 188,
+        "endOffset": 258,
         "filePath": "Sources/Articles/常青笔记阅读笔记/标签是无效的关联结构.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " 我的理解:: 这点我跟 andy 的观点基本一致。所以我将标签，用成了表达状态的一种标记，而非传统的笔记方法将其用来分类和做关联。"
         ],
         "createdAt": 1752259580499,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/有效的系统设计需要从真刀真枪的使用情境汲取洞见.md": [
@@ -2350,16 +1341,17 @@
         "id": "y5wj46sbj",
         "text": "我的理解:: 现在是个人，就能BB两句，将一些大道理。有效的东西、真理确是来源于实践的。",
         "tags": [],
-        "line": 11,
-        "startOffset": 180,
-        "endOffset": 228,
+        "line": 12,
+        "startOffset": 201,
+        "endOffset": 249,
         "filePath": "Sources/Articles/常青笔记阅读笔记/有效的系统设计需要从真刀真枪的使用情境汲取洞见.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 现在是个人，就能BB两句，将一些大道理。有效的东西、真理确是来源于实践的。"
         ],
         "createdAt": 1752259580511,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/文献笔记是次要的，分离的.md": [
@@ -2367,16 +1359,17 @@
         "id": "51iobv7ca",
         "text": "我的理解:: 文献笔记，原文含量大，永久笔记（持久笔记），自己的话含量大。以文献为中心做批注，还是以自己的话为中心引用文献，二者有区别，后者是更有效的方法，当然也需要多花一些时间精力。#待办/今天 ",
         "tags": [],
-        "line": 12,
-        "startOffset": 181,
-        "endOffset": 284,
+        "line": 13,
+        "startOffset": 203,
+        "endOffset": 306,
         "filePath": "Sources/Articles/常青笔记阅读笔记/文献笔记是次要的，分离的.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 文献笔记，原文含量大，永久笔记（持久笔记），自己的话含量大。以文献为中心做批注，还是以自己的话为中心引用文献，二者有区别，后者是更有效的方法，当然也需要多花一些时间精力。#待办/今天 "
         ],
         "createdAt": 1752259580510,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/更好地记笔记这个描述太过流于表面；核心在于更好地思考.md": [
@@ -2384,16 +1377,17 @@
         "id": "jshv5d9se",
         "text": "我的理解:: 现实生活中，那些成功人士并不是都会做笔记，但这并不意味着做笔记不是一个能帮助我们成功的好习惯，关键在于：不要做那种自我感动的笔记，而是做帮助自己思考的笔记。",
         "tags": [],
-        "line": 11,
-        "startOffset": 183,
-        "endOffset": 272,
+        "line": 12,
+        "startOffset": 204,
+        "endOffset": 293,
         "filePath": "Sources/Articles/常青笔记阅读笔记/更好地记笔记这个描述太过流于表面；核心在于更好地思考.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 现实生活中，那些成功人士并不是都会做笔记，但这并不意味着做笔记不是一个能帮助我们成功的好习惯，关键在于：不要做那种自我感动的笔记，而是做帮助自己思考的笔记。"
         ],
         "createdAt": 1752259580513,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/最好的阅读方式是高度语境化的.md": [
@@ -2401,16 +1395,17 @@
         "id": "5k4t8xhg7",
         "text": "我的理解:: 不同的书，不同时期的我，不同时刻的我，读书的目的都是不同的，需要具体问题具体分析，就像[[如何阅读一本书-莫提默·艾德勒 查尔斯·范多伦]]中所言，要按照实际情况制定读书方法。",
         "tags": [],
-        "line": 11,
-        "startOffset": 171,
-        "endOffset": 270,
+        "line": 12,
+        "startOffset": 192,
+        "endOffset": 291,
         "filePath": "Sources/Articles/常青笔记阅读笔记/最好的阅读方式是高度语境化的.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 不同的书，不同时期的我，不同时刻的我，读书的目的都是不同的，需要具体问题具体分析，就像[[如何阅读一本书-莫提默·艾德勒 查尔斯·范多伦]]中所言，要按照实际情况制定读书方法。"
         ],
         "createdAt": 1752259580502,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/数字笔记系统专注于笔记个体的展示和操作，常忽略笔记之间内在连接所产生的意义.md": [
@@ -2418,9 +1413,9 @@
         "id": "kejdbfjrm",
         "text": "我的理解:: [[excalibrain]]这种插件，不仅让我们专注于笔记个体，也能让我们注意到笔记之间内在连接的意义。[[Heptabase]]等白板工具也可以一定程度上缓解这种下意识的忽略。",
         "tags": [],
-        "line": 11,
-        "startOffset": 194,
-        "endOffset": 295,
+        "line": 12,
+        "startOffset": 215,
+        "endOffset": 316,
         "filePath": "Sources/Articles/常青笔记阅读笔记/数字笔记系统专注于笔记个体的展示和操作，常忽略笔记之间内在连接所产生的意义.md",
         "footnoteCount": 1,
         "footnoteContents": [
@@ -2434,9 +1429,9 @@
         "id": "dxftzd4ng",
         "text": "[[Heptabase]]就是为了这个等价的数字版场景而生的，哈哈",
         "tags": [],
-        "line": 19,
-        "startOffset": 1138,
-        "endOffset": 1175,
+        "line": 20,
+        "startOffset": 1151,
+        "endOffset": 1188,
         "filePath": "Sources/Articles/常青笔记阅读笔记/数字笔记系统专注于笔记个体的展示和操作，常忽略笔记之间内在连接所产生的意义.md",
         "footnoteCount": 1,
         "footnoteContents": [
@@ -2452,16 +1447,17 @@
         "id": "k8g3xqfqo",
         "text": "我的理解:: 避免陷入[[收藏者谬误|收藏家谬误]]，也要避免让自己成为知道先生，走向[[但当涉猎，不求甚解]]的极端。",
         "tags": [],
-        "line": 11,
-        "startOffset": 172,
-        "endOffset": 236,
+        "line": 12,
+        "startOffset": 193,
+        "endOffset": 257,
         "filePath": "Sources/Articles/常青笔记阅读笔记/收集材料的作用在感觉上被夸大了.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 避免陷入[[收藏者谬误|收藏家谬误]]，也要避免让自己成为知道先生，走向[[但当涉猎，不求甚解]]的极端。"
         ],
         "createdAt": 1752259580500,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/收件箱维护的分流策略（如「收件箱归零」）往往不够稳健.md": [
@@ -2469,16 +1465,17 @@
         "id": "dr71jv7qc",
         "text": "我的理解:: 就像软件项目经常会面临变数导致延期，使得短期内的问题单积压，导致开发团队处理不过来。空喊问题单清零的口号反而可能适得其反，与其天天喊着清零，不如增加这些单子的可容忍时长，以时间换空间。",
         "tags": [],
-        "line": 11,
-        "startOffset": 182,
-        "endOffset": 285,
+        "line": 12,
+        "startOffset": 203,
+        "endOffset": 306,
         "filePath": "Sources/Articles/常青笔记阅读笔记/收件箱维护的分流策略（如「收件箱归零」）往往不够稳健.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 就像软件项目经常会面临变数导致延期，使得短期内的问题单积压，导致开发团队处理不过来。空喊问题单清零的口号反而可能适得其反，与其天天喊着清零，不如增加这些单子的可容忍时长，以时间换空间。"
         ],
         "createdAt": 1752259580509,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/收件箱需要可靠的清空流程才有效.md": [
@@ -2486,16 +1483,17 @@
         "id": "xvnpmtfqz",
         "text": "我的理解:: 任务需要闭环收敛，才能往下走，因此inbox需要有机制去清空。",
         "tags": [],
-        "line": 11,
-        "startOffset": 161,
-        "endOffset": 203,
+        "line": 12,
+        "startOffset": 193,
+        "endOffset": 235,
         "filePath": "Sources/Articles/常青笔记阅读笔记/收件箱需要可靠的清空流程才有效.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 任务需要闭环收敛，才能往下走，因此inbox需要有机制去清空。"
         ],
         "createdAt": 1752687408088,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/我的晨间写作.md": [
@@ -2503,16 +1501,17 @@
         "id": "eljq01h0u",
         "text": "我的理解:: [[» Daily notes工作流]]的实践指南。",
         "tags": [],
-        "line": 11,
-        "startOffset": 163,
-        "endOffset": 200,
+        "line": 12,
+        "startOffset": 184,
+        "endOffset": 221,
         "filePath": "Sources/Articles/常青笔记阅读笔记/我的晨间写作.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: [[» Daily notes工作流]]的实践指南。"
         ],
         "createdAt": 1752259580489,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/我所认识的高效阅读者和思想家在阅读时不做笔记.md": [
@@ -2520,16 +1519,17 @@
         "id": "t2rxklode",
         "text": "我的理解:: 做笔记能帮助我们进行思考。成功人士不做笔记就能成功，可能他足够聪明，记忆力足够强大，或者有其他才能帮助自己聚焦工作，而不意味着他不思考。我们之所以建议大多数人做常青笔记，是因为笔记可以成为我们普通人思考的一个绝佳手段。我在[[从anki、onenote到obsidian，一名小镇做题家的笔记进化史]]也简单提到自己高中从来不做笔记，却也能考上好大学，但这不意味着笔记没用，如果以现在的我去重读高中，我会有办法通过做笔记，用更少的时间取得当年一样的成绩。",
         "tags": [],
-        "line": 11,
-        "startOffset": 179,
-        "endOffset": 417,
+        "line": 12,
+        "startOffset": 200,
+        "endOffset": 438,
         "filePath": "Sources/Articles/常青笔记阅读笔记/我所认识的高效阅读者和思想家在阅读时不做笔记.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 做笔记能帮助我们进行思考。成功人士不做笔记就能成功，可能他足够聪明，记忆力足够强大，或者有其他才能帮助自己聚焦工作，而不意味着他不思考。我们之所以建议大多数人做常青笔记，是因为笔记可以成为我们普通人思考的一个绝佳手段。我在[[从anki、onenote到obsidian，一名小镇做题家的笔记进化史]]也简单提到自己高中从来不做笔记，却也能考上好大学，但这不意味着笔记没用，如果以现在的我去重读高中，我会有办法通过做笔记，用更少的时间取得当年一样的成绩。"
         ],
         "createdAt": 1752259580503,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记的维护近似于间隔重复.md": [
@@ -2537,16 +1537,17 @@
         "id": "5mnlj0fyv",
         "text": "我的理解:: 哈哈，和作者想到一块儿去了。刚开始实践[[双链笔记]]写作的时候，就感觉到，双链有时候很像anki卡片，不用点开链接，就能理解，意味着这张卡片已经记住了，而点开链接，就相当于进行一次重复记忆。",
         "tags": [],
-        "line": 11,
-        "startOffset": 171,
-        "endOffset": 278,
+        "line": 12,
+        "startOffset": 192,
+        "endOffset": 299,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记的维护近似于间隔重复.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 哈哈，和作者想到一块儿去了。刚开始实践[[双链笔记]]写作的时候，就感觉到，双链有时候很像anki卡片，不用点开链接，就能理解，意味着这张卡片已经记住了，而点开链接，就相当于进行一次重复记忆。"
         ],
         "createdAt": 1752259580495,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记的标题就像 API.md": [
@@ -2554,16 +1555,17 @@
         "id": "24b94pq67",
         "text": "我的理解:: 简直是卡片笔记的命名最佳实践。要养成这个习惯。#待办/持续迭代。反观自己，现在的一些笔记就是模棱两可的或大而全的笔记，要么会被疯狂调用，要么无人问津。而拆解重构笔记的过程，就像抽取高频的公共接口。",
         "tags": [],
-        "line": 12,
-        "startOffset": 183,
-        "endOffset": 292,
+        "line": 13,
+        "startOffset": 205,
+        "endOffset": 314,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记的标题就像 API.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 简直是卡片笔记的命名最佳实践。要养成这个习惯。#待办/持续迭代。反观自己，现在的一些笔记就是模棱两可的或大而全的笔记，要么会被疯狂调用，要么无人问津。而拆解重构笔记的过程，就像抽取高频的公共接口。"
         ],
         "createdAt": 1752259580506,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记有助于积累阅读成果.md": [
@@ -2571,16 +1573,17 @@
         "id": "3xcqo2lu5",
         "text": "我的理解:: 传统的阅读+笔记的模式，不同书本和文章之间的联系，全靠自己大脑的短时记忆能力或运气，去找到关系和连接，这一点都不cool也不高效。现在基于link的模式，符合大脑思考直觉，相当于将阅读成果积累到了大脑的网状结构的一个个知识节点上了。真应了那句话：[[写作之难，在于将网状的思想，通过树状的句法，用线性的文字展开。——史蒂芬·平克]]。阅读之难，则是反之：看线性的文字，进行树状的输入，最后进行网状思想和知识的积累。",
         "tags": [],
-        "line": 11,
-        "startOffset": 170,
-        "endOffset": 388,
+        "line": 12,
+        "startOffset": 191,
+        "endOffset": 409,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记有助于积累阅读成果.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 传统的阅读+笔记的模式，不同书本和文章之间的联系，全靠自己大脑的短时记忆能力或运气，去找到关系和连接，这一点都不cool也不高效。现在基于link的模式，符合大脑思考直觉，相当于将阅读成果积累到了大脑的网状结构的一个个知识节点上了。真应了那句话：[[写作之难，在于将网状的思想，通过树状的句法，用线性的文字展开。——史蒂芬·平克]]。阅读之难，则是反之：看线性的文字，进行树状的输入，最后进行网状思想和知识的积累。"
         ],
         "createdAt": 1752259580493,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记有助于积累洞见.md": [
@@ -2588,16 +1591,17 @@
         "id": "f5n6vscqf",
         "text": "我的理解:: 传统笔记方式，缺少链接而容易让自己陷入记录者而非思考者的身份中。视觉化的笔记方式，能一定程度上帮助我们思考和产生洞见，但相对耗时。常青笔记取了2者的优点，即避免涂涂画画省时间，又产生链接帮助思考，以最终产生洞见。写到这，突然又对[[Heptabase]]和[[氢图]]的笔记+白板的形态产生兴趣，以后有机会一定深入体验一番。新增：ob也已经出了白板canvas，未来无限可能",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 366,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 387,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记有助于积累洞见.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 传统笔记方式，缺少链接而容易让自己陷入记录者而非思考者的身份中。视觉化的笔记方式，能一定程度上帮助我们思考和产生洞见，但相对耗时。常青笔记取了2者的优点，即避免涂涂画画省时间，又产生链接帮助思考，以最终产生洞见。写到这，突然又对[[Heptabase]]和[[氢图]]的笔记+白板的形态产生兴趣，以后有机会一定深入体验一番。新增：ob也已经出了白板canvas，未来无限可能"
         ],
         "createdAt": 1752259580490,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记是知识工作的基本单位.md": [
@@ -2622,16 +1626,17 @@
         "id": "rwi7rmuw6",
         "text": "我的理解:: 常青笔记真的是[[不积跬步无以至千里]]这类名言的最好实践。一张小卡片，写一个简单又大胆的想法，不用面面俱到，时间会让它发展，和其他卡片一起组成更完备的思想。",
         "tags": [],
-        "line": 11,
-        "startOffset": 173,
-        "endOffset": 263,
+        "line": 12,
+        "startOffset": 194,
+        "endOffset": 284,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记是发展大胆想法的安全场所.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 常青笔记真的是[[不积跬步无以至千里]]这类名言的最好实践。一张小卡片，写一个简单又大胆的想法，不用面面俱到，时间会让它发展，和其他卡片一起组成更完备的思想。"
         ],
         "createdAt": 1752259580493,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记应面向概念.md": [
@@ -2639,16 +1644,17 @@
         "id": "9e93x0ok3",
         "text": "我的理解:: 面向概念记笔记，也和[[链接优先]]的理念相同。我们往往更习惯于传统的[[folder first]]的方式去组织自己的学习材料和笔记。哪个更好？andy说前者更好，但我个人觉得拿不准，也得具体场景具体分析，也需要长期实践1-2年再来看看。",
         "tags": [],
-        "line": 11,
-        "startOffset": 166,
-        "endOffset": 297,
+        "line": 12,
+        "startOffset": 187,
+        "endOffset": 318,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记应面向概念.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 面向概念记笔记，也和[[链接优先]]的理念相同。我们往往更习惯于传统的[[folder first]]的方式去组织自己的学习材料和笔记。哪个更好？andy说前者更好，但我个人觉得拿不准，也得具体场景具体分析，也需要长期实践1-2年再来看看。"
         ],
         "createdAt": 1752259580485,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记应该是原子化的.md": [
@@ -2656,16 +1662,17 @@
         "id": "znkfpzq9s",
         "text": "我的理解:: 正如文中所言，写笔记没有唯一正解，只有各种权衡。原子化笔记，是一种指导方针，但实际应用起来的时候，应该因地制宜，根据笔记记录内容的不同性质，进行不同颗粒度大小的划分。",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 262,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 283,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记应该是原子化的.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 正如文中所言，写笔记没有唯一正解，只有各种权衡。原子化笔记，是一种指导方针，但实际应用起来的时候，应该因地制宜，根据笔记记录内容的不同性质，进行不同颗粒度大小的划分。"
         ],
         "createdAt": 1752259580487,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记工作流能降低改稿的情绪负担.md": [
@@ -2673,16 +1680,17 @@
         "id": "8jbwxqyz1",
         "text": " 我的理解:: 以前没有卡片笔记的时候，我也其实经常这么做，把临时的想法，或上个版本的内容，放到 word 编辑器的最后或其他地方集中存放，期待待会还可能用到，也一定程度降低删除和丢东西所带来的负面情绪。而卡片笔记的出现，让这种暂存，更方便地更自然地发生了。",
         "tags": [],
-        "line": 11,
-        "startOffset": 173,
-        "endOffset": 306,
+        "line": 12,
+        "startOffset": 194,
+        "endOffset": 327,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记工作流能降低改稿的情绪负担.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " 我的理解:: 以前没有卡片笔记的时候，我也其实经常这么做，把临时的想法，或上个版本的内容，放到 word 编辑器的最后或其他地方集中存放，期待待会还可能用到，也一定程度降低删除和丢东西所带来的负面情绪。而卡片笔记的出现，让这种暂存，更方便地更自然地发生了。"
         ],
         "createdAt": 1752259580491,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记实现顺畅而渐进的写作（「渐进写作」）.md": [
@@ -2690,16 +1698,17 @@
         "id": "qjhskk81k",
         "text": "我的理解:: 看过好几个视频，作者都提到卡片笔记的轻松无压，让笔记到写作这个过程变得非常渐进式。这也是[[Flomo]]的核心卖点。",
         "tags": [],
-        "line": 11,
-        "startOffset": 179,
-        "endOffset": 249,
+        "line": 12,
+        "startOffset": 200,
+        "endOffset": 270,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记实现顺畅而渐进的写作（「渐进写作」）.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 看过好几个视频，作者都提到卡片笔记的轻松无压，让笔记到写作这个过程变得非常渐进式。这也是[[Flomo]]的核心卖点。"
         ],
         "createdAt": 1752259580496,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记和卡片盒笔记法的异同点.md": [
@@ -2707,16 +1716,17 @@
         "id": "wznlmx37u",
         "text": "我的理解:: 常青笔记不仅是方法，也是理念，更是围绕这个理念的一整套如何做笔记的成体系的系统。最关键的是，这是andy基于现代计算机软件的特点并结合卡片盒笔记法，做出的极大改良，而我看很多人居然还直接全盘照搬卢曼的时间戳命名纸质卡片的方式来做电子笔记，我就很不能理解。",
         "tags": [],
-        "line": 11,
-        "startOffset": 172,
-        "endOffset": 310,
+        "line": 12,
+        "startOffset": 193,
+        "endOffset": 331,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记和卡片盒笔记法的异同点.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 常青笔记不仅是方法，也是理念，更是围绕这个理念的一整套如何做笔记的成体系的系统。最关键的是，这是andy基于现代计算机软件的特点并结合卡片盒笔记法，做出的极大改良，而我看很多人居然还直接全盘照搬卢曼的时间戳命名纸质卡片的方式来做电子笔记，我就很不能理解。"
         ],
         "createdAt": 1752259580487,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记之间应该建立大量链接.md": [
@@ -2724,16 +1734,17 @@
         "id": "skepbrftl",
         "text": "我的理解:: 强制自己使用link来组织笔记，让我这几个月有了不少的新颖感，感觉这个时候的自己做笔记，真的是在思考，以前就是做个备忘录。这种奇妙的感觉，很难用文字完整表达出来。还需要改进的一点是，andy擅长面向概念进行笔记，我现在的习惯还是面向单一的对象进行笔记居多，这种方式思考密度确实比较低，这点还需要向andy靠拢学习。",
         "tags": [],
-        "line": 11,
-        "startOffset": 171,
-        "endOffset": 339,
+        "line": 12,
+        "startOffset": 192,
+        "endOffset": 360,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记之间应该建立大量链接.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 强制自己使用link来组织笔记，让我这几个月有了不少的新颖感，感觉这个时候的自己做笔记，真的是在思考，以前就是做个备忘录。这种奇妙的感觉，很难用文字完整表达出来。还需要改进的一点是，andy擅长面向概念进行笔记，我现在的习惯还是面向单一的对象进行笔记居多，这种方式思考密度确实比较低，这点还需要向andy靠拢学习。"
         ],
         "createdAt": 1752259580485,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记可以提高谈话的信息带宽.md": [
@@ -2741,16 +1752,17 @@
         "id": "td3xlffvd",
         "text": "我的理解:: 可太对了，如果对方背景知识足够，一句话可能就能表达清楚，如果背景知识不够，则针对某些观点的跳转出的常青笔记，就可以做有效扩充。可以根据背景知识量速读或精读。而不是什么场合都是一句：你是小白，我推荐你看一下这本书。",
         "tags": [],
-        "line": 11,
-        "startOffset": 172,
-        "endOffset": 289,
+        "line": 12,
+        "startOffset": 193,
+        "endOffset": 310,
         "filePath": "Sources/Articles/常青笔记阅读笔记/常青笔记可以提高谈话的信息带宽.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 可太对了，如果对方背景知识足够，一句话可能就能表达清楚，如果背景知识不够，则针对某些观点的跳转出的常青笔记，就可以做有效扩充。可以根据背景知识量速读或精读。而不是什么场合都是一句：你是小白，我推荐你看一下这本书。"
         ],
         "createdAt": 1752259580487,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/常青笔记.md": [
@@ -2775,16 +1787,17 @@
         "id": "begsndz27",
         "text": "我的理解:: 这篇笔记我太认同了。网上一些所谓的生产力专家，全职做教学的，可能以前是专家，但当他脱离实际生产环境，全职搞教学后，他的产出会越来越不合实际，凭空捏造。这信息爆炸的时代，最幸运的是能遇到那些有实际成就的人，所产出的高价值文章或演讲，这种内容往往不多，因为他没有这么多时间高频输出内容。当一个人开始高频输出，反而我该警惕起来，这小子是不是已经不干当年让他成功的本质工作，开始全职搞培训了。",
         "tags": [],
-        "line": 11,
-        "startOffset": 178,
-        "endOffset": 381,
+        "line": 12,
+        "startOffset": 199,
+        "endOffset": 402,
         "filePath": "Sources/Articles/常青笔记阅读笔记/对笔记写作大谈特谈的人很少有严肃的使用场景.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 这篇笔记我太认同了。网上一些所谓的生产力专家，全职做教学的，可能以前是专家，但当他脱离实际生产环境，全职搞教学后，他的产出会越来越不合实际，凭空捏造。这信息爆炸的时代，最幸运的是能遇到那些有实际成就的人，所产出的高价值文章或演讲，这种内容往往不多，因为他没有这么多时间高频输出内容。当一个人开始高频输出，反而我该警惕起来，这小子是不是已经不干当年让他成功的本质工作，开始全职搞培训了。"
         ],
         "createdAt": 1752259580490,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/如何将阅读标注处理成常青笔记.md": [
@@ -2792,16 +1805,17 @@
         "id": "05dvlc2sa",
         "text": "我的理解:: #todo/now 结合[[渐进式总结]]，可成系统。",
         "tags": [],
-        "line": 12,
-        "startOffset": 183,
-        "endOffset": 221,
+        "line": 13,
+        "startOffset": 205,
+        "endOffset": 243,
         "filePath": "Sources/Articles/常青笔记阅读笔记/如何将阅读标注处理成常青笔记.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: #todo/now 结合[[渐进式总结]]，可成系统。"
         ],
         "createdAt": 1752259580495,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/如何在阅读时整理所得.md": [
@@ -2809,16 +1823,17 @@
         "id": "vz0dlrvfh",
         "text": "我的理解:: 哈哈，andy这块儿也还没有形成自己完美的工作流。[[» 文章笔记工作流]]",
         "tags": [],
-        "line": 11,
-        "startOffset": 167,
-        "endOffset": 216,
+        "line": 12,
+        "startOffset": 188,
+        "endOffset": 237,
         "filePath": "Sources/Articles/常青笔记阅读笔记/如何在阅读时整理所得.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 哈哈，andy这块儿也还没有形成自己完美的工作流。[[» 文章笔记工作流]]"
         ],
         "createdAt": 1752259580478,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/大多数人把笔记当作贮藏容器或思想草稿.md": [
@@ -2826,16 +1841,17 @@
         "id": "kste96r1k",
         "text": "我的理解:: 我以前的笔记就是如此，为了[[闭合开环]]，为了完成任务，为了当前。而不是[[增援未来]]。这不对。",
         "tags": [],
-        "line": 11,
-        "startOffset": 175,
-        "endOffset": 236,
+        "line": 12,
+        "startOffset": 196,
+        "endOffset": 257,
         "filePath": "Sources/Articles/常青笔记阅读笔记/大多数人把笔记当作贮藏容器或思想草稿.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 我以前的笔记就是如此，为了[[闭合开环]]，为了完成任务，为了当前。而不是[[增援未来]]。这不对。"
         ],
         "createdAt": 1752259580484,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/大多数人只写临时的笔记.md": [
@@ -2843,16 +1859,17 @@
         "id": "7qwdqbphu",
         "text": "我的理解:: 知识创作，要写常青笔记，不写临时笔记。平时场景，可能要写一些工作日志，充当工作台或暂时帮助记忆用的而已。",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 231,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 252,
         "filePath": "Sources/Articles/常青笔记阅读笔记/大多数人只写临时的笔记.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 知识创作，要写常青笔记，不写临时笔记。平时场景，可能要写一些工作日志，充当工作台或暂时帮助记忆用的而已。"
         ],
         "createdAt": 1752259580476,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/多数人的阅读成效不大.md": [
@@ -2860,16 +1877,17 @@
         "id": "wcr6eobzw",
         "text": "我的理解:: 每每回想自己读书时期草草看过几百本书，却鲜有收获，就为自己那段耗费的时光痛心疾首，有那浪费的时间，多谈2个恋爱不香么。",
         "tags": [],
-        "line": 11,
-        "startOffset": 167,
-        "endOffset": 237,
+        "line": 12,
+        "startOffset": 188,
+        "endOffset": 258,
         "filePath": "Sources/Articles/常青笔记阅读笔记/多数人的阅读成效不大.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 每每回想自己读书时期草草看过几百本书，却鲜有收获，就为自己那段耗费的时光痛心疾首，有那浪费的时间，多谈2个恋爱不香么。"
         ],
         "createdAt": 1752259580474,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/在写作时创建推测性大纲.md": [
@@ -2877,16 +1895,17 @@
         "id": "7i0gnwbyj",
         "text": "我的理解:: 大纲在此处类似于MOC。让[[∑ MOCs]]和[[TOC]]跟随自己笔记的成长而成长，不必在乎完备性，常青笔记本身就是不断发展的。而这些渐进式成长的MOC，就是将来某一时刻，成为某个主题写作时候的最好大纲参考。",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 285,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 306,
         "filePath": "Sources/Articles/常青笔记阅读笔记/在写作时创建推测性大纲.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 大纲在此处类似于MOC。让[[∑ MOCs]]和[[TOC]]跟随自己笔记的成长而成长，不必在乎完备性，常青笔记本身就是不断发展的。而这些渐进式成长的MOC，就是将来某一时刻，成为某个主题写作时候的最好大纲参考。"
         ],
         "createdAt": 1752259580474,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/可执行的写作策略.md": [
@@ -2894,16 +1913,17 @@
         "id": "i4ukjxghr",
         "text": "我的理解:: [[自下而上]]进行创作。再也不想回到当初没有一类，几乎从0开始写硕士毕业论文的时候了。以后要写长文，至少要保证一大半内容都能从自己的知识库里，找到类似的卡片笔记。无痛且快乐的写作，就是将平时的积累，串起来，就像和好朋友聊天一样轻松且自然。",
         "tags": [],
-        "line": 11,
-        "startOffset": 165,
-        "endOffset": 296,
+        "line": 12,
+        "startOffset": 186,
+        "endOffset": 317,
         "filePath": "Sources/Articles/常青笔记阅读笔记/可执行的写作策略.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: [[自下而上]]进行创作。再也不想回到当初没有一类，几乎从0开始写硕士毕业论文的时候了。以后要写长文，至少要保证一大半内容都能从自己的知识库里，找到类似的卡片笔记。无痛且快乐的写作，就是将平时的积累，串起来，就像和好朋友聊天一样轻松且自然。"
         ],
         "createdAt": 1752259580470,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/反向链接可以用来隐式定义知识管理系统中的节点.md": [
@@ -2911,16 +1931,17 @@
         "id": "gyhhq3gpy",
         "text": "我的理解:: 卧槽，这不就是我在[[obsidian 是可以用一辈子不换的笔记软件吗]]提到的，用双链不断挖坑，并随着时间推移，有用的坑会自然而然被填上的神奇效果嘛。以及另一个效果就是把双向链接当标签使用：点开这个链接的时候，没有内容，但是可以从反向链接面板中看到引用了这个链接的所有页面。",
         "tags": [],
-        "line": 11,
-        "startOffset": 179,
-        "endOffset": 328,
+        "line": 12,
+        "startOffset": 200,
+        "endOffset": 349,
         "filePath": "Sources/Articles/常青笔记阅读笔记/反向链接可以用来隐式定义知识管理系统中的节点.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 卧槽，这不就是我在[[obsidian 是可以用一辈子不换的笔记软件吗]]提到的，用双链不断挖坑，并随着时间推移，有用的坑会自然而然被填上的神奇效果嘛。以及另一个效果就是把双向链接当标签使用：点开这个链接的时候，没有内容，但是可以从反向链接面板中看到引用了这个链接的所有页面。"
         ],
         "createdAt": 1752259580483,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/助记媒介可以扩展到个人笔记上.md": [
@@ -2928,16 +1949,17 @@
         "id": "u7yjjct9j",
         "text": "我的理解:: 就像[[Spaced Repetition]]插件和obsidian有机融合在一起。",
         "tags": [],
-        "line": 11,
-        "startOffset": 171,
-        "endOffset": 224,
+        "line": 12,
+        "startOffset": 192,
+        "endOffset": 245,
         "filePath": "Sources/Articles/常青笔记阅读笔记/助记媒介可以扩展到个人笔记上.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 就像[[Spaced Repetition]]插件和obsidian有机融合在一起。"
         ],
         "createdAt": 1752259580472,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/卓越洞见从之前的所思所想中涌现.md": [
@@ -2945,16 +1967,17 @@
         "id": "elkpt0pn4",
         "text": "我的想法:: 就像牛顿的万有引力定律，绝不是靠1个苹果掉头上而得来的，之前的所思所想和知识积累必不可少。引申联想：[[个人努力与社会进程]]。",
         "tags": [],
-        "line": 11,
-        "startOffset": 172,
-        "endOffset": 247,
+        "line": 12,
+        "startOffset": 193,
+        "endOffset": 268,
         "filePath": "Sources/Articles/常青笔记阅读笔记/卓越洞见从之前的所思所想中涌现.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的想法:: 就像牛顿的万有引力定律，绝不是靠1个苹果掉头上而得来的，之前的所思所想和知识积累必不可少。引申联想：[[个人努力与社会进程]]。"
         ],
         "createdAt": 1752259580474,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/创建超链接到我的参考档案.md": [
@@ -2962,16 +1985,17 @@
         "id": "h3xk2ylwk",
         "text": "我的理解:: 外部链接的不稳定性，导致资源失效。我也一直在寻求更好的方式，目前看，文件放到devonthink里面，是一个好选择，但无法实现很方便的分享给别人某篇笔记+若干个文件这种场景。[[Hook]]将是解决之道，可惜太贵了。",
         "tags": [],
-        "line": 11,
-        "startOffset": 169,
-        "endOffset": 288,
+        "line": 12,
+        "startOffset": 190,
+        "endOffset": 309,
         "filePath": "Sources/Articles/常青笔记阅读笔记/创建超链接到我的参考档案.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 外部链接的不稳定性，导致资源失效。我也一直在寻求更好的方式，目前看，文件放到devonthink里面，是一个好选择，但无法实现很方便的分享给别人某篇笔记+若干个文件这种场景。[[Hook]]将是解决之道，可惜太贵了。"
         ],
         "createdAt": 1752259580469,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/创制环境极大程度受作者的动机塑造.md": [
@@ -2979,16 +2003,17 @@
         "id": "4wv0rrcrm",
         "text": "我的理解:: 唯有热爱，创造奇迹。",
         "tags": [],
-        "line": 11,
-        "startOffset": 173,
-        "endOffset": 194,
+        "line": 12,
+        "startOffset": 194,
+        "endOffset": 215,
         "filePath": "Sources/Articles/常青笔记阅读笔记/创制环境极大程度受作者的动机塑造.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 唯有热爱，创造奇迹。"
         ],
         "createdAt": 1752259580473,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/写你所读，以求内化.md": [
@@ -2996,16 +2021,17 @@
         "id": "l7g9x4kla",
         "text": "我的理解:: 正如[[卢曼]]所言：[[不写作，就无法思考]] ",
         "tags": [],
-        "line": 11,
-        "startOffset": 166,
-        "endOffset": 202,
+        "line": 12,
+        "startOffset": 187,
+        "endOffset": 223,
         "filePath": "Sources/Articles/常青笔记阅读笔记/写你所读，以求内化.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 正如[[卢曼]]所言：[[不写作，就无法思考]] "
         ],
         "createdAt": 1752259580465,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/优先选择明确的关联，而不是推断的关联.md": [
@@ -3013,16 +2039,17 @@
         "id": "a4tcnoofw",
         "text": " 这句话我没懂，或者说不认同。",
         "tags": [],
-        "line": 23,
-        "startOffset": 830,
-        "endOffset": 849,
+        "line": 24,
+        "startOffset": 839,
+        "endOffset": 858,
         "filePath": "Sources/Articles/常青笔记阅读笔记/优先选择明确的关联，而不是推断的关联.md",
         "footnoteCount": 1,
         "footnoteContents": [
           " 这句话我没懂，或者说不认同。"
         ],
         "createdAt": 1752259581125,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/优先建立信息间的联系来分类，而非使用层级式分类法.md": [
@@ -3030,16 +2057,17 @@
         "id": "i4i9gmqp9",
         "text": "我的理解:: 采用[[自下而上]]的创作方式，能让结构自然、有机地从创作中涌现。如果说适用人群的话，我觉得应该是已经具备一定知识储备的人这么做会比较好。如果肚子里没货，用这种方式会觉得很难受。而[[自上而下]]是我们从小到大，尚处于积累知识阶段，老师教给我们的方法，所以操作起来更符合我们的[[路径依赖]]和直觉，但这并不意味着这种方法依旧有优势。总的来说，根据自身水平和应用场景，二者结合，是为其道。",
         "tags": [],
-        "line": 11,
-        "startOffset": 181,
-        "endOffset": 386,
+        "line": 12,
+        "startOffset": 202,
+        "endOffset": 407,
         "filePath": "Sources/Articles/常青笔记阅读笔记/优先建立信息间的联系来分类，而非使用层级式分类法.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 采用[[自下而上]]的创作方式，能让结构自然、有机地从创作中涌现。如果说适用人群的话，我觉得应该是已经具备一定知识储备的人这么做会比较好。如果肚子里没货，用这种方式会觉得很难受。而[[自上而下]]是我们从小到大，尚处于积累知识阶段，老师教给我们的方法，所以操作起来更符合我们的[[路径依赖]]和直觉，但这并不意味着这种方法依旧有优势。总的来说，根据自身水平和应用场景，二者结合，是为其道。"
         ],
         "createdAt": 1752259580476,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/优先使用经过标注的关联.md": [
@@ -3047,16 +2075,17 @@
         "id": "18c0r5jsi",
         "text": "我的理解:: 让人想到[[🧑ryooo]]提出的[[KG笔记法]]，能让笔记更具语义化，回顾浏览这种笔记组成的知识图谱，才能更有效。",
         "tags": [],
-        "line": 11,
-        "startOffset": 168,
-        "endOffset": 239,
+        "line": 12,
+        "startOffset": 189,
+        "endOffset": 260,
         "filePath": "Sources/Articles/常青笔记阅读笔记/优先使用经过标注的关联.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 让人想到[[🧑ryooo]]提出的[[KG笔记法]]，能让笔记更具语义化，回顾浏览这种笔记组成的知识图谱，才能更有效。"
         ],
         "createdAt": 1752259580462,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/优先使用细粒度的关联.md": [
@@ -3064,9 +2093,9 @@
         "id": "xbvl2ze0k",
         "text": "我的理解:: 这也是相比于[[Obsidian]]，我一直对[[Logseq]]的大纲式块引用笔记念念不忘的原因，更细粒度的引用，应该能发挥出更强大的力量。现在还没经过大量实践，还不清楚太多的细粒度的块引用会带来什么麻烦和缺点。#待办/某天 ",
         "tags": [],
-        "line": 12,
-        "startOffset": 178,
-        "endOffset": 303,
+        "line": 13,
+        "startOffset": 200,
+        "endOffset": 325,
         "filePath": "Sources/Articles/常青笔记阅读笔记/优先使用细粒度的关联.md",
         "footnoteCount": 1,
         "footnoteContents": [
@@ -3082,16 +2111,17 @@
         "id": "k8j9cd9ev",
         "text": "我的理解:: 那些不需要做笔记的阅读内容，不应该成为真正的稍后读。我们需要的是一个有质量的稍后读inbox，其中的每天文章都要写点笔记。这样的阅读有闭环，才是有效的阅读。",
         "tags": [],
-        "line": 11,
-        "startOffset": 177,
-        "endOffset": 266,
+        "line": 12,
+        "startOffset": 198,
+        "endOffset": 287,
         "filePath": "Sources/Articles/常青笔记阅读笔记/为有潜在价值的参考引用建立一个阅读收件箱.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 那些不需要做笔记的阅读内容，不应该成为真正的稍后读。我们需要的是一个有质量的稍后读inbox，其中的每天文章都要写点笔记。这样的阅读有闭环，才是有效的阅读。"
         ],
         "createdAt": 1752259580469,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/为临时性的和不完整的笔记设置写作收件箱.md": [
@@ -3099,16 +2129,17 @@
         "id": "206zckn5t",
         "text": "我的理解:: 用inbox进行[[一元化收集]]的理念，在知识管理和任务管理等领域都适用。现在这块儿我自己将临时的东西放到[[daily note]]中，也能流畅运行起来，但可能是因为inbox里面东西太少的缘故，仍需努力。",
         "tags": [],
-        "line": 11,
-        "startOffset": 176,
-        "endOffset": 292,
+        "line": 12,
+        "startOffset": 197,
+        "endOffset": 313,
         "filePath": "Sources/Articles/常青笔记阅读笔记/为临时性的和不完整的笔记设置写作收件箱.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 用inbox进行[[一元化收集]]的理念，在知识管理和任务管理等领域都适用。现在这块儿我自己将临时的东西放到[[daily note]]中，也能流畅运行起来，但可能是因为inbox里面东西太少的缘故，仍需努力。"
         ],
         "createdAt": 1752259580468,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/不应该设置多处收件箱.md": [
@@ -3116,16 +2147,17 @@
         "id": "nfjenlknr",
         "text": "我的理解:: 所以需要[[一元化收集]]",
         "tags": [],
-        "line": 11,
-        "startOffset": 156,
-        "endOffset": 180,
+        "line": 12,
+        "startOffset": 188,
+        "endOffset": 212,
         "filePath": "Sources/Articles/常青笔记阅读笔记/不应该设置多处收件箱.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 所以需要[[一元化收集]]"
         ],
         "createdAt": 1752687429615,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/常青笔记阅读笔记/上下文反向链接.md": [
@@ -3133,16 +2165,17 @@
         "id": "q67egoqew",
         "text": "我的理解:: 正如[[反向链接#使用技巧]]所言，反向链接提供的上下文，有时候也是一种更细粒度的信息补充。",
         "tags": [],
-        "line": 13,
-        "startOffset": 188,
-        "endOffset": 245,
+        "line": 14,
+        "startOffset": 207,
+        "endOffset": 264,
         "filePath": "Sources/Articles/常青笔记阅读笔记/上下文反向链接.md",
         "footnoteCount": 1,
         "footnoteContents": [
           "我的理解:: 正如[[反向链接#使用技巧]]所言，反向链接提供的上下文，有时候也是一种更细粒度的信息补充。"
         ],
         "createdAt": 1752259580478,
-        "isNativeComment": true
+        "isNativeComment": true,
+        "type": "comment"
       }
     ],
     "Sources/Articles/flomo101阅读笔记/笔记的误区.md": [
@@ -3150,14 +2183,15 @@
         "id": "w0o2vyztv",
         "text": "写作可以很好地提高一个人的思维能力，因为它迫使你从更深的层次去阅读。仅仅阅读的多并不意味着你有更多或更好的想法。**就像学游泳一样，你必须通过实践来学习，而不仅仅是通过在纸面上的学习**。因此，写作和学习的挑战不在于学习，而在于理解，因为你已经学会了你所理解的东西。当你真正理解某件事情的时候，它被放在在一个由相关的想法和意义组成的架构中，这使得它更容易被记住。",
         "tags": [],
-        "line": 45,
-        "startOffset": 1841,
-        "endOffset": 2026,
+        "line": 46,
+        "startOffset": 1828,
+        "endOffset": 2013,
         "filePath": "Sources/Articles/flomo101阅读笔记/笔记的误区.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1752259581126,
-        "isNativeComment": false
+        "isNativeComment": false,
+        "type": "highlight"
       }
     ],
     "Sources/Articles/flomo101阅读笔记/为何收藏无用.md": [
@@ -3165,40 +2199,43 @@
         "id": "86e577i34",
         "text": "记让我有极大触动的内容",
         "tags": [],
-        "line": 20,
-        "startOffset": 470,
-        "endOffset": 485,
+        "line": 21,
+        "startOffset": 482,
+        "endOffset": 497,
         "filePath": "Sources/Articles/flomo101阅读笔记/为何收藏无用.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1752259580748,
-        "isNativeComment": false
+        "isNativeComment": false,
+        "type": "highlight"
       },
       {
         "id": "zda3m7mb0",
         "text": "但他的实验发现了与常识相反的结论：“存储与提取负相关”，也就是说，存入记忆越容易，提取出来越困难；反之，如果你有些吃力地存入，知识提取会更方便。",
         "tags": [],
-        "line": 65,
-        "startOffset": 2296,
-        "endOffset": 2372,
+        "line": 66,
+        "startOffset": 2263,
+        "endOffset": 2339,
         "filePath": "Sources/Articles/flomo101阅读笔记/为何收藏无用.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1752259580574,
-        "isNativeComment": false
+        "isNativeComment": false,
+        "type": "highlight"
       },
       {
         "id": "7jaa4x3ds",
         "text": "**引发情绪波动的信息更容易被记忆**，所以记录答案不如记录问题，因为问题就是冲突，冲突能让问题自动的前进。",
         "tags": [],
-        "line": 75,
-        "startOffset": 2706,
-        "endOffset": 2764,
+        "line": 76,
+        "startOffset": 2663,
+        "endOffset": 2721,
         "filePath": "Sources/Articles/flomo101阅读笔记/为何收藏无用.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1752259580984,
-        "isNativeComment": false
+        "isNativeComment": false,
+        "type": "highlight"
       }
     ],
     "Sources/Articles/flomo101阅读笔记/∑ flomo101阅读笔记.md": [
@@ -3282,40 +2319,6 @@
         "isNativeComment": true
       }
     ],
-    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md": [
-      {
-        "id": "53qzdkypv",
-        "text": "和[[Card卡片_标准模板]]相比，第一要素是原文链接和摘录，第二要素是我的记录。",
-        "tags": [],
-        "line": 7,
-        "startOffset": 92,
-        "endOffset": 138,
-        "filePath": "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "和[[Card卡片_标准模板]]相比，第一要素是原文链接和摘录，第二要素是我的记录。"
-        ],
-        "createdAt": 1752259580344,
-        "isNativeComment": true
-      }
-    ],
-    "Extras/Templates/Cards模板/Card卡片_标准模板.md": [
-      {
-        "id": "p2hhwcaci",
-        "text": "和[[Sources&Spaces卡片_标准模板]]相比，第一要素是我的想法和思考，第二要素是参考文献来源",
-        "tags": [],
-        "line": 7,
-        "startOffset": 92,
-        "endOffset": 149,
-        "filePath": "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "和[[Sources&Spaces卡片_标准模板]]相比，第一要素是我的想法和思考，第二要素是参考文献来源"
-        ],
-        "createdAt": 1752259580344,
-        "isNativeComment": true
-      }
-    ],
     "Cards/小二后台体验日志.md": [
       {
         "id": "1629t3t6y",
@@ -3353,14 +2356,15 @@
         "id": "qdwb3migq",
         "text": "记笔记的目的，是为了让自己，更好地思考",
         "tags": [],
-        "line": 11,
-        "startOffset": 273,
-        "endOffset": 296,
+        "line": 12,
+        "startOffset": 294,
+        "endOffset": 317,
         "filePath": "Cards/为什么要做笔记.md",
         "footnoteCount": 0,
         "footnoteContents": [],
         "createdAt": 1752258422323,
-        "isNativeComment": false
+        "isNativeComment": false,
+        "type": "highlight"
       }
     ],
     "Cards/PPV.md": [
@@ -4021,36 +3025,1100 @@
         "isNativeComment": false
       }
     ],
-    "📥 Inbox/计算机体系结构架构图.md": [
+    "Sources/WuCaiSync/2024/06/wucai-一篇文章让你透彻认识 Mac 应用切换和窗口切换的逻辑-H868579.md": [
       {
-        "id": "pggow3dww",
-        "text": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠",
+        "id": "ffj5wqyje",
+        "text": "█  ",
         "tags": [],
-        "line": 4,
-        "startOffset": 57,
-        "endOffset": 133,
-        "filePath": "📥 Inbox/计算机体系结构架构图.md",
+        "line": 22,
+        "startOffset": 333,
+        "endOffset": 365,
+        "filePath": "Sources/WuCaiSync/2024/06/wucai-一篇文章让你透彻认识 Mac 应用切换和窗口切换的逻辑-H868579.md",
         "footnoteCount": 0,
         "footnoteContents": [],
-        "createdAt": 1753805945284,
+        "createdAt": 1748615142141,
         "isNativeComment": false,
-        "type": "highlight"
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/05/wucai-所谓思考, 即做三件事 1. 抽象成概念(分层级) 2. - 即刻App-H8CFCM3.md": [
+      {
+        "id": "0sg9oin0k",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 420,
+        "endOffset": 452,
+        "filePath": "Sources/WuCaiSync/2024/05/wucai-所谓思考, 即做三件事 1. 抽象成概念(分层级) 2. - 即刻App-H8CFCM3.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142196,
+        "isNativeComment": false,
+        "color": "#a6ffe9",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/05/wucai-一个反常识的观点：重要紧急四象限最关键的是不重要不紧急 - 即刻App-H8CAHEK.md": [
+      {
+        "id": "t3g8malzp",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 363,
+        "endOffset": 395,
+        "filePath": "Sources/WuCaiSync/2024/05/wucai-一个反常识的观点：重要紧急四象限最关键的是不重要不紧急 - 即刻App-H8CAHEK.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142167,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/05/wucai-Android studio 连接各种模拟器_安卓如何连接多个模拟器-CSDN博客-H8CKKHF.md": [
+      {
+        "id": "tew315duz",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 373,
+        "endOffset": 405,
+        "filePath": "Sources/WuCaiSync/2024/05/wucai-Android studio 连接各种模拟器_安卓如何连接多个模拟器-CSDN博客-H8CKKHF.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142209,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/04/wucai-计算属性和侦听器 — Vue.js-H85C92B.md": [
+      {
+        "id": "0o7clmy6v",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 314,
+        "endOffset": 346,
+        "filePath": "Sources/WuCaiSync/2024/04/wucai-计算属性和侦听器 — Vue.js-H85C92B.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142061,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/04/wucai-接了个私活分享下我是如何从 0 到 1 交付项目的 - V2EX-H8FBB8M.md": [
+      {
+        "id": "8bhcjpvmt",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 326,
+        "endOffset": 358,
+        "filePath": "Sources/WuCaiSync/2024/04/wucai-接了个私活分享下我是如何从 0 到 1 交付项目的 - V2EX-H8FBB8M.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142076,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/04/wucai-【收费服务】大侠阿木远程刷机救砖ROOT9008MSMdownloadFlashToolMagisk面具KernelSU - 一加全能盒子  工具箱-H8FD5AE.md": [
+      {
+        "id": "11fer4y87",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 455,
+        "endOffset": 487,
+        "filePath": "Sources/WuCaiSync/2024/04/wucai-【收费服务】大侠阿木远程刷机救砖ROOT9008MSMdownloadFlashToolMagisk面具KernelSU - 一加全能盒子  工具箱-H8FD5AE.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142119,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力判断在该领域“什么样的东西-H8D35M7.md": [
+      {
+        "id": "q69q1q6dp",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 530,
+        "endOffset": 562,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力判断在该领域“什么样的东西-H8D35M7.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142238,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力.md": [
+      {
+        "id": "wt120cnzn",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 530,
+        "endOffset": 562,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-陈财猫 写Prompt之所以需要know how有两个原因 1. Prompt是对具体业务的抽象与归纳 将业务抽象出来其实比单纯熟悉业务难度更大要求更高因为它需要更高层次上的把握和表达 2.你必须有能力.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142234,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-祖传“屎山代码”终于有解了GitHub Copilot Chat下个月全面上线聊聊天就能看懂代码捉Bug-36氪-H89FB75.md": [
+      {
+        "id": "3emt4647w",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 381,
+        "endOffset": 413,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-祖传“屎山代码”终于有解了GitHub Copilot Chat下个月全面上线聊聊天就能看懂代码捉Bug-36氪-H89FB75.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142212,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-深度  Notion创始人最新深度分享：AI如何重塑生产力-H8DHMDC.md": [
+      {
+        "id": "aq81i1ynk",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 351,
+        "endOffset": 383,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-深度  Notion创始人最新深度分享：AI如何重塑生产力-H8DHMDC.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142123,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
       },
       {
-        "id": "ngl5kftnz",
-        "text": "\r\n\r\n## Element Links\r\n[main-title]: [[∑ 计算机体系结构 MOC]]\r\n[hardware-layer]: [[计算机硬件基础]]\r\n[cpu-component]: [[CPU 架构与设计]]\r\n[memory-component]: [[内存层次结构]]\r\n[storage-component]: [[存储系统]]\r\n[io-component]: [[输入输出系统]]\r\n[os-layer]: [[操作系统原理]]\r\n[compiler-layer]: [[编译原理]]\r\n[app-layer]: [[应用程序设计]]\r\n[isa-interface]: [[指令集架构]]\r\n[system-call]: [[系统调用接口]]\r\n[api-interface]: [[应用程序接口]]\r\n\r\n## Embedded Files\r\n\r\n",
+        "id": "rn2oubk3q",
+        "text": "█  ",
         "tags": [],
-        "line": 8,
-        "startOffset": 324,
-        "endOffset": 721,
-        "filePath": "📥 Inbox/计算机体系结构架构图.md",
-        "footnoteCount": 1,
-        "footnoteContents": [
-          "\r\n\r\n## Element Links\r\n[main-title]: [[∑ 计算机体系结构 MOC]]\r\n[hardware-layer]: [[计算机硬件基础]]\r\n[cpu-component]: [[CPU 架构与设计]]\r\n[memory-component]: [[内存层次结构]]\r\n[storage-component]: [[存储系统]]\r\n[io-component]: [[输入输出系统]]\r\n[os-layer]: [[操作系统原理]]\r\n[compiler-layer]: [[编译原理]]\r\n[app-layer]: [[应用程序设计]]\r\n[isa-interface]: [[指令集架构]]\r\n[system-call]: [[系统调用接口]]\r\n[api-interface]: [[应用程序接口]]\r\n\r\n## Embedded Files\r\n\r\n"
-        ],
-        "createdAt": 1753805945551,
-        "isNativeComment": true,
-        "type": "comment"
+        "line": 26,
+        "startOffset": 1052,
+        "endOffset": 1084,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-深度  Notion创始人最新深度分享：AI如何重塑生产力-H8DHMDC.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615141824,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-朱啸虎讲了一个中国现实主义AIGC故事-H8DM79F.md": [
+      {
+        "id": "e5ts0hl7u",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 321,
+        "endOffset": 353,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-朱啸虎讲了一个中国现实主义AIGC故事-H8DM79F.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142148,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-巨量千川全域推广产品手册 - 巨量千川帮助和规则中心-H8DAHA5.md": [
+      {
+        "id": "ufkab6524",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 524,
+        "endOffset": 556,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-巨量千川全域推广产品手册 - 巨量千川帮助和规则中心-H8DAHA5.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142278,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-功能概述  Coze --- Function overview  Coze-H8DHMFB.md": [
+      {
+        "id": "dl07kdb0v",
+        "text": "█  ",
+        "tags": [],
+        "line": 25,
+        "startOffset": 360,
+        "endOffset": 392,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-功能概述  Coze --- Function overview  Coze-H8DHMFB.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025483,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "al62yet2q",
+        "text": "█  ",
+        "tags": [],
+        "line": 28,
+        "startOffset": 543,
+        "endOffset": 575,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-功能概述  Coze --- Function overview  Coze-H8DHMFB.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025666,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-如何打造一个学习型组织-H8DA58E.md": [
+      {
+        "id": "2gw1s1kh1",
+        "text": "█ ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 360,
+        "endOffset": 391,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-如何打造一个学习型组织-H8DA58E.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025491,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-多代理模式  Coze --- Multi-agent mode  Coze-H8DHM9A.md": [
+      {
+        "id": "zun1oz1n7",
+        "text": "█  ",
+        "tags": [],
+        "line": 25,
+        "startOffset": 353,
+        "endOffset": 385,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-多代理模式  Coze --- Multi-agent mode  Coze-H8DHM9A.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025437,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-亚马逊创始人贝索斯： 为什么我开会不用PPT_杭州网-H89CC82.md": [
+      {
+        "id": "h10ssf694",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 363,
+        "endOffset": 395,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-亚马逊创始人贝索斯： 为什么我开会不用PPT_杭州网-H89CC82.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142161,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-coze的尴尬之处在于： 1.对于小白来说有门槛（即使coz - 即刻App-H89C59F.md": [
+      {
+        "id": "i2d99mw6g",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 424,
+        "endOffset": 456,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-coze的尴尬之处在于： 1.对于小白来说有门槛（即使coz - 即刻App-H89C59F.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142267,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/03/wucai-Models - OpenAI API-H8DF6AD.md": [
+      {
+        "id": "hub1s88y4",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 342,
+        "endOffset": 374,
+        "filePath": "Sources/WuCaiSync/2024/03/wucai-Models - OpenAI API-H8DF6AD.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142225,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是.md": [
+      {
+        "id": "29tgs6pf1",
+        "text": "█ ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 584,
+        "endOffset": 615,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142346,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-现阶段 AI 的价值和盈利方向  宝玉的分享-H8D5MED.md": [
+      {
+        "id": "ajmur1p0u",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 338,
+        "endOffset": 370,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-现阶段 AI 的价值和盈利方向  宝玉的分享-H8D5MED.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142126,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是 X」「如何配置 X」之类的内容 当对-H8D5M5E.md": [
+      {
+        "id": "rs9qnc76c",
+        "text": "█ ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 584,
+        "endOffset": 615,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-李继刚 笔记的技巧： 原子问题笔记 ━━━━━━━━━━━━━━ Emacs 圈有一位大佬叫李杀他在博客中把 Emacs 中的很多常见概念和问题都单独形成一篇文章 文章很短基本就是「什么是 X」「如何配置 X」之类的内容 当对-H8D5M5E.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142350,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-怎么浏览器打开图片的url默认是下载 - 知乎-H8DCM9A.md": [
+      {
+        "id": "s5ezsmsvd",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 319,
+        "endOffset": 351,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-怎么浏览器打开图片的url默认是下载 - 知乎-H8DCM9A.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142130,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-关于本站  Tangly博客-H8DCHH9.md": [
+      {
+        "id": "07mtd8zub",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 306,
+        "endOffset": 338,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-关于本站  Tangly博客-H8DCHH9.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142035,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-周鸿祎×傅盛：共话AI大模型  Redian News-H877222.md": [
+      {
+        "id": "0rltigfvr",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 321,
+        "endOffset": 353,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-周鸿祎×傅盛：共话AI大模型  Redian News-H877222.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142144,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-傅盛：用大模型做小工具_用户_变化_技术-H87722K.md": [
+      {
+        "id": "0jsxybu5p",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 313,
+        "endOffset": 345,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-傅盛：用大模型做小工具_用户_变化_技术-H87722K.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142035,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md": [
+      {
+        "id": "3s5sgactx",
+        "text": "█  ",
+        "tags": [],
+        "line": 25,
+        "startOffset": 485,
+        "endOffset": 517,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025739,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "whr526zki",
+        "text": "█  ",
+        "tags": [],
+        "line": 28,
+        "startOffset": 1416,
+        "endOffset": 1448,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025670,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "chtb8gx8v",
+        "text": "█  ",
+        "tags": [],
+        "line": 30,
+        "startOffset": 1503,
+        "endOffset": 1535,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025757,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "cglqx1si2",
+        "text": "█  ",
+        "tags": [],
+        "line": 33,
+        "startOffset": 1618,
+        "endOffset": 1650,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-供应链优化的大型语言模型 --- [2307.03875] Large Language Models for Supply Chain Optimization-H873KK2.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1747345025872,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-ollamaollama Get up and running with Llama 2, Mistral, Gemma, and other large language models.-H8D6E5H.md": [
+      {
+        "id": "fr3u8rqqa",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 461,
+        "endOffset": 493,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-ollamaollama Get up and running with Llama 2, Mistral, Gemma, and other large language models.-H8D6E5H.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142351,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-Sora-H87A8AK.md": [
+      {
+        "id": "eub5v7pk5",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 274,
+        "endOffset": 306,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-Sora-H87A8AK.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142179,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-OpenAI 如何优化 LLM 的效果  Breezedeus.com-H87BB6M.md": [
+      {
+        "id": "h19mi7ktx",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 374,
+        "endOffset": 406,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-OpenAI 如何优化 LLM 的效果  Breezedeus.com-H87BB6M.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142268,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-10个具有代表性的AI-Agents将如何改变互联网重塑Web3-H873859.md": [
+      {
+        "id": "nxig8qzvy",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 360,
+        "endOffset": 392,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-10个具有代表性的AI-Agents将如何改变互联网重塑Web3-H873859.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1754161050542,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/02/wucai-2023年最佳的Python库  Tryolabs --- Top Python libraries of 2023  Tryolabs-H87MC22.md": [
+      {
+        "id": "djttt9l8q",
+        "text": "█  ",
+        "tags": [],
+        "line": 25,
+        "startOffset": 462,
+        "endOffset": 494,
+        "filePath": "Sources/WuCaiSync/2024/02/wucai-2023年最佳的Python库  Tryolabs --- Top Python libraries of 2023  Tryolabs-H87MC22.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142146,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-（3）索引 - ArcBrowser --- (3) index - ArcBrowser-H88K9BA.md": [
+      {
+        "id": "cyp23m2rt",
+        "text": "█  ",
+        "tags": [],
+        "line": 25,
+        "startOffset": 397,
+        "endOffset": 429,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-（3）索引 - ArcBrowser --- (3) index - ArcBrowser-H88K9BA.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142055,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-wsl 检测到 localhost 代理配置但未镜像到 WSLNAT 模式下的 WSL 不支持 localhost 代理 · Issue 10753 · microsoftWSL-H888HKB.md": [
+      {
+        "id": "byp88zwnw",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 474,
+        "endOffset": 506,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-wsl 检测到 localhost 代理配置但未镜像到 WSLNAT 模式下的 WSL 不支持 localhost 代理 · Issue 10753 · microsoftWSL-H888HKB.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142395,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-Vision - OpenAI API-H87DH3E.md": [
+      {
+        "id": "eysjn9wfy",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 332,
+        "endOffset": 364,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-Vision - OpenAI API-H87DH3E.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142246,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md": [
+      {
+        "id": "cdfj6j6ri",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 429,
+        "endOffset": 461,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142337,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "w2ksncy2t",
+        "text": "█  ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 564,
+        "endOffset": 596,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142472,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "c6cuqkqt8",
+        "text": "█  ",
+        "tags": [],
+        "line": 26,
+        "startOffset": 652,
+        "endOffset": 684,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-The Document is All You Need一站式 LLM底层技术原理入门指南 - Feishu Docs-H879EAC.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142560,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-M1标配8G内存,SSD耐久度提升的秘密 硬件内存压缩 存储协处理器写入专用模拟SLC - 哔哩哔哩-H879722.md": [
+      {
+        "id": "hjn28xmwn",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 390,
+        "endOffset": 422,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-M1标配8G内存,SSD耐久度提升的秘密 硬件内存压缩 存储协处理器写入专用模拟SLC - 哔哩哔哩-H879722.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142270,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-How to stop the stream and does it stop the openai charging · Issue 4743 · langchain-ailangchain-H88B239.md": [
+      {
+        "id": "nl66ywtt0",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 494,
+        "endOffset": 526,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-How to stop the stream and does it stop the openai charging · Issue 4743 · langchain-ailangchain-H88B239.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142356,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-24年素人铺量别碰-H88MDDK.md": [
+      {
+        "id": "y0bpv4o5u",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 644,
+        "endOffset": 676,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-24年素人铺量别碰-H88MDDK.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142336,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2024/01/wucai-2024 年了, 有多少公司和系统由微服务云原生转为了单体架构 - V2EX-H88MFBB.md": [
+      {
+        "id": "5dwlbomra",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 349,
+        "endOffset": 381,
+        "filePath": "Sources/WuCaiSync/2024/01/wucai-2024 年了, 有多少公司和系统由微服务云原生转为了单体架构 - V2EX-H88MFBB.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142036,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-科研插件学术工具网页高亮划线标注批注神器支持谷歌chrome和edge数据云端同步 - 五彩插件_哔哩哔哩_bilibili-H8MADBA.md": [
+      {
+        "id": "j80bsxm51",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 461,
+        "endOffset": 493,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-科研插件学术工具网页高亮划线标注批注神器支持谷歌chrome和edge数据云端同步 - 五彩插件_哔哩哔哩_bilibili-H8MADBA.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142219,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "y5g26s22o",
+        "text": "█  ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 520,
+        "endOffset": 552,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-科研插件学术工具网页高亮划线标注批注神器支持谷歌chrome和edge数据云端同步 - 五彩插件_哔哩哔哩_bilibili-H8MADBA.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142278,
+        "isNativeComment": false,
+        "color": "#ffc7ba",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-怎样知行合一 我的两个心得： 从认知上对你说的所有话 - 即刻App-H8MB7EB.md": [
+      {
+        "id": "0ttphuvb7",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 420,
+        "endOffset": 452,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-怎样知行合一 我的两个心得： 从认知上对你说的所有话 - 即刻App-H8MB7EB.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142235,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md": [
+      {
+        "id": "7z8dm9dw5",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 302,
+        "endOffset": 334,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142083,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "c777obpxn",
+        "text": "█  ",
+        "tags": [],
+        "line": 26,
+        "startOffset": 411,
+        "endOffset": 443,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142192,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "krukcm5j4",
+        "text": "█  ",
+        "tags": [],
+        "line": 28,
+        "startOffset": 488,
+        "endOffset": 520,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-为啥Mac启动台图标删不掉 - 少数派-H88ECEF.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142269,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-get_openai_callback dosent work with streaming = True · Issue 4583 · langchain-ailangchain-H8MB6HK.md": [
+      {
+        "id": "oqgfaduix",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 471,
+        "endOffset": 503,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-get_openai_callback dosent work with streaming = True · Issue 4583 · langchain-ailangchain-H8MB6HK.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142327,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-[分享] obsidian 日记数据跟踪图表 - 经验分享 - Obsidian 中文论坛-H8MAD33.md": [
+      {
+        "id": "nzzofrycb",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 375,
+        "endOffset": 407,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-[分享] obsidian 日记数据跟踪图表 - 经验分享 - Obsidian 中文论坛-H8MAD33.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142036,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-Pricing - Obsidian-H8MADM9.md": [
+      {
+        "id": "up5wto3b6",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 295,
+        "endOffset": 327,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-Pricing - Obsidian-H8MADM9.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142192,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-X 上的 LlamaIndex 🦙：“Using LLMs over knowledge graphs is increasingly common, and you can now explore 7 ways to query your-H8MB6KD.md": [
+      {
+        "id": "ybqymsnrn",
+        "text": "█  ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 606,
+        "endOffset": 638,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-X 上的 LlamaIndex 🦙：“Using LLMs over knowledge graphs is increasingly common, and you can now explore 7 ways to query your-H8MB6KD.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142530,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-Readwise --- 阅读-H8865MB.md": [
+      {
+        "id": "twcxc9bop",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 282,
+        "endOffset": 314,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-Readwise --- 阅读-H8865MB.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142183,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-Implement a way to abort  cancel request · Issue 5340 · langchain-ailangchain-H88C2MA.md": [
+      {
+        "id": "ptrol5sxu",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 445,
+        "endOffset": 477,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-Implement a way to abort  cancel request · Issue 5340 · langchain-ailangchain-H88C2MA.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142318,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-AboutTheGarden-H8M397K.md": [
+      {
+        "id": "ss1pr9n6w",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 308,
+        "endOffset": 340,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-AboutTheGarden-H8M397K.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1721910586712,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "w92rpauyy",
+        "text": "█  ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 394,
+        "endOffset": 426,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-AboutTheGarden-H8M397K.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1721910586798,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "5pq4psg90",
+        "text": "█  ",
+        "tags": [],
+        "line": 26,
+        "startOffset": 480,
+        "endOffset": 512,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-AboutTheGarden-H8M397K.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1721910586884,
+        "isNativeComment": false,
+        "color": "#a6ffe9",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-17. 更新日志-H8MAD35.md": [
+      {
+        "id": "5euwtbi9o",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 301,
+        "endOffset": 333,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-17. 更新日志-H8MAD35.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615141978,
+        "isNativeComment": false,
+        "color": "#ffc7ba",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-05. 实验中的功能-小助手和剪藏-H88C377.md": [
+      {
+        "id": "3ie867w8l",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 319,
+        "endOffset": 351,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-05. 实验中的功能-小助手和剪藏-H88C377.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615141989,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      },
+      {
+        "id": "69lf7ll9y",
+        "text": "█  ",
+        "tags": [],
+        "line": 24,
+        "startOffset": 392,
+        "endOffset": 424,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-05. 实验中的功能-小助手和剪藏-H88C377.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142062,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
+      }
+    ],
+    "Sources/WuCaiSync/2023/12/wucai-(1000+) Inoreader - Mainonly – 小书签：只显示网页上选中的区域适合使用《沉浸式翻译》-H886EKC.md": [
+      {
+        "id": "g3dzjj0ht",
+        "text": "█  ",
+        "tags": [],
+        "line": 22,
+        "startOffset": 415,
+        "endOffset": 447,
+        "filePath": "Sources/WuCaiSync/2023/12/wucai-(1000+) Inoreader - Mainonly – 小书签：只显示网页上选中的区域适合使用《沉浸式翻译》-H886EKC.md",
+        "footnoteCount": 0,
+        "footnoteContents": [],
+        "createdAt": 1748615142069,
+        "isNativeComment": false,
+        "color": "#ffff83",
+        "type": "html"
       }
     ]
   },

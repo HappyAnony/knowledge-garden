@@ -1,7 +1,7 @@
 ---
 title: » canvas使用经验
 date created: 2023-02-27
-date modified: 2025-07-29
+date modified: 2025-08-19
 publish: true
 ---
 
@@ -21,6 +21,7 @@ publish: true
 
 ## 使用技巧
 
+- 2025-8-19：可以使用canvas做临时中转台，然后将想要移动的文件先拖进来，接着批量框选文件，批量移动，很方便。或者使用[[File Cooker]]，有几个可以批量插入链接到canvas的命令。
 - canvas选中文件，然后使用 move to 功能，可以很方便转移文件到指定文件夹。
 - 将canvas pin以后，双击白板内的md文件的标题，会在另一个tab页中打开该文件，非常实用。
 - 要检索某个md文件或canvas文件，是否被其他canvas引用，目前反向链接面板无数据，可以通过[[Omnisearch]]搜索，曲线救国实现。
@@ -44,7 +45,6 @@ publish: true
 使用[[canvas candy]]
 
 当然，[[Advanced Canvas]]插件本身就已经有很多预置的美化可以使用了。
-
 
 ## canvas的卡片移动至不同group，联动改变其properties
 

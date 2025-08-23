@@ -16,6 +16,10 @@ div[data-path='logseq'] + div.nav-folder-children
   display: none;
 }
 
+.nav-file-title[data-path="AGENTS.md"] {
+  display: none;
+}
+
 .nav-file-title[data-path="cedict_ts.u8"] {
   display: none;
 }

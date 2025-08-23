@@ -371,6 +371,8 @@
   "escapeCmdChar": "!",
   "mobileLauncher": {
     "isEnabled": true,
+    "isMobileButtonEnabled": true,
+    "isEmptyTabButtonEnabled": true,
     "modeString": "Standard",
     "iconName": "",
     "coreLauncherButtonIconSelector": "span.clickable-icon",

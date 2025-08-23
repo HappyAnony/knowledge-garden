@@ -9,6 +9,8 @@ rating: 6
 当前使用频率: 5
 title: Commander
 publish: true
+aliases:
+  - cmdr
 ---
 
 必备
