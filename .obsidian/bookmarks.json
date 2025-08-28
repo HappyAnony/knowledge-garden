@@ -203,13 +203,8 @@
             },
             {
               "type": "file",
-              "ctime": 1756151828274,
-              "path": "Atlas/Canvas/111111.canvas"
-            },
-            {
-              "type": "file",
-              "ctime": 1756151815209,
-              "path": "Atlas/Canvas/🌌 数字花园生态系统全景图-glm4.5生成.canvas"
+              "ctime": 1756154510069,
+              "path": "Atlas/Canvas/内网穿透原理解析.canvas"
             }
           ],
           "title": "canvas"
@@ -240,11 +235,6 @@
             }
           ],
           "title": "images"
-        },
-        {
-          "type": "file",
-          "ctime": 1756154510069,
-          "path": "Atlas/Canvas/内网穿透原理解析.canvas"
         }
       ],
       "title": "publish"
